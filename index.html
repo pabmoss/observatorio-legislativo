@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#153849">
+  <meta name="description" content="Observatorio Legislativo del despacho del H.S. Carlos Eduardo Enríquez Caicedo. Seguimiento documental, fichas de proyectos de ley y agenda legislativa.">
+  <title>Observatorio Legislativo | Despacho del H.S. Carlos Eduardo Enríquez Caicedo</title>
+  <link rel="stylesheet" href="assets/estilos.css">
+  <script defer src="data/proyectos.js"></script>
+  <script defer src="data/novedades.js"></script>
+  <script defer src="data/estado_fuentes.js"></script>
+  <script defer src="assets/aplicacion.js"></script>
+  <script defer src="assets/novedades.js"></script>
+</head>
+<body>
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<header class="topbar">
+ <div class="shell topbar-inner">
+  <div class="brand-icon" aria-hidden="true"><span>OL</span></div>
+  <div class="brand-text"><strong>Observatorio Legislativo</strong><span>Despacho del H.S. Carlos Eduardo Enríquez Caicedo</span></div>
+  <div class="topbar-right"><span class="edition-dot" aria-hidden="true"></span><span id="edicion">Edición documental · octubre 2026</span></div>
+ </div>
+</header>
+<div class="shell">
+ <div class="hero" id="inicio">
+   <div class="hero-content">
+      <div class="eyebrow"><span class="thin-line"></span> INFORMACIÓN Y SEGUIMIENTO PARLAMENTARIO</div>
+      <h1>Observatorio<br><em>Legislativo.</em></h1>
+      <p>Proyectos de ley, agenda de sesiones y documentos oficiales en un espacio de consulta diseñado para el trabajo legislativo.</p>
+      <div class="hero-bottom"><span id="corte">Corte documental: 28 de octubre de 2026</span><span class="point" aria-hidden="true">◆</span><span>Senado y Cámara de Representantes</span></div>
+   </div>
+   <aside class="hero-panel" aria-label="Resumen documental">
+      <div class="mini-heading">PANORAMA DOCUMENTAL</div>
+      <div class="big-stat"><span id="total-proyectos">22</span><span>proyectos en seguimiento</span></div>
+      <div class="panel-line"></div>
+      <div class="panel-info"><span>Última versión consultable</span><strong id="version-corte">28.10.2026</strong></div>
+      <div class="panel-info"><span>Actualización de fichas</span><strong>Versionada</strong></div>
+      <p class="panel-disclaimer">Los estados corresponden a las últimas evidencias documentales disponibles en este corte.</p>
+   </aside>
+ </div>
+ <main id="contenido">
+   <nav class="tabs" aria-label="Secciones del observatorio">
+      <button class="tab active" type="button" data-tab="proyectos" aria-current="page">Proyectos de ley</button>
+      <button class="tab" type="button" data-tab="agenda">Agenda legislativa</button>
+      <button class="tab" type="button" data-tab="novedades">Novedades oficiales</button>
+      <button class="tab" type="button" data-tab="metodologia">Archivo y metodología</button>
+   </nav>
+   <section class="section" id="panel-proyectos" aria-labelledby="proyectos-titulo">
+     <div class="section-head"><div><div class="label-overline">01 / SEGUIMIENTO</div><h2 id="proyectos-titulo">Proyectos legislativos</h2><p>Fichas individualizadas, documentos fuente y estado del trámite acreditado.</p></div><div class="result-total"><span id="resultados">22</span><small>resultados</small></div></div>
+     <div class="filters">
+       <label class="search-wrap"><span class="sr-only">Buscar proyectos</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.6" cy="10.6" r="6.5"></circle><path d="m16 16 5 5"></path></svg><input type="search" id="buscar" placeholder="Buscar por número, materia o contenido…" autocomplete="off"></label>
+       <label class="select-wrap"><span class="sr-only">Filtrar por comisión</span><select id="comisiones"><option value="">Todas las comisiones</option></select></label>
+       <label class="select-wrap"><span class="sr-only">Ordenar proyectos</span><select id="orden"><option value="documento">Orden del documento</option><option value="fecha">Sesión más reciente</option><option value="numero">Número de proyecto</option></select></label>
+     </div>
+     <div class="filter-note"><span class="notice-icon" aria-hidden="true">i</span><span>El estado de un proyecto se presenta como constancia documental; una sesión citada o una ponencia publicada no equivale a una aprobación.</span></div>
+     <div class="card-list" id="lista-proyectos" aria-live="polite"></div>
+     <div class="empty-state" id="sin-resultados" hidden>No encontramos coincidencias. Prueba con otro número, palabra clave o comisión.</div>
+   </section>
+   <section class="section" id="panel-agenda" aria-labelledby="agenda-titulo" hidden>
+     <div class="section-head"><div><div class="label-overline">02 / SESIONES</div><h2 id="agenda-titulo">Agenda legislativa</h2><p>Sesiones identificadas en las fichas documentales, con su actividad y soporte asociado.</p></div></div>
+     <div class="filter-note"><span class="notice-icon" aria-hidden="true">i</span><span>Agenda histórica del corte <span id="agenda-corte">28/10/2026</span>. No constituye calendario en tiempo real ni confirma celebración o resultados posteriores.</span></div>
+     <div id="agenda-lista" class="agenda-list"></div>
+   </section>
+   <section class="section" id="panel-novedades" aria-labelledby="novedades-titulo" hidden>
+     <div class="section-head"><div><div class="label-overline">03 / PUBLICACIONES OFICIALES</div><h2 id="novedades-titulo">Novedades detectadas</h2><p>Órdenes del día, agendas y gacetas identificadas directamente en fuentes públicas.</p></div><div class="result-total"><span id="total-novedades">0</span><small>enlaces</small></div></div>
+     <div class="filter-note"><span class="notice-icon" aria-hidden="true">i</span><span>La fecha de detección no equivale a la fecha de expedición o publicación oficial. Los enlaces se indexan automáticamente, pero su contenido y efectos jurídicos requieren verificación documental.</span></div>
+     <div class="updates-status"><strong id="estado-actualizacion">Monitoreo no ejecutado</strong><span id="fecha-actualizacion">No se ha registrado una consulta automática</span></div>
+     <div class="filters"><label class="search-wrap"><span class="sr-only">Buscar publicaciones</span><input type="search" id="buscar-novedades" placeholder="Buscar gaceta, comisión, número o fecha…" autocomplete="off"></label><label class="select-wrap"><span class="sr-only">Tipo de publicación</span><select id="tipo-novedad"><option value="">Todas las publicaciones</option><option value="orden_del_dia">Órdenes del día</option><option value="agenda">Agendas</option><option value="gaceta">Gacetas</option></select></label></div>
+     <div id="lista-novedades" class="updates-list" aria-live="polite"><p>Aún no se ha ejecutado el monitor oficial.</p></div>
+     <details class="source-disclosure"><summary>Estado de las fuentes y posibles incidencias</summary><div id="estado-fuentes">Sin ejecución registrada.</div></details>
+   </section>
+   <section class="section" id="panel-metodologia" aria-labelledby="metodologia-titulo" hidden>
+     <div class="section-head"><div><div class="label-overline">04 / CONTROL DOCUMENTAL</div><h2 id="metodologia-titulo">Archivo y metodología</h2><p>Fuentes, criterios de verificación y forma de actualización.</p></div></div>
+     <div class="method-grid">
+       <article class="method-card"><div class="method-index">01</div><h3>Fuentes primarias</h3><p>Se priorizan órdenes del día, textos radicados, ponencias, oficios de designación y publicaciones oficiales del Senado, la Cámara de Representantes y la Imprenta Nacional.</p></article>
+       <article class="method-card"><div class="method-index">02</div><h3>Hechos verificables</h3><p>Se separa la etapa del trámite de la actividad prevista para una sesión. La aparición de un proyecto en agenda no permite inferir su aprobación.</p></article>
+       <article class="method-card"><div class="method-index">03</div><h3>Cambios trazables</h3><p>La página visual y el archivo de datos son independientes. Cada actualización debe registrar fecha de corte y conservar referencias documentales.</p></article>
+     </div>
+     <div class="archive-panel"><div><div class="label-overline">ARCHIVO DISPONIBLE</div><h3>Fichas legislativas · <span id="archivo-corte">28 de octubre de 2026</span></h3><p>Versión de referencia utilizada para reconstruir este observatorio. El historial completo del sitio anterior requiere exportación por separado.</p></div><div class="archive-links"><a href="documentos/fichas-legislativas-2026-10-28-origen.docx" download>Descargar documento consolidado <span aria-hidden="true">↗</span></a><a href="data/proyectos.json" download>Descargar datos estructurados (JSON) <span aria-hidden="true">↗</span></a></div></div>
+   </section>
+ </main>
+</div>
+<footer class="footer"><div class="shell footer-grid"><div><strong>Observatorio Legislativo</strong><span>Despacho del H.S. Carlos Eduardo Enríquez Caicedo</span></div><p>Herramienta de consulta parlamentaria. Los documentos oficiales prevalecen sobre las síntesis informativas. No se atribuyen resultados legislativos sin soporte verificable.</p><a href="#inicio">Volver arriba ↑</a></div></footer>
+<dialog id="detalle" aria-labelledby="detalle-titulo" class="detail-dialog"><div class="dialog-body"><header class="dialog-header"><div><span class="modal-eyebrow">FICHA LEGISLATIVA / CORTE <span id="modal-corte">28.10.2026</span></span><h2 id="detalle-titulo"></h2><p id="detalle-subtitulo"></p></div><button id="cerrar" aria-label="Cerrar ficha" type="button" class="close">×</button></header><div id="detalle-contenido"></div></div></dialog>
+</body>
+</html>
