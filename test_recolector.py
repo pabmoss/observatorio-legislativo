@@ -19,6 +19,11 @@ class FakeSession:
   return FakeResponse(url,self.pages[url])
 
 class Tests(unittest.TestCase):
+ def test_fecha_documental_no_confunde_archivo_con_deteccion(self):
+  self.assertEqual(r.fecha_documental('7664-orden-del-dia-05-de-diciembre-de-2023/file'),'2023-12-05')
+  self.assertEqual(r.fecha_documental('Orden del día 28 de octubre de 2026'),'2026-10-28')
+  self.assertEqual(r.fecha_documental('28/10/2026'),'2026-10-28')
+  self.assertIsNone(r.fecha_documental('Archivo Senado 2026'))
  def test_orden_camara_ignora_enlaces_sin_fecha(self):
   src={'id':'camara-c4','nombre':'Cámara IV','url':'https://www.camara.gov.co/comision-cuarta-o-presupuesto/orden-del-dia-comision-cuarta-constitucional/'}
   html='<nav><a href="/evento/orden-del-dia-28-de-octubre-de-2026/">Orden del día 28 octubre 2026</a></nav><main><a href="/evento/orden-del-dia-28-de-octubre-de-2026/">Orden del día 28 octubre 2026</a><a href="/comision-cuarta">Orden del día</a></main>'

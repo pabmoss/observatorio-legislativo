@@ -74,6 +74,35 @@ def href(base,value):
  return url if valid_url(url) else None
 
 
+MESES={'enero':1,'febrero':2,'marzo':3,'abril':4,'mayo':5,'junio':6,'julio':7,'agosto':8,'septiembre':9,'setiembre':9,'octubre':10,'noviembre':11,'diciembre':12}
+
+def fecha_documental(text):
+ """Solo acepta fechas completas identificables en el título o ruta; nunca fecha de detección."""
+ value=norm(str(text).replace('_','-'))
+ value=re.sub(r'(?<=\d)(?=[a-z])','-',value)
+ patterns=[
+  r'(?<!\d)(20\d{2})[-/.](0?[1-9]|1[0-2])[-/.]([0-2]?\d|3[01])(?!\d)',
+  r'(?<!\d)([0-2]?\d|3[01])[-/.](0?[1-9]|1[0-2])[-/.](20\d{2})(?!\d)',
+  r'(?<!\d)([0-2]?\d|3[01])[-\s]+de?[-\s]+('+'|'.join(MESES)+r')[-\s]+de?[-\s]+(20\d{2})(?!\d)',
+  r'(?<!\d)([0-2]?\d|3[01])[-\s]+('+'|'.join(MESES)+r')[-\s]+(20\d{2})(?!\d)',
+ ]
+ for i,pat in enumerate(patterns):
+  m=re.search(pat,value)
+  if not m:continue
+  try:
+   if i==0:year,month,day=map(int,m.groups())
+   elif i==1:day,month,year=map(int,m.groups())
+   else:day=int(m.group(1));month=MESES[m.group(2)];year=int(m.group(3))
+   return dt.date(year,month,day).isoformat()
+  except ValueError:continue
+ return None
+
+def titulo_archivo(url):
+ parts=[x for x in urlparse(url).path.rstrip('/').split('/') if x and x!='file']
+ last=parts[-1] if parts else ''
+ last=re.sub(r'^\d{3,6}-','',last)
+ return clean(last.replace('-',' ').replace('_',' ').strip()).capitalize()
+
 def key_for(url,extra=''):
  return hashlib.sha256((url+'|'+extra).encode()).hexdigest()[:20]
 
@@ -94,6 +123,8 @@ def extract_anchors(html, source, *, force=False):
   target=href(source['url'],a.get('href'))
   if not target or target in seen:continue
   title=clean(a.get_text(' ',strip=True) or a.get('title') or '')
+  if norm(title) in ('documento','descargar','descarga','archivo','pdf'):
+   title=titulo_archivo(target) or title
   alt=norm(title+' '+target)
   if len(title)<9:continue
   if not force and not any(w in alt for w in ('orden del dia','orden-del-dia','agenda legislativa','citacion','plenaria','gaceta del congreso')):continue
@@ -101,7 +132,7 @@ def extract_anchors(html, source, *, force=False):
   # Evita el menú de navegación cuando no refiere a una publicación concreta.
   if not force and not re.search(r'20\d{2}|(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)|\d{1,2}[-/]\d{1,2}',alt):continue
   seen.add(target)
-  found.append({'titulo':title,'url':target,'fuente':source['nombre'],'fuente_id':source['id'],'clase':'orden_del_dia' if 'orden' in alt else 'agenda','identificador':key_for(target)})
+  found.append({'titulo':title,'url':target,'fuente':source['nombre'],'fuente_id':source['id'],'clase':'orden_del_dia' if 'orden' in alt else 'agenda','identificador':key_for(target),'fecha_documento_normalizada':fecha_documental(title+' '+target)})
  return found[:150]
 
 
@@ -158,7 +189,7 @@ def parse_sitemap(session, source, *, limit=6):
     if not valid_url(url) or '/evento/' not in url:continue
     p=urlparse(url).path.rstrip('/').split('/')[-1].replace('-',' ')
     if not any(k in norm(p) for k in ('orden del dia','plenaria','sesion conjunta','agenda comision')):continue
-    out.append({'titulo':p[:240].capitalize(),'url':url,'fuente':'Cámara · Eventos y órdenes del día','fuente_id':'camara-eventos','clase':'orden_del_dia','identificador':key_for(url)})
+    out.append({'titulo':p[:240].capitalize(),'url':url,'fuente':'Cámara · Eventos y órdenes del día','fuente_id':'camara-eventos','clase':'orden_del_dia','identificador':key_for(url),'fecha_documento_normalizada':fecha_documental(p+' '+url)})
   except Exception as e: failures.append(f'{mp}: {type(e).__name__} {e}')
  if failures and not out: raise ValueError('Fallaron sitemaps: '+ '; '.join(failures)[:180])
  return out
@@ -180,7 +211,7 @@ def parse_gacetas(html, source):
   for a in tr.select('a[href]'):
    u=href(source['url'],a.get('href'))
    if u:link=u;break
-  out.append({'titulo':f'Gaceta {num} · {entidad} · {fecha}','url':link,'fuente':source['nombre'],'fuente_id':'gacetas','clase':'gaceta','identificador':key_for('gaceta',num+'|'+entidad+'|'+fecha),'fecha_documento':fecha})
+  out.append({'titulo':f'Gaceta {num} · {entidad} · {fecha}','url':link,'fuente':source['nombre'],'fuente_id':'gacetas','clase':'gaceta','identificador':key_for('gaceta',num+'|'+entidad+'|'+fecha),'fecha_documento':fecha,'fecha_documento_normalizada':fecha_documental(fecha)})
  if not out:raise ValueError('El portal no expuso filas de Gacetas en HTML; requiere integración adicional con su formulario JSF')
  return out[:110]
 
@@ -259,12 +290,12 @@ def run(session=None,*,at=None):
    new_count+=1
   else:
    # Keep original detection date and any analyst annotations.
-   for field in ('titulo','url','fuente','fuente_id','clase','fecha_documento'):
+   for field in ('titulo','url','fuente','fuente_id','clase','fecha_documento','fecha_documento_normalizada'):
     if field in record:existing[k][field]=record[field]
  # Los metadatos adicionales se extraen solo de un subconjunto por ejecución.
  # No se publican como interpretación jurídica de los proyectos.
  enriched=0
- for rec in sorted(existing.values(),key=lambda x:x.get('primera_deteccion',''),reverse=True):
+ for rec in sorted(existing.values(),key=lambda x:(x.get('fecha_documento_normalizada') or '0000',x.get('primera_deteccion','')),reverse=True):
   if enriched>=7:break
   if rec.get('revisado_para_anexos'):continue
   if rec['identificador'] not in all_seen:continue
