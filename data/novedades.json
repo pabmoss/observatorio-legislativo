@@ -1,8 +1,20 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-28T23:21:42+00:00",
-  "nuevos_en_esta_consulta": 692,
+  "ultima_consulta": "2026-10-28T23:54:43+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1665 · Senado de la República · 28/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "89e913a1bd607a6a9336",
+      "fecha_documento": "28/10/2026",
+      "primera_deteccion": "2026-10-28T23:54:43+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00"
+    },
     {
       "titulo": "documento",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7664-orden-del-dia-05-de-diciembre-de-2023/file",
@@ -123,7 +135,13 @@
       "clase": "orden_del_dia",
       "identificador": "bc5f2473d9d637299d0e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7529-orden-del-dia-02-de-octubre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "documento",
@@ -133,7 +151,13 @@
       "clase": "orden_del_dia",
       "identificador": "ff4e2c06b67fbff0feaf",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7516-orden-del-dia-26-de-septiembre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "documento",
@@ -143,7 +167,13 @@
       "clase": "orden_del_dia",
       "identificador": "25acdf374ef7e00c2f12",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7511-orden-del-dia-19-de-septiembre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "documento",
@@ -153,7 +183,13 @@
       "clase": "orden_del_dia",
       "identificador": "90cb244bd6f71a5c9c13",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7510-orden-del-dia-audiencia-publica-18-de-septiembre-de-2023-9-00-am/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "documento",
@@ -163,7 +199,13 @@
       "clase": "orden_del_dia",
       "identificador": "1cb59eb4819d666653f0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7509-orden-del-dia-audiencia-publica-18-de-septiembre-de-2023-2-00-pm/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "documento",
@@ -173,7 +215,13 @@
       "clase": "orden_del_dia",
       "identificador": "e6d95457f5dbcaa85f1e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-28T23:54:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7508-orden-del-dia-audiencia-publica-20-de-septiembre-de-2023-9-00-am/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "documento",
