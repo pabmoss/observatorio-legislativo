@@ -1,0 +1,2 @@
+/* Generado: no editar manualmente */
+window.OBS_NOVEDADES={"metodologia":"La detección de enlaces oficiales no certifica contenidos, actos o resultados de votación","ultima_consulta":null,"nuevos_en_esta_consulta":0,"novedades":[]};
