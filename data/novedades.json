@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T09:27:49+00:00",
+  "ultima_consulta": "2026-10-29T10:25:31+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1058,7 +1058,13 @@
       "identificador": "8fa25aa7a3c7f36b34ad",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-14"
+      "fecha_documento_normalizada": "2026-09-14",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9553-orden-del-dia-14-de-septiembre-de-2026-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2 de sep de 2026 1 f131 1 1 1",
@@ -1537,7 +1543,13 @@
       "identificador": "6a6f7f8c3c9be5794b9e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-14"
+      "fecha_documento_normalizada": "2026-09-14",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/9552-orden-del-dia-14-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2 de sep de 2026 1 f131 1 1",
@@ -2665,7 +2677,13 @@
       "identificador": "d4d285963f2b78642258",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-16"
+      "fecha_documento_normalizada": "2026-09-16",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9555-orden-del-dia-sesion-16-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 15 de septiembre de 2026",
@@ -2676,7 +2694,13 @@
       "identificador": "4c02ae48f93b91593f55",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-15"
+      "fecha_documento_normalizada": "2026-09-15",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9554-orden-del-dia-sesion-15-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 8 de septiembre de 2026",
@@ -2687,7 +2711,13 @@
       "identificador": "a15e4015a694612f2546",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-08"
+      "fecha_documento_normalizada": "2026-09-08",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9543-orden-del-dia-sesion-8-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 2 de septiembre de 2026",
@@ -3296,7 +3326,8 @@
       "identificador": "36e5aecc7e4d9aea0bdc",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-18"
+      "fecha_documento_normalizada": "2026-09-18",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00"
     },
     {
       "titulo": "Orden del dia plenaria 15 10 2026",
@@ -4175,7 +4206,15 @@
       "identificador": "5aed7e0992df855d227d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MARTES-22-DE-SEPTIEMBRE-DE-2026-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia septiembre 23 de 2026",
