@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T03:22:50+00:00",
+  "ultima_consulta": "2026-10-29T04:23:05+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -3230,7 +3230,8 @@
       "identificador": "189f3562d6c122046f69",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-16"
+      "fecha_documento_normalizada": "2026-10-16",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00"
     },
     {
       "titulo": "Agenda legislativa del 28 de septiembre al 2 de octubre de 2026",
@@ -3274,7 +3275,15 @@
       "identificador": "8af771287826586eb3f3",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-15"
+      "fecha_documento_normalizada": "2026-10-15",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Plenaria-Orden-del-Dia-Proyectos-2026-10-15.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 14 10 2026",
@@ -3285,7 +3294,15 @@
       "identificador": "903d90cc89e77132c55e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-14"
+      "fecha_documento_normalizada": "2026-10-14",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Plenaria-Orden-del-Dia-Proyectos-2026-10-14-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 14 de 2026",
@@ -3329,7 +3346,15 @@
       "identificador": "21c87fc78a65db961b83",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-14"
+      "fecha_documento_normalizada": "2026-10-14",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-14-DE-OCTUBRE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion ordinaria 13 de octubre de 2026 debate de control politico",
@@ -3406,7 +3431,15 @@
       "identificador": "e80a053abd053d1aa877",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-15"
+      "fecha_documento_normalizada": "2026-10-15",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA.-15-DE-OCTUBRE-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 14 de octubre de 2026",
@@ -3417,7 +3450,15 @@
       "identificador": "46f55782f80319f2dc08",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-14"
+      "fecha_documento_normalizada": "2026-10-14",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Orden-del-dia-Sesion-Conjunta-14-de-octubre-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia jueves 15 de octubre 2025",
@@ -3439,7 +3480,15 @@
       "identificador": "c61230600602a6445412",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-14"
+      "fecha_documento_normalizada": "2026-10-14",
+      "revisado_para_anexos": "2026-10-29T04:23:05+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Orden-del-Dia-Miercoles-14-de-octubre-de-2026-Propos-04-010-014-y-027-MIN-AMBIENTE-Presupuesto.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 13 de octubre pl 010 y 575 de 2026",
