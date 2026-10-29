@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T04:23:05+00:00",
+  "ultima_consulta": "2026-10-29T05:21:15+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2580,7 +2580,13 @@
       "identificador": "a68c64fecd64d01a2627",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-13"
+      "fecha_documento_normalizada": "2026-10-13",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9657-orden-del-dia-sesion-13-de-octubre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 30 de septiembre de 2026",
@@ -2591,7 +2597,13 @@
       "identificador": "6462ffbeeced659e716b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-30"
+      "fecha_documento_normalizada": "2026-09-30",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9638-orden-del-dia-sesion-30-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 29 de septiembre de 2026",
@@ -2602,7 +2614,13 @@
       "identificador": "dd01ba197d4ae716fbff",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-29"
+      "fecha_documento_normalizada": "2026-09-29",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9617-orden-del-dia-sesion-29-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 23 de septiembre de 2026",
@@ -2613,7 +2631,13 @@
       "identificador": "f44975f35eae513e9c8b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-23"
+      "fecha_documento_normalizada": "2026-09-23",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9593-orden-del-dia-sesion-23-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 22 de septiembre de 2026",
@@ -2624,7 +2648,13 @@
       "identificador": "1787f0b0c81bd576d0ab",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9592-orden-del-dia-sesion-22-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 16 de septiembre de 2026",
@@ -3242,7 +3272,8 @@
       "identificador": "b11da004b6900ce95c03",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-02"
+      "fecha_documento_normalizada": "2026-10-02",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00"
     },
     {
       "titulo": "Agenda legislativa del 21 al 25 de septiembre de 2026",
@@ -3253,7 +3284,8 @@
       "identificador": "bd9e5c8ec863f29a716c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-25"
+      "fecha_documento_normalizada": "2026-09-25",
+      "revisado_para_anexos": "2026-10-29T05:21:15+00:00"
     },
     {
       "titulo": "Agenda legislativa del 14 al 18 de septiembre de 2026 1",
