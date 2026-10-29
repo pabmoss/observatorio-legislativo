@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T19:23:19+00:00",
+  "ultima_consulta": "2026-10-29T20:21:04+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1333,7 +1333,13 @@
       "identificador": "9b05fb97a197b6f6f25e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-19"
+      "fecha_documento_normalizada": "2026-05-19",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9386-orden-del-dia-anuncio-martes-19-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia presentacion",
@@ -2415,7 +2421,13 @@
       "identificador": "6ef31f38eced1e809cbc",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-20"
+      "fecha_documento_normalizada": "2026-05-20",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9391-orden-del-dia-sesion-20-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 19 de mayo de 2026",
@@ -2426,7 +2438,13 @@
       "identificador": "731810d07cff7da2996e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-19"
+      "fecha_documento_normalizada": "2026-05-19",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9381-orden-del-dia-sesion-19-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 12 de mayo de 2026",
@@ -2437,7 +2455,13 @@
       "identificador": "202cc1b0fd2c606be29b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-12"
+      "fecha_documento_normalizada": "2026-05-12",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9372-orden-del-dia-sesion-12-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 5 de mayo de 2026",
@@ -5316,7 +5340,15 @@
       "identificador": "09d3956cd7efb7ac4ef3",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-11"
+      "fecha_documento_normalizada": "2026-05-11",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/AGENDA-DEL-11-15-MAYO-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision ii orden del dia miercoles 6 de mayo de 2026",
@@ -5327,7 +5359,15 @@
       "identificador": "8b2a50999d8445b6d56f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-06"
+      "fecha_documento_normalizada": "2026-05-06",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-6-DE-MAYO-DE-2026-3.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 6 de mayo",
@@ -5349,7 +5389,15 @@
       "identificador": "ce5b3cdc75123ac3b9d9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-06"
+      "fecha_documento_normalizada": "2026-05-06",
+      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/Plenaria-Orden-del-Dia-Proyectos-2026-05-06.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia mayo 06 2026",
