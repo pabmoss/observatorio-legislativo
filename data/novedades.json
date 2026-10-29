@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T10:25:31+00:00",
+  "ultima_consulta": "2026-10-29T11:20:44+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1097,7 +1097,13 @@
       "identificador": "2324fce76c0f53767b43",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-19"
+      "fecha_documento_normalizada": "2026-08-19",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9475-orden-del-dia-19-de-agosto-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 12 de agosto de 2026",
@@ -2728,7 +2734,13 @@
       "identificador": "4dcc047607ffcb3466d9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-02"
+      "fecha_documento_normalizada": "2026-09-02",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9528-orden-del-dia-sesion-2-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 1 de septiembre de 2026",
@@ -2739,7 +2751,13 @@
       "identificador": "bfd6523285f118d7c684",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-01"
+      "fecha_documento_normalizada": "2026-09-01",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9527-orden-del-dia-sesion-1-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 26 de agosto de 2026",
@@ -2750,7 +2768,13 @@
       "identificador": "24c48511d850f6015d6b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-26"
+      "fecha_documento_normalizada": "2026-08-26",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9517-orden-del-dia-sesion-26-de-agosto-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Ordenes del día",
@@ -4258,7 +4282,15 @@
       "identificador": "60e497029f68e638bc5d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-24"
+      "fecha_documento_normalizada": "2026-08-24",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/AGENDA-SEMANA-DEL-24-al-28-DE-AGOSTO-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 19 08 2026",
@@ -4269,7 +4301,15 @@
       "identificador": "4f9e674aa5055f2f52d5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-19"
+      "fecha_documento_normalizada": "2026-08-19",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/Plenaria-Orden-del-Dia-Proyectos-2026-08-19.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia agosto 19 de 2026",
@@ -4313,7 +4353,15 @@
       "identificador": "b55b9afe946ff92514da",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-19"
+      "fecha_documento_normalizada": "2026-08-19",
+      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/Orden-del-dia-2026.08.19.-miercoles-19-de-agosto-de-2026-ACTA-001-Y-AGENDA.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia agosto 18 de 2026",
