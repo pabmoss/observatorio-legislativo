@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T16:29:27+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-10-29T17:27:23+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Gaceta 1666 · Senado de la República · 28/10/2026",
@@ -1231,7 +1231,13 @@
       "identificador": "c98035ce576d8e6dab9e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-10"
+      "fecha_documento_normalizada": "2026-06-10",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9409-orden-del-dia-miercoles-10-de-junio-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 09 de junio de 2026",
@@ -4999,7 +5005,15 @@
       "identificador": "c9bb7cb2ff5322c01480",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-16"
+      "fecha_documento_normalizada": "2026-06-16",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/COMISION-II-ORDEN-DEL-DIA-MARTES-16-DE-JUNIO-DE-2026-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia junio 16 2026 sesion conjunta",
@@ -5021,7 +5035,15 @@
       "identificador": "272335fe3b56a8f8dda5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-16"
+      "fecha_documento_normalizada": "2026-06-16",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Orden-del-dia-2026.06.16.-martes-16-de-junio-de-2026-vot-pls.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion ordinaria 16 de junio de 2026",
@@ -5032,7 +5054,15 @@
       "identificador": "26ea80db92f213a6db65",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-16"
+      "fecha_documento_normalizada": "2026-06-16",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/ORDEN-DEL-DIA-16-DE-JUNIO-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Agenda comision tercera semana comprendida entre el 15 de junio de 2026 al 19 de junio de 2026",
@@ -5043,7 +5073,15 @@
       "identificador": "6cb64a640d446e3acaaf",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-15"
+      "fecha_documento_normalizada": "2026-06-15",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/AGENDA-SEMANA-DEL-15-al-19-DE-JUNIO-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion ordinaria 10 de junio de 2026",
@@ -5054,7 +5092,15 @@
       "identificador": "2b4f6ba51b445992b33a",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-10"
+      "fecha_documento_normalizada": "2026-06-10",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/ORDEN-DEL-DIA-10-DE-JUNIO-DE-2026-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 10 06 2026",
@@ -5065,7 +5111,15 @@
       "identificador": "14cd28551271bccd0531",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-10"
+      "fecha_documento_normalizada": "2026-06-10",
+      "revisado_para_anexos": "2026-10-29T17:27:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Plenaria-Orden-del-Dia-Proyectos-2026-06-10-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C 4 orden del dia para la sesion ordinaria del miercoles 10 de junio de 2026 recinto de la comision cuarta victor renan barco lopez",
