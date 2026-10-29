@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T08:26:11+00:00",
+  "ultima_consulta": "2026-10-29T09:27:49+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -3917,7 +3917,15 @@
       "identificador": "6a5cf50881bf24fa9a89",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MARTES-29-DE-SEPTIEMBRE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 30 de septiembre de 2026",
@@ -3977,7 +3985,15 @@
       "identificador": "60398b51690d3d4d673e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/ORDEN-DEL-DIA-22-SEPTIEMBRE-.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 23 de septiembre prop 026 y 028",
@@ -4029,7 +4045,15 @@
       "identificador": "86dba792ee2e04eb467b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-23"
+      "fecha_documento_normalizada": "2026-09-23",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Plenaria-Orden-del-Dia-Proyectos-2026-09-23-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C4 orden del dia para la sesion de las comisiones economicas conjunta del martes 22 de septiembre de 2026 lugar salon eliptico del capitolio nacional hora 0600 p m",
@@ -4040,7 +4064,16 @@
       "identificador": "057b5690a6a0ddec23af",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/ORDEN-DEL-DIA-ANUNCIOS-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/CIRCULAR-.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia septiembre 23 de 2026 2",
@@ -4062,7 +4095,15 @@
       "identificador": "b34713aad19742122023",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-23"
+      "fecha_documento_normalizada": "2026-09-23",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-23-DE-SEPTIEMBRE-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 22 de septiembre prop 006009014 y 027 min agricultura",
@@ -4084,7 +4125,16 @@
       "identificador": "dae98b6217b0dbe00c06",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Plenaria-Orden-del-Dia-Mocion-de-Censura-MINDEFENSA2026-09-22-2.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Comunicado-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 22 de septiembre de 2026 2",
@@ -4095,7 +4145,15 @@
       "identificador": "11b92e29752eaa2d113d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22"
+      "fecha_documento_normalizada": "2026-09-22",
+      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/ORDEN-DEL-DIA-22-DE-SEPTIEMBRE_MODIFICADA-2.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia septiembre 22 de 2026",
