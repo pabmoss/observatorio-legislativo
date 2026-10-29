@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T02:25:05+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-10-29T03:22:50+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Gaceta 1676 · Senado de la República · 28/10/2026",
@@ -1030,7 +1030,13 @@
       "identificador": "9e87ca5ea8ae60fd054b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-20"
+      "fecha_documento_normalizada": "2026-10-20",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9670-orden-del-dia-sesion-conjunta-martes-20-de-octubre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia anuncio 22 1",
@@ -2523,7 +2529,13 @@
       "identificador": "d5173d993ad158311654",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-21"
+      "fecha_documento_normalizada": "2026-10-21",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9666-orden-del-dia-sesion-21-de-octubre-de-2026-barrancabermeja-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 21 de octubre de 2026 barrancabermeja",
@@ -2534,7 +2546,13 @@
       "identificador": "73310681b96bd16aa0f0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-21"
+      "fecha_documento_normalizada": "2026-10-21",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9665-orden-del-dia-sesion-21-de-octubre-de-2026-barrancabermeja/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 20 de octubre de 2026",
@@ -2545,7 +2563,13 @@
       "identificador": "c15d18b2908aee3e64c5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-20"
+      "fecha_documento_normalizada": "2026-10-20",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9664-orden-del-dia-sesion-20-de-octubre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 13 de octubre de 2026",
@@ -3194,7 +3218,8 @@
       "identificador": "5a6c3cf74ee889d1581f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-23"
+      "fecha_documento_normalizada": "2026-10-23",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00"
     },
     {
       "titulo": "Agenda legislativa del 13 al 16 de octubre de 2026",
@@ -7739,7 +7764,8 @@
       "fecha_documento": "27/10/2026",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-27"
+      "fecha_documento_normalizada": "2026-10-27",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00"
     },
     {
       "titulo": "Gaceta 1653 · Senado de la República · 27/10/2026",
@@ -7751,7 +7777,8 @@
       "fecha_documento": "27/10/2026",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-27"
+      "fecha_documento_normalizada": "2026-10-27",
+      "revisado_para_anexos": "2026-10-29T03:22:50+00:00"
     },
     {
       "titulo": "Gaceta 1651 · Senado de la República · 27/10/2026",
