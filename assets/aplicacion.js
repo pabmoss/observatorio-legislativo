@@ -42,8 +42,30 @@ function openDetail(p){$('#detalle-titulo').textContent=p.radicado;$('#detalle-s
  if(p.notas_documentales?.length)detailSection(body,'Notas de verificación',p.notas_documentales.join('\n\n'));
  const acts=el('div',{class:'detail-actions'});acts.append(el('span',{},'Corte documental: '+formalCorte),el('a',{href:p.documento_word,download:''},'Descargar ficha Word editable'));body.append(acts);
  const dialog=$('#detalle');dialog.showModal();dialog.scrollTop=0;}
+window.OBS_ABRIR_PROYECTO=openDetail;
 $('#cerrar').addEventListener('click',()=>$('#detalle').close());$('#detalle').addEventListener('click',e=>{if(e.target===$('#detalle'))$('#detalle').close()});
-function renderAgenda(){const groups=new Map();for(const p of data){const key=p.fecha_sesion??'sin-fecha';if(!groups.has(key))groups.set(key,[]);groups.get(key).push(p)}const target=$('#agenda-lista');target.replaceChildren();for(const [date,items]of [...groups.entries()].sort((a,b)=>b[0].localeCompare(a[0]))){let row=el('section',{class:'agenda-date'}),left=el('div',{class:'agenda-left'}),right=el('div',{class:'agenda-right'});left.append(el('b',{},date==='sin-fecha'?'Fecha no indicada':new Date(date+'T12:00:00').toLocaleDateString('es-CO',{day:'numeric',month:'long'})),el('span',{},date==='sin-fecha'?'Corte documental':date.slice(0,4)));for(const p of items){let inner=el('div',{class:'agenda-row'});inner.append(el('h3',{},p.radicado+' · '+p.titulo),el('p',{},p.sesion));const b=el('button',{type:'button'},'Consultar ficha');b.addEventListener('click',()=>openDetail(p));inner.append(b);right.append(inner)}row.append(left,right);target.append(row)}}
+function renderAgenda(){
+ const target=$('#agenda-lista');target.replaceChildren();
+ const full=window.OBS_SESIONES?.sesiones||[];
+ const used=new Set();
+ for(const sess of full){
+   const wrap=el('section',{class:'session-download'});
+   const head=el('div',{class:'session-head'}),info=el('div',{class:'session-title'});
+   info.append(el('div',{class:'label-overline'},'PLENARIA DOCUMENTADA'),el('h3',{},sess.titulo),el('p',{},`${sess.cantidad_fichas} fichas individuales · corte ${sess.corte_documental}`));
+   const link=el('a',{href:sess.documento_word,class:'session-word',download:''},'Descargar todas las fichas en Word');
+   head.append(info,link);wrap.append(head);
+   wrap.append(el('p',{class:'session-caveat'},'Documento único, organizado en tablas, diseñado para impresión y sin enlaces web. Incluye solo los proyectos documentados en el corte; no acredita exhaustividad ni resultados de votaciones.'));
+   const rows=el('div',{class:'session-items'});
+   for(const id of sess.ids_proyectos){const p=data.find(x=>x.id===id);if(!p)continue;used.add(id);
+     const card=el('div',{class:'session-item'});card.append(el('span',{},p.radicado+' · '+p.titulo));
+     const btn=el('button',{type:'button'},'Ver ficha');btn.addEventListener('click',()=>openDetail(p));card.append(btn);rows.append(card)}
+   wrap.append(rows);target.append(wrap)
+ }
+ const rest=data.filter(p=>!used.has(p.id));
+ if(rest.length){const section=el('section',{class:'other-sessions'});section.append(el('h3',{},'Otras sesiones del archivo'));
+   const grouped=new Map();for(const p of rest){const key=p.sesion.split('. Citada.')[0].split('. Realizada.')[0]||'Sesión documentada';if(!grouped.has(key))grouped.set(key,[]);grouped.get(key).push(p)}
+   for(const [key,items] of grouped){const container=el('div',{class:'other-session'});container.append(el('h4',{},key));for(const p of items){const row=el('div',{class:'session-item'});row.append(el('span',{},p.radicado+' · '+p.titulo));const b=el('button',{type:'button'},'Ver ficha');b.addEventListener('click',()=>openDetail(p));row.append(b);container.append(row)}section.append(container)}target.append(section)}
+}
 $('.tabs').addEventListener('click',e=>{const b=e.target.closest('button[data-tab]');if(!b)return;let active=b.dataset.tab;for(const v of ['proyectos','agenda','novedades','metodologia'])$('#panel-'+v).hidden=v!==active;document.querySelectorAll('.tab').forEach(tab=>{let activeTab=tab===b;tab.classList.toggle('active',activeTab);if(activeTab)tab.setAttribute('aria-current','page');else tab.removeAttribute('aria-current')});});
 $('#buscar').addEventListener('input',renderCards);$('#comisiones').addEventListener('change',renderCards);$('#orden').addEventListener('change',renderCards);
 renderCards();renderAgenda();
