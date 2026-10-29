@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-29T12:08:22+00:00",
+  "ultima_consulta": "2026-10-29T13:27:32+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -556,7 +556,13 @@
       "identificador": "903eb2253c30df26a4ba",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-07-30"
+      "fecha_documento_normalizada": "2026-07-30",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/orden-del-dia-17/9462-orden-del-di-a-jueves-30-de-julio-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 08 de octubre 2019",
@@ -1131,7 +1137,13 @@
       "identificador": "919d6a4ce5c6f0f22253",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-05"
+      "fecha_documento_normalizada": "2026-08-05",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9468-orden-del-dia-05-de-agosto-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion ordinaria miercoles 29 de julio de 2026",
@@ -4493,7 +4505,17 @@
       "identificador": "94f7bd51e4f3d8084e6b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-11"
+      "fecha_documento_normalizada": "2026-08-11",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/ORDEN-DEL-DIA-PRESENTACION-PGN-2027-1X.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/Circular-01-Sesion-Comisiones-Economicas-Conjuntas-2-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/Circular-02-SESIONES-CONJUNTAS-.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia agosto 11 de 2026",
@@ -4515,7 +4537,15 @@
       "identificador": "54ba40fd05a21a817e6b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-11"
+      "fecha_documento_normalizada": "2026-08-11",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/Plenaria-Orden-del-Dia-Proyectos-2026-08-11.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion conjunta 11 de agosto de 2026",
@@ -4526,7 +4556,15 @@
       "identificador": "676a25ac5af2d70c29dd",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-11"
+      "fecha_documento_normalizada": "2026-08-11",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/ORDEN-DEL-DIA-PRESENTACION-PGN-2026-1-1.docx.-1-1-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 11 de agosto de 2026",
@@ -4537,7 +4575,15 @@
       "identificador": "f497d0f31b30679296fa",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-11"
+      "fecha_documento_normalizada": "2026-08-11",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/ORDEN-DEL-DIA-MARTES-11-AGOSTO-2026-_Firmada_05.08.2026-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia congreso pleno 07 08 2026",
@@ -4548,7 +4594,15 @@
       "identificador": "a17a629b09003f1f7d0d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-07"
+      "fecha_documento_normalizada": "2026-08-07",
+      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/08/ORDEN-DEL-DIA-7-DE-AGOSTO-DE-2026-CONGRESO-PLENO.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 29 07 2025",
