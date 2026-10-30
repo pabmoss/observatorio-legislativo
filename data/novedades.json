@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-30T20:01:46+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-10-30T20:44:22+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1685 · Senado de la República · 29/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "7da42688bc54a65f1b51",
+      "fecha_documento": "29/10/2026",
+      "fecha_documento_normalizada": "2026-10-29",
+      "primera_deteccion": "2026-10-30T20:44:22+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00"
+    },
     {
       "titulo": "Gaceta 1688 · Senado de la República · 29/10/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -462,7 +475,15 @@
       "identificador": "54699cc1c2926ac72bf4",
       "fecha_documento_normalizada": "2025-09-02",
       "primera_deteccion": "2026-10-30T04:14:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-MARTES-2-DE-SEPTIEMBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision tercera o de hacienda y credito publico agenda comision tercera semana comprendida entre el 1 de septiembre de 2025 al 5 de septiembre de 2025",
@@ -473,7 +494,15 @@
       "identificador": "faba9afcd0f733580fd4",
       "fecha_documento_normalizada": "2025-09-01",
       "primera_deteccion": "2026-10-30T04:14:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/AGENDA-SEMANA-DEL-1-al-5-DE-SEPTIEMBRE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Gaceta 1690 · Senado de la República · 29/10/2026",
@@ -7857,7 +7886,16 @@
       "identificador": "d081364d3459ac63e0a2",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-11"
+      "fecha_documento_normalizada": "2025-09-11",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-SESION-CONJUNTA-JUEVES-11-SEPTIEMBRE-DE-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Comisiones-Economicas-Conjuntas-Honorables-Representantes-jueves-11-septiembre-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 cancelada orden del dia sesion comisiones economicas conjuntas miercoles 10 de septiembre de 2025 lugar salon eliptico capitolio nacional",
@@ -7868,7 +7906,17 @@
       "identificador": "e64b905cc16520c6d1d1",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-10"
+      "fecha_documento_normalizada": "2025-09-10",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MIERCOLES-10-SEPTIEMBRE-DE-2025_0.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Comisiones-Economicas-Conjuntas-Honorables-Representantes.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/CANCELACION-Citacion-Comisiones-Economicas-10-septiembre-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 modificacion hora 0100 pm orden del dia sesion de comisiones economicas conjuntas miercoles 24 de septiembre de 2025 la cual se llevara a cabo en el salon elip",
@@ -9311,7 +9359,15 @@
       "identificador": "174fde8987690af5e605",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-08-27"
+      "fecha_documento_normalizada": "2025-08-27",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/Plenaria-Orden-del-Dia-Estatuto-de-Oposicion-2025-08-27.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia 2025 08 27 miercoles 27 de agosto de 2025 vot pls anun 20250825",
@@ -9322,7 +9378,15 @@
       "identificador": "3fbb53f5986dec347855",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-08-27"
+      "fecha_documento_normalizada": "2025-08-27",
+      "revisado_para_anexos": "2026-10-30T20:44:22+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/Orden-del-Dia-2025-08-27-miercoles-27-de-agosto-de-2025-vot-pls-anun-20250825.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision primera constitucional permanente orden del dia 284",
