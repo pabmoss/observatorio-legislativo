@@ -1,8 +1,47 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-30T04:14:38+00:00",
-  "nuevos_en_esta_consulta": 24,
+  "ultima_consulta": "2026-10-30T05:08:09+00:00",
+  "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Gaceta 1689 · Senado de la República · 29/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "08e9eccf581b8a9e6930",
+      "fecha_documento": "29/10/2026",
+      "fecha_documento_normalizada": "2026-10-29",
+      "primera_deteccion": "2026-10-30T05:08:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00"
+    },
+    {
+      "titulo": "Gaceta 1687 · Senado de la República · 29/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "daa761363e5cc0ae6818",
+      "fecha_documento": "29/10/2026",
+      "fecha_documento_normalizada": "2026-10-29",
+      "primera_deteccion": "2026-10-30T05:08:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00"
+    },
+    {
+      "titulo": "Gaceta 1677 · Cámara de Representantes · 28/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "3107cd4fd2622a9e6cb7",
+      "fecha_documento": "28/10/2026",
+      "fecha_documento_normalizada": "2026-10-28",
+      "primera_deteccion": "2026-10-30T05:08:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00"
+    },
     {
       "titulo": "Orden del dia octubre 19 de 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-octubre-19-de-2026/",
@@ -159,7 +198,16 @@
       "identificador": "d6ee6b588cc42d1189ac",
       "fecha_documento_normalizada": "2026-05-12",
       "primera_deteccion": "2026-10-30T04:14:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-PRESENTACION-12-DE-MAYO-DE-2026.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/Reprogramacion-HORA-Citacion-Sesion-Conjuntas-Honorables-Representantes.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion ordinaria 25 de noviembre de 2025",
@@ -2925,7 +2973,13 @@
       "identificador": "1e34c9cce97e8f392761",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-04-07"
+      "fecha_documento_normalizada": "2026-04-07",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9295-orden-del-dia-sesion-7-de-abril-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 25 de marzo de 2026",
@@ -6825,7 +6879,15 @@
       "identificador": "d703bbccee0b61a0d58e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-04-14"
+      "fecha_documento_normalizada": "2026-04-14",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/ORDEN-DEL-DIA-14-ABRIL-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 14 de abril 2",
@@ -6847,7 +6909,15 @@
       "identificador": "4d39ae2d6d02b8f21cf8",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-04-14"
+      "fecha_documento_normalizada": "2026-04-14",
+      "revisado_para_anexos": "2026-10-30T05:08:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/Plenaria-Orden-del-Dia-Proyectos-2026-04-14.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia abril 14 2026",
