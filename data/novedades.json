@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-30T19:13:30+00:00",
+  "ultima_consulta": "2026-10-30T20:01:46+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -7879,7 +7879,20 @@
       "identificador": "860122e37911c40726cf",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-24"
+      "fecha_documento_normalizada": "2025-09-24",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-APROBACION-PL-102-DE-2025-Sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Comisiones-Economicas-Conjuntas-HR-Sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/1.-Modificacion-ORDEN-DEL-DIA-APROBACION-PL-102-D-2025-sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/2.-MODIFICACION-cItacion-Orden-del-Dia-Comisiones-Economicas-Conjuntas-Sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/REPROGRAMACION-HORA-Citacion-Comisiones-Conjuntas-24-09-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Reprogramado-Orden-del-dia-24-09-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia clc miercoles 3 de diciembre de 2025",
@@ -9157,7 +9170,17 @@
       "identificador": "07e7a6d72ab704b516a0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-10-01"
+      "fecha_documento_normalizada": "2025-10-01",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/aclaracion-y-reprogramacion-fecha-citacion-Sesion-Ordinaria-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/aclaracion-y-reprogramacion-fecha-citacion-Sesion-Ordinaria_0.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/reprogramacion-ORDEN-DEL-DIA-MIERCOLES-01-DE-OCTUBRE-DE-2025-ELECCION-DE-SECRETARIO-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 30 09 2025",
@@ -9168,7 +9191,15 @@
       "identificador": "0c66d1abafc717b58c08",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-30"
+      "fecha_documento_normalizada": "2025-09-30",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Plenaria-Orden-del-Dia-Proyectos-2025-09-30.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia 2025 09 30 martes 30 de septiembre de 2025 vot pls",
@@ -9179,7 +9210,16 @@
       "identificador": "023f4a58c9d395537d45",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-30"
+      "fecha_documento_normalizada": "2025-09-30",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/Orden%20del%20Dia%20%282025-09-30%29%20martes%2030%20de%20SEPTIEMBRE%20de%202025%20vot%20pls.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Orden-del-Dia-2025-09-30-martes-30-de-SEPTIEMBRE-de-2025-vot-pls.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision primera constitucional permanente orden del dia 291",
@@ -9201,7 +9241,14 @@
       "identificador": "f27138ef36fe502c9620",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-30"
+      "fecha_documento_normalizada": "2025-09-30",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision sexta o de transportes y comunicaciones orden del dia martes 30 de septiembre de 2025",
@@ -9212,7 +9259,15 @@
       "identificador": "cb4baadc33050c507864",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-09-30"
+      "fecha_documento_normalizada": "2025-09-30",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-MARTES-30-DE-SEPTIEMBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 reprogramacion orden del dia sesion de comision miercoles 01 de octubre de 2025 eleccion de secretario en el recinto de la comision cuarta victo",
@@ -9223,7 +9278,18 @@
       "identificador": "5f768bed75d019cb98de",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-10-01"
+      "fecha_documento_normalizada": "2025-10-01",
+      "revisado_para_anexos": "2026-10-30T20:01:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/aclaracion-y-reprogramacion-fecha-citacion-Sesion-Ordinaria.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/COMUNICACION-RESOLUCION-MD-No.-0936-del-24-de-septiembre-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Citacion-Sesion-Ordinaria-HR-martes-30-de-septiembre-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-ELECCION-DE-SECRETARIO-martes-30-de-spt-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 7",
