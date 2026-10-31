@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T04:22:02+00:00",
+  "ultima_consulta": "2026-10-31T05:10:12+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1437,7 +1437,13 @@
       "identificador": "8c9a7391a479a4d8f65c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-08-13"
+      "fecha_documento_normalizada": "2024-08-13",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8233-orden-del-dia-13-de-agosto-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 24 de julio de 2024 4",
@@ -1448,7 +1454,13 @@
       "identificador": "07fb3c86940b5c75b4be",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-07-24"
+      "fecha_documento_normalizada": "2024-07-24",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8175-orden-del-dia-24-de-julio-de-2024-4/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 04 de diciembre de 2019 11282019221035 8",
@@ -2045,7 +2057,8 @@
       "identificador": "d8003f77d33affadedf6",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-07-20"
+      "fecha_documento_normalizada": "2024-07-20",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2025 - 20 Julio 2026",
@@ -2471,7 +2484,13 @@
       "identificador": "7d0282b85ffd08b85e1f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-19"
+      "fecha_documento_normalizada": "2024-06-19",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8111-orden-del-dia-sesion-19-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 18 de junio de 2024",
@@ -2482,7 +2501,13 @@
       "identificador": "82eb5ca4062432df957c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-18"
+      "fecha_documento_normalizada": "2024-06-18",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8110-orden-del-dia-sesion-18-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 17 de junio de 2024",
@@ -2493,7 +2518,13 @@
       "identificador": "a1e3809255e28ee10ad9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-17"
+      "fecha_documento_normalizada": "2024-06-17",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8095-orden-del-dia-sesion-17-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 13 de junio de 2024 ciudad de pereira",
@@ -2504,7 +2535,13 @@
       "identificador": "f5c0772a40eb71d9930d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-13"
+      "fecha_documento_normalizada": "2024-06-13",
+      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8085-orden-del-dia-sesion-13-de-junio-de-2024-ciudad-de-pereira/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 12 de junio de 2024",
