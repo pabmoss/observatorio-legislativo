@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T17:02:03+00:00",
+  "ultima_consulta": "2026-10-31T17:37:35+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1128,7 +1128,13 @@
       "identificador": "b25642aec93e318c21a2",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3252-orden-del-dia-martes-10-de-diciembre/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA LUNES 09 DE DICIEMBRE 2019 ( jpg )",
@@ -1139,7 +1145,13 @@
       "identificador": "a67f9f6dfa3a3c37b75f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3238-orden-del-dia-lunes-09-de-diciembre-2019-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA LUNES 09 DE DICIEMBRE 2019 ( jpg )",
@@ -1150,7 +1162,13 @@
       "identificador": "b25e83be8254e5bb58ad",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3237-orden-del-dia-lunes-09-de-diciembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA MARTES 03 DE DICIEMBRE 2019 ( jpg, 93 KB )",
@@ -1161,7 +1179,13 @@
       "identificador": "5795309f80ec60b42f9c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3152-orden-del-dia-martes-03-de-diciembre-2019-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 27 de noviembre 2019",
@@ -1172,7 +1196,13 @@
       "identificador": "dd74f5f1e8120e6cce5f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3085-orden-del-dia-27-de-noviembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 20 de noviembre 2019",
@@ -1183,7 +1213,13 @@
       "identificador": "57f27049f92e174d8373",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2724-orden-del-dia-miercoles-20-de-noviembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 05 de noviembre 1",
@@ -1194,7 +1230,13 @@
       "identificador": "11972220b74b35188dc9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2674-orden-del-dia-martes-05-de-noviembre-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 05 de noviembre",
