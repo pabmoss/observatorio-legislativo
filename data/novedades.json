@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T00:22:29+00:00",
+  "ultima_consulta": "2026-10-31T01:37:25+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2793,7 +2793,13 @@
       "identificador": "01a156cb50d4bad615d5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-04"
+      "fecha_documento_normalizada": "2025-06-04",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8858-orden-del-dia-sesion-4-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 3 de junio de 2025",
@@ -2804,7 +2810,13 @@
       "identificador": "3202b06f8339b60255e1",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-03"
+      "fecha_documento_normalizada": "2025-06-03",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8851-orden-del-dia-sesion-3-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 30 de mayo de 2025",
@@ -2815,7 +2827,13 @@
       "identificador": "151b472308809df7a723",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-05-30"
+      "fecha_documento_normalizada": "2025-05-30",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8849-orden-del-dia-sesion-30-de-mayo-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 29 de mayo de 2025",
@@ -2826,7 +2844,13 @@
       "identificador": "5efe1d438ed0f2ec693c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-05-29"
+      "fecha_documento_normalizada": "2025-05-29",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8848-orden-del-dia-sesion-29-de-mayo-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 28 de mayo de 2025",
@@ -2837,7 +2861,13 @@
       "identificador": "a21305fa86d71eb2bb3d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-05-28"
+      "fecha_documento_normalizada": "2025-05-28",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8835-orden-del-dia-sesion-28-de-mayo-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 27 de mayo de 2025",
@@ -2848,7 +2878,13 @@
       "identificador": "c7e7893eb5f32ad15c97",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-05-27"
+      "fecha_documento_normalizada": "2025-05-27",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8834-orden-del-dia-sesion-27-de-mayo-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 21 de mayo de 2025",
@@ -2859,7 +2895,13 @@
       "identificador": "bfff7dc7c68d58d9ab1f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-05-21"
+      "fecha_documento_normalizada": "2025-05-21",
+      "revisado_para_anexos": "2026-10-31T01:37:25+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8817-orden-del-dia-sesion-21-de-mayo-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 20 de mayo de 2025",
