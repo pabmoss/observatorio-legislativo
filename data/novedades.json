@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T02:31:17+00:00",
+  "ultima_consulta": "2026-10-31T03:22:50+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -3252,7 +3252,13 @@
       "identificador": "a241a14cca4f540d67fe",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-04-14"
+      "fecha_documento_normalizada": "2025-04-14",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9311-orden-del-dia-sesion-14-de-abril-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 7 de abril de 2026",
@@ -3946,7 +3952,13 @@
       "identificador": "d415d4bf026cf4622eb9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-11-19"
+      "fecha_documento_normalizada": "2024-11-19",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8514-21-orden-del-dia-martes-19-de-noviembre-de-2024-proyectos-de-ley-acta-21/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "20 orden del dia miercoles 13 de noviembre de 2024 control politico proposicion 11 acta 20",
@@ -3957,7 +3969,13 @@
       "identificador": "4659f85772a43da43491",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-11-13"
+      "fecha_documento_normalizada": "2024-11-13",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8513-20-orden-del-dia-miercoles-13-de-noviembre-de-2024-control-politico-proposicion-11-acta-20/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "19 orden del dia miercoles 06 de noviembre de 2024 control politico proposicion 15 1",
@@ -3968,7 +3986,13 @@
       "identificador": "37e45c3146a1c539e282",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-11-06"
+      "fecha_documento_normalizada": "2024-11-06",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8483-19-orden-del-dia-miercoles-06-de-noviembre-de-2024-control-politico-proposicion-15-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "18 orden del dia para el martes 29 de octubre de 2024 or pl y aprob acta s 12a15 acta 17 3 1",
@@ -3979,7 +4003,13 @@
       "identificador": "cdb0535abf8fe5a6cfc3",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-10-29"
+      "fecha_documento_normalizada": "2024-10-29",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8482-18-orden-del-dia-para-el-martes-29-de-octubre-de-2024-or-pl-y-aprob-acta-s-12a15-acta-17-3-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "17 orden del dia para el martes 22 de octubre de 2024 or pl y aprob acta 11 acta 16 todos",
@@ -4001,7 +4031,13 @@
       "identificador": "6c48fdc39d13e0cfe152",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-10-29"
+      "fecha_documento_normalizada": "2024-10-29",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8480-18-orden-del-dia-para-el-martes-29-de-octubre-de-2024-or-pl-y-aprob-acta-s-12a15-acta-17-3/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "19 orden del dia miercoles 06 de noviembre de 2024 control politico proposicion 15",
@@ -4012,7 +4048,13 @@
       "identificador": "0bdfca6f893c9178c602",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-11-06"
+      "fecha_documento_normalizada": "2024-11-06",
+      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8479-19-orden-del-dia-miercoles-06-de-noviembre-de-2024-control-politico-proposicion-15/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "15 orden del dia jueves 03 de octubre de 2024 cp prop 12 stander quilichao acta 14",
