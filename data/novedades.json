@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T15:39:04+00:00",
+  "ultima_consulta": "2026-10-31T16:20:55+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1692,7 +1692,13 @@
       "identificador": "f738d07036aa8ef14dc2",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-12-04"
+      "fecha_documento_normalizada": "2019-12-04",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3149-orden-del-dia-miercoles-04-de-diciembre-de-2019-11282019221035-8/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 04 de diciembre de 2019 1",
@@ -1703,7 +1709,13 @@
       "identificador": "796ec785458305a1aa72",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-12-04"
+      "fecha_documento_normalizada": "2019-12-04",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3147-orden-del-dia-miercoles-04-de-diciembre-de-2019-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 27 de noviembre de 2019",
@@ -1714,7 +1726,13 @@
       "identificador": "6c0db35da62677dc9f93",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-27"
+      "fecha_documento_normalizada": "2019-11-27",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3073-orden-del-dia-27-de-noviembre-de-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 20 de noviembre de 2019 1",
@@ -1725,7 +1743,13 @@
       "identificador": "c7c02a871041da884804",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-20"
+      "fecha_documento_normalizada": "2019-11-20",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2787-orden-del-dia-miercoles-20-de-noviembre-de-2019-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 12 de noviembre de 2019 1",
@@ -1736,7 +1760,13 @@
       "identificador": "ec46ab6d13ebe4504069",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-12"
+      "fecha_documento_normalizada": "2019-11-12",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2710-orden-del-dia-martes-12-de-noviembre-de-2019-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 5 de noviembre de 2019 1",
@@ -1747,7 +1777,13 @@
       "identificador": "1483decd9a18b49d793f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-05"
+      "fecha_documento_normalizada": "2019-11-05",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2672-orden-del-dia-martes-5-de-noviembre-de-2019-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 01 de octubre de 2019",
@@ -1758,7 +1794,13 @@
       "identificador": "958b2b2d2b95426d761f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-10-01"
+      "fecha_documento_normalizada": "2019-10-01",
+      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2619-orden-del-dia-martes-01-de-octubre-de-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 24 de septiembre de 2019 conjuntas",
