@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T19:54:47+00:00",
+  "ultima_consulta": "2026-10-31T20:39:07+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2165,7 +2165,13 @@
       "identificador": "ac3ff6c1fc45d1b885a5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9534-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 19 de agosto de 2026",
@@ -2335,7 +2341,13 @@
       "identificador": "a3d33e261b773a2a9c13",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9390-orden-del-dia-aprobacion/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 20 de mayo de 2026 1",
@@ -2408,7 +2420,8 @@
       "identificador": "4678f45ad4e19eca9dc3",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00"
     },
     {
       "titulo": "Periodo Constitucional 2018 -2022",
@@ -2419,7 +2432,8 @@
       "identificador": "bc21a8778aaa0e6e5432",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00"
     },
     {
       "titulo": "Periodo Constitucional 2022 - 2026",
@@ -2430,7 +2444,8 @@
       "identificador": "cdf07fa5ab2ed337ad8a",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00"
     },
     {
       "titulo": "Periodo Constitucional 2026 - 2030",
@@ -2441,7 +2456,8 @@
       "identificador": "2c19272030f43a08a242",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2018 - 20 Julio 2019",
@@ -2560,7 +2576,8 @@
       "identificador": "f60c0320c1084417a863",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T20:39:07+00:00"
     },
     {
       "titulo": "Orden del Día",
