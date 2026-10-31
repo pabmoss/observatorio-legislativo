@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T08:46:59+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-10-31T09:25:31+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1702 · Cámara de Representantes · 30/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "8277116efea03e58ff18",
+      "fecha_documento": "30/10/2026",
+      "fecha_documento_normalizada": "2026-10-30",
+      "primera_deteccion": "2026-10-31T09:25:31+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00"
+    },
     {
       "titulo": "Orden del dia sesion 4 de noviembre de 2026",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9687-orden-del-dia-sesion-4-de-noviembre-de-2026/file",
@@ -2351,7 +2364,13 @@
       "identificador": "7acf136b64cf34bbf5c9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-31"
+      "fecha_documento_normalizada": "2023-05-31",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7191-orden-del-dia-sesion-31-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 30 de mayo de 2023",
@@ -2362,7 +2381,13 @@
       "identificador": "cc4d25bdaba08aa2dee2",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-30"
+      "fecha_documento_normalizada": "2023-05-30",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7190-orden-del-dia-sesion-30-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 24 de mayo de 2023",
@@ -2373,7 +2398,13 @@
       "identificador": "3e30e42ae53a1225a39d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-24"
+      "fecha_documento_normalizada": "2023-05-24",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7183-orden-del-di-a-sesion-24-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 23 de mayo de 2023",
@@ -2384,7 +2415,13 @@
       "identificador": "7e2c42e7d7ca4ec44dd0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-23"
+      "fecha_documento_normalizada": "2023-05-23",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7170-orden-del-dia-sesion-23-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 17 de mayo 2023 ciudad de pasto",
@@ -3965,7 +4002,13 @@
       "identificador": "938efc9e217581d9f945",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-06"
+      "fecha_documento_normalizada": "2023-06-06",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7221-45-orden-del-di-a-martes-6-de-junio-de-2023-proyectos-acta-45/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "44 orden del di a martes 30 de mayo de 2023 proyectos acta 44",
@@ -3976,7 +4019,13 @@
       "identificador": "d7d22c0f20fc7586c92c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-30"
+      "fecha_documento_normalizada": "2023-05-30",
+      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7197-44-orden-del-di-a-martes-30-de-mayo-de-2023-proyectos-acta-44/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "43 orden del di a martes 23 de mayo de 2023 anuncios actas acta 43",

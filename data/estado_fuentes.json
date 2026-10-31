@@ -1,5 +1,5 @@
 {
-  "ultima_consulta": "2026-10-31T08:46:59+00:00",
+  "ultima_consulta": "2026-10-31T09:25:31+00:00",
   "fuentes_ok": 9,
   "total_fuentes": 19,
   "fuentes": [
@@ -7,8 +7,8 @@
       "id": "senado-c1",
       "nombre": "Senado · Comisión Primera",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 20
     },
@@ -16,8 +16,8 @@
       "id": "senado-c2",
       "nombre": "Senado · Comisión Segunda",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 21
     },
@@ -25,8 +25,8 @@
       "id": "senado-c3",
       "nombre": "Senado · Comisión Tercera",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 23
     },
@@ -34,8 +34,8 @@
       "id": "senado-c4",
       "nombre": "Senado · Comisión Cuarta",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 36
     },
@@ -43,8 +43,8 @@
       "id": "senado-c5",
       "nombre": "Senado · Comisión Quinta",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 14
     },
@@ -52,8 +52,8 @@
       "id": "senado-c6",
       "nombre": "Senado · Comisión Sexta",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 122
     },
@@ -61,8 +61,8 @@
       "id": "senado-c7",
       "nombre": "Senado · Comisión Septima",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 47
     },
@@ -70,8 +70,8 @@
       "id": "senado-agenda",
       "nombre": "Senado · Agenda legislativa",
       "url": "https://www.senado.gov.co/index.php/component/sppagebuilder/?id=155&view=page",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 5
     },
@@ -79,7 +79,7 @@
       "id": "senado-plenaria",
       "nombre": "Senado · Orden del día de plenaria",
       "url": "https://www.secretariasenado.gov.co/index.php/orden-del-dia-senado",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": null,
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.secretariasenado.gov.co', port=443): Max retries exceeded with url: /index.php/orden-del-dia-senado (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.secretariasenado.gov.co', port=443) "
@@ -88,7 +88,7 @@
       "id": "camara-plenaria",
       "nombre": "Cámara · Orden del día de plenaria",
       "url": "https://www.camara.gov.co/secretaria-general/orden-del-dia-secretaria-general/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /secretaria-general/orden-del-dia-secretaria-general/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.gov.co', port=443"
@@ -97,7 +97,7 @@
       "id": "camara-eventos",
       "nombre": "Cámara · Eventos y órdenes del día",
       "url": "https://www.camara.gov.co/wp-sitemap.xml",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ValueError: No se pudo leer el índice de mapas oficiales: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.gov.co', p"
@@ -106,7 +106,7 @@
       "id": "camara-c1",
       "nombre": "Cámara · Comisión Primera",
       "url": "https://www.camara.gov.co/comision-primera-constitucional-permanente/orden-del-dia-comision-primera-constitucional-permanente/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-primera-constitucional-permanente/orden-del-dia-comision-primera-constitucional-permanente/ (Caused by ConnectTimeoutError(<HT"
@@ -115,7 +115,7 @@
       "id": "camara-c2",
       "nombre": "Cámara · Comisión Segunda",
       "url": "https://www.camara.gov.co/comision-segunda-o-de-relaciones-internacionales/orden-del-dia-comision-segunda-constitucional/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-segunda-o-de-relaciones-internacionales/orden-del-dia-comision-segunda-constitucional/ (Caused by ConnectTimeoutError(<HTTPSCo"
@@ -124,7 +124,7 @@
       "id": "camara-c3",
       "nombre": "Cámara · Comisión Tercera",
       "url": "https://www.camara.gov.co/comision-tercera-o-de-hacienda-y-credito-publico/orden-del-dia-comision-tercera-constitucional/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-tercera-o-de-hacienda-y-credito-publico/orden-del-dia-comision-tercera-constitucional/ (Caused by ConnectTimeoutError(<HTTPSCo"
@@ -133,7 +133,7 @@
       "id": "camara-c4",
       "nombre": "Cámara · Comisión Cuarta",
       "url": "https://www.camara.gov.co/comision-cuarta-o-presupuesto/orden-del-dia-comision-cuarta-constitucional/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-cuarta-o-presupuesto/orden-del-dia-comision-cuarta-constitucional/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c"
@@ -142,7 +142,7 @@
       "id": "camara-c5",
       "nombre": "Cámara · Comisión Quinta",
       "url": "https://www.camara.gov.co/comision-quinta-constitucional-permanente/orden-del-dia-comision-quinta-constitucional/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-quinta-constitucional-permanente/orden-del-dia-comision-quinta-constitucional/ (Caused by ConnectTimeoutError(<HTTPSConnection"
@@ -151,7 +151,7 @@
       "id": "camara-c6",
       "nombre": "Cámara · Comisión Sexta",
       "url": "https://www.camara.gov.co/comision-sexta-o-de-transportes-y-comunicaciones/orden-del-dia-comision-sexta-constitucional/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-sexta-o-de-transportes-y-comunicaciones/orden-del-dia-comision-sexta-constitucional/ (Caused by ConnectTimeoutError(<HTTPSConn"
@@ -160,7 +160,7 @@
       "id": "camara-c7",
       "nombre": "Cámara · Comisión Septima",
       "url": "https://www.camara.gov.co/comision-septima-constitucional-permanente/orden-del-dia-comision-septima-constitucional/",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
       "ultima_consulta_exitosa": "2026-10-30T23:40:12+00:00",
       "estado": "error",
       "error": "ConnectTimeout: HTTPSConnectionPool(host='www.camara.gov.co', port=443): Max retries exceeded with url: /comision-septima-constitucional-permanente/orden-del-dia-comision-septima-constitucional/ (Caused by ConnectTimeoutError(<HTTPSConnecti"
@@ -169,8 +169,8 @@
       "id": "gacetas",
       "nombre": "Imprenta Nacional · Gacetas del Congreso",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "ultima_consulta": "2026-10-31T08:46:59+00:00",
-      "ultima_consulta_exitosa": "2026-10-31T08:46:59+00:00",
+      "ultima_consulta": "2026-10-31T09:25:31+00:00",
+      "ultima_consulta_exitosa": "2026-10-31T09:25:31+00:00",
       "estado": "ok",
       "registros_en_indice": 10
     }
