@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T20:39:07+00:00",
+  "ultima_consulta": "2026-10-31T21:21:22+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2588,7 +2588,8 @@
       "identificador": "81d85095374bd16ceeea",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Primera Legislatura (2022-2023)",
@@ -2599,7 +2600,8 @@
       "identificador": "9c40e221810d12f59008",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Segunda Legislatura (2023-2024)",
@@ -2610,7 +2612,8 @@
       "identificador": "3e4b40b2940da9ebb333",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Tercera Legislatura (2024-2025)",
@@ -2621,7 +2624,8 @@
       "identificador": "0959c5c1c3a5406e96a4",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Cuarta Legislatura (2025-2026)",
@@ -2632,7 +2636,8 @@
       "identificador": "d7addeef2a5ccfab4b4b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Orden del dia 03 de abril de 2024",
@@ -2677,7 +2682,8 @@
       "identificador": "613c460f1b4837e8569a",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Segunda Legislatura (2027-2028)",
@@ -2688,7 +2694,8 @@
       "identificador": "1eb6e5b2185af28d05e5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T21:21:22+00:00"
     },
     {
       "titulo": "Tercera Legislatura (2028-2029)",
