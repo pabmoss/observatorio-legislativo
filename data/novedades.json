@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T05:10:12+00:00",
+  "ultima_consulta": "2026-10-31T05:59:33+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2552,7 +2552,13 @@
       "identificador": "5b40282136b3ba89bb7a",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-12"
+      "fecha_documento_normalizada": "2024-06-12",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8084-orden-del-dia-sesion-12-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 11 de junio de 2024",
@@ -2563,7 +2569,13 @@
       "identificador": "cd5478465dfb21f50f1f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-11"
+      "fecha_documento_normalizada": "2024-06-11",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8083-orden-del-dia-sesion-11-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 5 de junio de 2024",
@@ -2574,7 +2586,13 @@
       "identificador": "b77ba0da30c26f360fe1",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-05"
+      "fecha_documento_normalizada": "2024-06-05",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8051-orden-del-dia-sesion-5-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 4 de junio de 2024",
@@ -2585,7 +2603,13 @@
       "identificador": "6cd72d4f0f76a5e3a93d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-06-04"
+      "fecha_documento_normalizada": "2024-06-04",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8050-orden-del-dia-sesion-4-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 28 de mayo de 2024",
@@ -2596,7 +2620,13 @@
       "identificador": "8531fb362b03ff6a1e57",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-05-28"
+      "fecha_documento_normalizada": "2024-05-28",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8028-orden-del-dia-sesion-28-de-mayo-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 22 de mayo de 2024",
@@ -2607,7 +2637,13 @@
       "identificador": "e3c65db1b50027cbf1a2",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-05-22"
+      "fecha_documento_normalizada": "2024-05-22",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8024-orden-del-dia-sesion-22-de-mayo-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 24 de mayo de 2024 san andres isla",
@@ -2618,7 +2654,13 @@
       "identificador": "f5ed6574cc7f0ef2f9af",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-05-24"
+      "fecha_documento_normalizada": "2024-05-24",
+      "revisado_para_anexos": "2026-10-31T05:59:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8012-orden-del-dia-sesion-24-de-mayo-de-2024-san-andres-isla/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 21 de mayo de 2024",
