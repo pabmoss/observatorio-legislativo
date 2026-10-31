@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T16:20:55+00:00",
+  "ultima_consulta": "2026-10-31T17:02:03+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1094,7 +1094,13 @@
       "identificador": "659ae2da26a882a67d72",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3920-orden-del-dia-miercoles-18-de-marzo-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 11 de diciembre",
@@ -1105,7 +1111,13 @@
       "identificador": "094ecd527d9d365b6e93",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3259-orden-del-dia-miercoles-11-de-diciembre/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 10 de diciembre",
@@ -1811,7 +1823,13 @@
       "identificador": "60d7438007451041e84e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-09-24"
+      "fecha_documento_normalizada": "2019-09-24",
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2615-orden-del-dia-martes-24-de-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia lunes 23 de septiembre de 2019 conjuntas",
@@ -1822,7 +1840,13 @@
       "identificador": "b7739a22e6edd6a02f1b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-09-23"
+      "fecha_documento_normalizada": "2019-09-23",
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2603-orden-del-dia-lunes-23-de-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 11 de septiembre de 2019 conjuntas",
@@ -1833,7 +1857,13 @@
       "identificador": "d1d873d432eacbeb5a32",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-09-11"
+      "fecha_documento_normalizada": "2019-09-11",
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2443-orden-del-dia-miercoles-11-de-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia lunes 9 septiembre de 2019 conjuntas",
@@ -2254,7 +2284,8 @@
       "identificador": "6b5062572bce06250617",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2018-07-20"
+      "fecha_documento_normalizada": "2018-07-20",
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2019 - 20 Julio 2020",
@@ -2265,7 +2296,8 @@
       "identificador": "66a825dd6d29b4c2f174",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-07-20"
+      "fecha_documento_normalizada": "2019-07-20",
+      "revisado_para_anexos": "2026-10-31T17:02:03+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2020 - 20 Julio 2021",
