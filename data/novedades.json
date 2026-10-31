@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T21:58:52+00:00",
+  "ultima_consulta": "2026-10-31T22:39:02+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -4481,7 +4481,8 @@
       "identificador": "efc37e95361b12c08264",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00"
     },
     {
       "titulo": "01 orden del di a martes 25 de julio de 2023 eleccio n mesa directiva",
@@ -4543,7 +4544,13 @@
       "identificador": "ed67d79f541835cc522d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7230-orden-del-di-a/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "46 orden del di a mie rcoles 7 de junio de 2023 proyectos acta 46",
@@ -4775,7 +4782,13 @@
       "identificador": "b59107ce7d85db131791",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7127-32-orden-del-di-a-mie-rcoles-29-marzo-de-2023-proyectos-acta-32-mujer-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "33 orden del dia martes 11 de abril de 2023 control politico cnsc acta 33 2",
@@ -4820,7 +4833,13 @@
       "identificador": "a9a9e36c1acf1a4e5c0e",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8536-23-citacion-sesion-ordinaria-discusion-y-votacion-pl-martes-03dic24-acta-23/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "22 citacion sesion ordinaria discusion y votacion pl y actas martes 26nov24 acta 22",
@@ -4831,7 +4850,13 @@
       "identificador": "cd7cd81ef2c3b3995bea",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8535-22-citacion-sesion-ordinaria-discusion-y-votacion-pl-y-actas-martes-26nov24-acta-22/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "21 orden del dia martes 19 de noviembre de 2024 proyectos de ley acta 21",
@@ -4978,7 +5003,13 @@
       "identificador": "2cc8d89665e39797a44d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8411-13-orden-del-dia-miercoles-25-sep2024-cp-prop-06-asbesto-sibate-acta-12-3/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "14 orden del dia martes 01 de octubre de 2024 or pl y aprob actas 8 9 10 acta 13",
@@ -5091,7 +5122,13 @@
       "identificador": "1f78ac781d319576e131",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8404-06-orden-del-di-a-martes-03-septiembre-de-2024-presupuesto-1-acta-06-f3/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "07 orden del dia jueves 05 septiembre de 2024 presupuesto 2 acta 07",
