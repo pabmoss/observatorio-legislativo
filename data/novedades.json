@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T07:54:47+00:00",
+  "ultima_consulta": "2026-10-31T08:46:59+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2283,7 +2283,13 @@
       "identificador": "0df1ac7382c2f02e6ff6",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-14"
+      "fecha_documento_normalizada": "2023-06-14",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7242-orden-del-dia-sesion-14-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 13 de junio de 2023",
@@ -2294,7 +2300,13 @@
       "identificador": "fb41510b8ad1d6506c3f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-13"
+      "fecha_documento_normalizada": "2023-06-13",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7240-orden-del-dia-sesion-13-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 7 de junio de 2023",
@@ -2305,7 +2317,13 @@
       "identificador": "7cd996afdea3006eedd3",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-07"
+      "fecha_documento_normalizada": "2023-06-07",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7223-orden-del-dia-sesion-7-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 6 de junio de 2023",
@@ -2316,7 +2334,13 @@
       "identificador": "0f5088eb5e8464a1a732",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-06"
+      "fecha_documento_normalizada": "2023-06-06",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7214-orden-del-dia-sesion-6-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 31 de mayo de 2023",
@@ -3879,7 +3903,13 @@
       "identificador": "53f63d58ee7431eaaa73",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-20"
+      "fecha_documento_normalizada": "2023-06-20",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7246-50-orden-del-di-a-martes-20-de-junio-de-2023-proyectos-acta-50/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a martes 13 de junio de 2023 proyectos",
@@ -3890,7 +3920,13 @@
       "identificador": "dc48f9c5d429d66fe7c0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-13"
+      "fecha_documento_normalizada": "2023-06-13",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7237-orden-del-di-a-martes-13-de-junio-de-2023-proyectos/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a",
@@ -3912,7 +3948,13 @@
       "identificador": "4cd360bb58e228e5ff3b",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-07"
+      "fecha_documento_normalizada": "2023-06-07",
+      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7224-46-orden-del-di-a-mie-rcoles-7-de-junio-de-2023-proyectos-acta-46/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "45 orden del di a martes 6 de junio de 2023 proyectos acta 45",
