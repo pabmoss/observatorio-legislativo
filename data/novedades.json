@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T23:18:26+00:00",
+  "ultima_consulta": "2026-10-31T23:55:16+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -5233,7 +5233,13 @@
       "identificador": "5c6cbf1f8dfd9d421cbc",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:55:16+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/9533-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Agenda legislativa del 19 al 23 de octubre de 2026",
