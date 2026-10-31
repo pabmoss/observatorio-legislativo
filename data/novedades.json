@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T12:22:25+00:00",
+  "ultima_consulta": "2026-10-31T13:26:53+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1009,7 +1009,13 @@
       "identificador": "0500b49693a459b0eb22",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-03-31"
+      "fecha_documento_normalizada": "2023-03-31",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7010-orden-del-dia-31-de-marzo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 28 de marzo de 2023 1",
@@ -1020,7 +1026,13 @@
       "identificador": "49a8798276cbec6f834d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-03-28"
+      "fecha_documento_normalizada": "2023-03-28",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7004-orden-del-dia-28-de-marzo-de-2023-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 28 de febrero de 2023",
@@ -1031,7 +1043,13 @@
       "identificador": "90405fde1c7327230ca5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-02-28"
+      "fecha_documento_normalizada": "2023-02-28",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6940-orden-del-dia-28-de-febrero-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 15 de febrero de 2023",
@@ -1042,7 +1060,13 @@
       "identificador": "1d0a6c55bbde2cd5be3d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-02-15"
+      "fecha_documento_normalizada": "2023-02-15",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6926-orden-del-dia-15-de-febrero-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Agenda legislativa del 15 al 18 de noviembre de 2022 1",
@@ -2672,7 +2696,13 @@
       "identificador": "87fc45bb52ce0d69fd88",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-03-29"
+      "fecha_documento_normalizada": "2023-03-29",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7008-orden-del-di-a-sesion-29-de-marzo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 28 de marzo de 2023",
@@ -2683,7 +2713,13 @@
       "identificador": "42518de768145a2a2405",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-03-28"
+      "fecha_documento_normalizada": "2023-03-28",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/6997-orden-del-di-a-sesion-28-de-marzo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 19 de junio de 2024",
@@ -4364,7 +4400,13 @@
       "identificador": "2d78e282de58bdffbd5c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-03-21"
+      "fecha_documento_normalizada": "2023-03-21",
+      "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7126-30-orden-del-di-a-martes-21-de-marzo-de-2023-proyectos-acta-30/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "23 citacion sesion ordinaria discusion y votacion pl martes 03dic24 acta 23",
