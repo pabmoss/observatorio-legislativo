@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T10:55:53+00:00",
-  "nuevos_en_esta_consulta": 2,
+  "ultima_consulta": "2026-10-31T11:40:02+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Gaceta 1693 · Cámara de Representantes · 30/10/2026",
@@ -958,7 +958,13 @@
       "identificador": "66b6d3322bac72df739c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-26"
+      "fecha_documento_normalizada": "2023-04-26",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7063-orden-del-dia-26-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 19 de abril de 2023",
@@ -969,7 +975,13 @@
       "identificador": "101142122396e1c7da9d",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-19"
+      "fecha_documento_normalizada": "2023-04-19",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7045-orden-del-dia-19-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 12 de abril de 2023",
@@ -2552,7 +2564,13 @@
       "identificador": "cefe61905ad48e27bde1",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-26"
+      "fecha_documento_normalizada": "2023-04-26",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7052-orden-del-dia-sesion-26-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 25 de abril de 2023",
@@ -2563,7 +2581,13 @@
       "identificador": "bc10e707c981c68081d2",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-25"
+      "fecha_documento_normalizada": "2023-04-25",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7051-orden-del-dia-sesion-25-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion19 de abril de 2023",
@@ -2574,7 +2598,13 @@
       "identificador": "a7b22e86ea1137ce12aa",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-19"
+      "fecha_documento_normalizada": "2023-04-19",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7044-orden-del-dia-sesion19-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 18 de abril de 2023",
@@ -4214,7 +4244,13 @@
       "identificador": "57df98f1fc78ee8dca60",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-19"
+      "fecha_documento_normalizada": "2023-04-19",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7131-36-orden-del-di-a-mie-rcoles-19-de-abril-de-2023-proyectos-acta-36/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "37 orden del di a martes 25 de abril de 2023 proyectos acta 37 1",
@@ -4225,7 +4261,13 @@
       "identificador": "00d44fda42fec9b7fe84",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-25"
+      "fecha_documento_normalizada": "2023-04-25",
+      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7132-37-orden-del-di-a-martes-25-de-abril-de-2023-proyectos-acta-37-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "35 orden del dia martes 18 de abril de 2023 control politico mi casa ya acta 35",
