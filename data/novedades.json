@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-30T23:40:12+00:00",
+  "ultima_consulta": "2026-10-31T00:22:29+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -2056,7 +2056,8 @@
       "identificador": "1f2dc9398a2a509bdc96",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-07-20"
+      "fecha_documento_normalizada": "2025-07-20",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2026 - 20 Julio 2027",
@@ -2690,7 +2691,13 @@
       "identificador": "af48b888ba79c2406539",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-19"
+      "fecha_documento_normalizada": "2025-06-19",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8883-orden-del-dia-sesion-19-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 18 de junio de 2025",
@@ -2701,7 +2708,13 @@
       "identificador": "a5b14b7d3aa8e60d5d53",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-18"
+      "fecha_documento_normalizada": "2025-06-18",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8882-orden-del-dia-sesion-18-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 17 de junio de 2025",
@@ -2712,7 +2725,13 @@
       "identificador": "a357cf9bbeb3b391eafd",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-17"
+      "fecha_documento_normalizada": "2025-06-17",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8881-orden-del-dia-sesion-17-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 16 de junio de 2025",
@@ -2723,7 +2742,13 @@
       "identificador": "81b400c3e01265b7af5f",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-16"
+      "fecha_documento_normalizada": "2025-06-16",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8878-orden-del-dia-sesion-16-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 11 de junio de 2025",
@@ -2734,7 +2759,13 @@
       "identificador": "f1a31c6c1432223ea507",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-11"
+      "fecha_documento_normalizada": "2025-06-11",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8874-orden-del-dia-sesion-11-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 9 de junio de 2025",
@@ -2745,7 +2776,13 @@
       "identificador": "a8d63d697d05f949aa67",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2025-06-09"
+      "fecha_documento_normalizada": "2025-06-09",
+      "revisado_para_anexos": "2026-10-31T00:22:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8872-orden-del-dia-sesion-9-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 4 de junio de 2025",
