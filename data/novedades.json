@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T14:16:46+00:00",
+  "ultima_consulta": "2026-10-31T14:56:24+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1365,7 +1365,13 @@
       "identificador": "8b9bb74259eee8c38ca9",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-06-20"
+      "fecha_documento_normalizada": "2020-06-20",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4213-orden-del-dia-20-de-junio-de-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 19 de junio de 2020",
@@ -1376,7 +1382,13 @@
       "identificador": "6ea805b63b870d062ebd",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-06-19"
+      "fecha_documento_normalizada": "2020-06-19",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4209-orden-del-dia-19-de-junio-de-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 17 de junio de 2020",
@@ -1387,7 +1399,13 @@
       "identificador": "241c9f7952cfbdcf5c49",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-06-17"
+      "fecha_documento_normalizada": "2020-06-17",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4205-orden-del-dia-17-de-junio-de-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 04 de junio 2020 xx",
@@ -1442,7 +1460,13 @@
       "identificador": "336afb007d3ac6df3e31",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-19"
+      "fecha_documento_normalizada": "2020-05-19",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4068-orden-del-dia-19-de-mayo-de-2020-xxx/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Xxx orden del dia 20 de mayo de 2020",
@@ -1453,7 +1477,13 @@
       "identificador": "4405463ec0f59105aebf",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-20"
+      "fecha_documento_normalizada": "2020-05-20",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4069-xxx-orden-del-dia-20-de-mayo-de-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Xxx orden del dia 14 de mayo de 2020",
@@ -1464,7 +1494,13 @@
       "identificador": "2733ed2a7fb2814b5ce5",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-14"
+      "fecha_documento_normalizada": "2020-05-14",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4021-xxx-orden-del-dia-14-de-mayo-de-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3s orden del di a 13 de mayo de 2020 1",
@@ -1475,7 +1511,13 @@
       "identificador": "5ff6540174663209dee1",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-13"
+      "fecha_documento_normalizada": "2020-05-13",
+      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4020-c3s-orden-del-di-a-13-de-mayo-de-2020-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3s orden del di a 13 de mayo de 2020 1 1",
