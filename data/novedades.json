@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T13:26:53+00:00",
+  "ultima_consulta": "2026-10-31T14:16:46+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1077,7 +1077,13 @@
       "identificador": "c8934fb9e8883e969caa",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-11-18"
+      "fecha_documento_normalizada": "2022-11-18",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6654-agenda-legislativa-del-15-al-18-de-noviembre-de-2022-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 18 de marzo 2020",
@@ -1325,7 +1331,13 @@
       "identificador": "1f8e4fce27c9eb143aaf",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-11-22"
+      "fecha_documento_normalizada": "2022-11-22",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/6671-orden-del-dia-22-de-noviembre-de-2022/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Agenda legislativa del 15 al 18 de noviembre de 2022 2",
@@ -1336,7 +1348,13 @@
       "identificador": "e54c3a42e52ee8874bc0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-11-18"
+      "fecha_documento_normalizada": "2022-11-18",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/6655-agenda-legislativa-del-15-al-18-de-noviembre-de-2022-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 20 de junio de 2020",
@@ -2132,7 +2150,8 @@
       "identificador": "f485eaf0798f4f8ffba0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-07-20"
+      "fecha_documento_normalizada": "2020-07-20",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2021 - 20 Julio 2022",
@@ -2143,7 +2162,8 @@
       "identificador": "85399a73174b3f86d340",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2021-07-20"
+      "fecha_documento_normalizada": "2021-07-20",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2022 - 20 Julio 2023",
@@ -2154,7 +2174,8 @@
       "identificador": "05bb9ec63ef5f6ae47df",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-07-20"
+      "fecha_documento_normalizada": "2022-07-20",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2023 - 20 Julio 2024",
@@ -4671,7 +4692,13 @@
       "identificador": "d4b20f0f813f1ff76d53",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-08-31"
+      "fecha_documento_normalizada": "2022-08-31",
+      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8407-09-orden-del-dia-miercoles-31-de-agosto-de-2022-9-de-la-manana-presupuesto-acta-09-f/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "06 orden del di a martes 03 septiembre de 2024 presupuesto 1 acta 06 f3",
