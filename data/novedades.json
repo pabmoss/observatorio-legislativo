@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-10-31T22:39:02+00:00",
+  "ultima_consulta": "2026-10-31T23:18:26+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -5139,7 +5139,13 @@
       "identificador": "9cf9c87c96c13781cee7",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8405-07-orden-del-dia-jueves-05-septiembre-de-2024-presupuesto-2-acta-07/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "05 orden del di a sesion mixta martes 27 de agosto 2024 discusion y votacion proyectos de ley acta 05",
@@ -5150,7 +5156,13 @@
       "identificador": "417d84e6e2c402001ea7",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8403-05-orden-del-di-a-sesion-mixta-martes-27-de-agosto-2024-discusion-y-votacion-proyectos-de-ley-acta-05/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Ordenes del Dia 2019",
@@ -5161,7 +5173,8 @@
       "identificador": "bc595afaaa74c1632566",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
     },
     {
       "titulo": "Ordenes del Día 2020",
@@ -5172,7 +5185,8 @@
       "identificador": "06e60114d1e3feda38e6",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
     },
     {
       "titulo": "Ordenes del Día 2021",
@@ -5183,7 +5197,8 @@
       "identificador": "f93fce88dc62dd5cf3a6",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
     },
     {
       "titulo": "Ordenes del día 2022",
@@ -5194,7 +5209,8 @@
       "identificador": "90bcfe30f256e273415c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
     },
     {
       "titulo": "Ordenes del día 2023",
@@ -5205,7 +5221,8 @@
       "identificador": "e41a47dfceab8e081ab0",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
     },
     {
       "titulo": "Orden del dia 1 de sep 2026 sesiones conjuntas 1",
