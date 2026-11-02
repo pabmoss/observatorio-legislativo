@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-02T09:29:25+00:00",
+  "ultima_consulta": "2026-11-02T10:32:04+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -9858,7 +9858,15 @@
       "identificador": "00832d7906dedd775055",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MIERCOLES-26-DE-NOVIEMBRE.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 orden del dia sesion comisiones economicas conjuntas jueves 11 de septiembre de 2025 lugar salon eliptico capitolio nacional",
@@ -10302,7 +10310,15 @@
       "identificador": "76d26f1fe11c0b832dd8",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Octubre-29-de-2025-Orden-del-dia-2.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion mixta jueves 30 de octubre de 2025",
@@ -10332,7 +10348,15 @@
       "identificador": "903613cf8c20055803a6",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Orden-del-dia-Sesion-6-de-noviembre-del-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2025 10 28 martes 28 de octubre de 2025 propo 019",
@@ -10419,7 +10443,15 @@
       "identificador": "272a5405254ca0e9c623",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Octubre-28-de-2025-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 28 10 2025",
@@ -10754,7 +10786,15 @@
       "identificador": "05e551396e11ccd75ad8",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Orden-del-dia-Sesion-23-de-octubre-del-2025-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision de etica y estatuto del congresista orden del dia 11",
@@ -10765,7 +10805,15 @@
       "identificador": "72c80b447cad0ccdef03",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/1-ORDEN-DEL-DIA-OCT-22-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision primera constitucional permanente orden del dia audiencia publica transporte mixto",
@@ -10776,7 +10824,16 @@
       "identificador": "6ac91f872df087060207",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null
+      "fecha_documento_normalizada": null,
+      "revisado_para_anexos": "2026-11-02T10:32:04+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-10/Octubre%2016%20de%202025%20-%20Orden%20del%20dia%20-%20AP.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Octubre-16-de-2025-Orden-del-dia-AP-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision de etica y estatuto del congresista orden del dia 22 de octubre de 2025",
