@@ -1,8 +1,42 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-03T19:55:52+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-03T20:51:28+00:00",
+  "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia para la sesion conjunta del dia miercoles 04 de noviembre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9692-orden-del-dia-para-la-sesion-conjunta-del-dia-miercoles-04-de-noviembre-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "de34119a55845feaea22",
+      "fecha_documento_normalizada": "2026-11-04",
+      "primera_deteccion": "2026-11-03T20:51:28+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-03T20:51:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9692-orden-del-dia-para-la-sesion-conjunta-del-dia-miercoles-04-de-noviembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia para la sesion conjunta del dia miercoles 03 de noviembre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9691-orden-del-dia-para-la-sesion-conjunta-del-dia-miercoles-03-de-noviembre-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "868fcaaf87c4d7499a4f",
+      "fecha_documento_normalizada": "2026-11-03",
+      "primera_deteccion": "2026-11-03T20:51:28+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-03T20:51:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9691-orden-del-dia-para-la-sesion-conjunta-del-dia-miercoles-03-de-noviembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Gaceta 1707 · Cámara de Representantes · 03/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13270,32 +13304,6 @@
       "fuente_id": "gacetas",
       "clase": "gaceta",
       "identificador": "930688dfa39e714e7ac8",
-      "fecha_documento": "28/10/2026",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-28",
-      "revisado_para_anexos": "2026-10-29T01:28:09+00:00"
-    },
-    {
-      "titulo": "Gaceta 1664 · Senado de la República · 28/10/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "5856a0ad51917cb87469",
-      "fecha_documento": "28/10/2026",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-28",
-      "revisado_para_anexos": "2026-10-29T01:28:09+00:00"
-    },
-    {
-      "titulo": "Gaceta 1663 · Cámara de Representantes · 28/10/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "6f8c0d947796ec718bad",
       "fecha_documento": "28/10/2026",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
