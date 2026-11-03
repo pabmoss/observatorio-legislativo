@@ -1,8 +1,34 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-03T15:55:53+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-03T16:59:07+00:00",
+  "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Gaceta 1707 · Cámara de Representantes · 03/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "595a86e12eddb4c285b9",
+      "fecha_documento": "03/11/2026",
+      "fecha_documento_normalizada": "2026-11-03",
+      "primera_deteccion": "2026-11-03T16:59:07+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-03T16:59:07+00:00"
+    },
+    {
+      "titulo": "Gaceta 1705 · Senado de la República · 30/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "5b3f72a5f0dc4e135e2c",
+      "fecha_documento": "30/10/2026",
+      "fecha_documento_normalizada": "2026-10-30",
+      "primera_deteccion": "2026-11-03T16:59:07+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-03T16:59:07+00:00"
+    },
     {
       "titulo": "Gaceta 1708 · Senado de la República · 03/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13275,32 +13301,6 @@
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "fecha_documento_normalizada": "2026-10-28",
       "revisado_para_anexos": "2026-10-29T01:28:09+00:00"
-    },
-    {
-      "titulo": "Gaceta 1662 · Cámara de Representantes · 27/10/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "863824a998e0123b867c",
-      "fecha_documento": "27/10/2026",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-27",
-      "revisado_para_anexos": "2026-10-29T02:25:05+00:00"
-    },
-    {
-      "titulo": "Gaceta 1661 · Cámara de Representantes · 27/10/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "fbf483605b07c1b8d0f8",
-      "fecha_documento": "27/10/2026",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-27",
-      "revisado_para_anexos": "2026-10-29T02:25:05+00:00"
     }
   ]
 }
