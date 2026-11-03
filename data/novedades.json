@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-03T14:58:36+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-03T15:55:53+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1708 · Senado de la República · 03/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "a74f2b57b691dc7b2be8",
+      "fecha_documento": "03/11/2026",
+      "fecha_documento_normalizada": "2026-11-03",
+      "primera_deteccion": "2026-11-03T15:55:53+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-03T15:55:53+00:00"
+    },
     {
       "titulo": "Orden del dia clc octubre 21 de 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-clc-octubre-21-de-2026/",
@@ -13283,19 +13296,6 @@
       "fuente_id": "gacetas",
       "clase": "gaceta",
       "identificador": "fbf483605b07c1b8d0f8",
-      "fecha_documento": "27/10/2026",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-10-27",
-      "revisado_para_anexos": "2026-10-29T02:25:05+00:00"
-    },
-    {
-      "titulo": "Gaceta 1660 · Cámara de Representantes · 27/10/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "920d0837c1c495c01cd0",
       "fecha_documento": "27/10/2026",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
