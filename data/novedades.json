@@ -1,8 +1,34 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-04T13:55:58+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-04T14:57:46+00:00",
+  "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Gaceta 1696 · Cámara de Representantes · 30/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "bacf0dceaef009507f9e",
+      "fecha_documento": "30/10/2026",
+      "fecha_documento_normalizada": "2026-10-30",
+      "primera_deteccion": "2026-11-04T14:57:46+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00"
+    },
+    {
+      "titulo": "Gaceta 1695 · Cámara de Representantes · 30/10/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "b719b280e157ca72d86d",
+      "fecha_documento": "30/10/2026",
+      "fecha_documento_normalizada": "2026-10-30",
+      "primera_deteccion": "2026-11-04T14:57:46+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00"
+    },
     {
       "titulo": "Comision ii orden del dia martes 16 de diciembre de 2025",
       "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-16-de-diciembre-de-2025/",
@@ -712,7 +738,16 @@
       "identificador": "d081364d3459ac63e0a2",
       "fecha_documento_normalizada": "2025-09-11",
       "primera_deteccion": "2026-11-04T02:54:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-SESION-CONJUNTA-JUEVES-11-SEPTIEMBRE-DE-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Comisiones-Economicas-Conjuntas-Honorables-Representantes-jueves-11-septiembre-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 cancelada orden del dia sesion comisiones economicas conjuntas miercoles 10 de septiembre de 2025 lugar salon eliptico capitolio nacional",
@@ -723,7 +758,17 @@
       "identificador": "e64b905cc16520c6d1d1",
       "fecha_documento_normalizada": "2025-09-10",
       "primera_deteccion": "2026-11-04T02:54:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MIERCOLES-10-SEPTIEMBRE-DE-2025_0.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Comisiones-Economicas-Conjuntas-Honorables-Representantes.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/CANCELACION-Citacion-Comisiones-Economicas-10-septiembre-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 modificacion hora 0100 pm orden del dia sesion de comisiones economicas conjuntas miercoles 24 de septiembre de 2025 la cual se llevara a cabo en el salon elip",
@@ -734,7 +779,20 @@
       "identificador": "860122e37911c40726cf",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-04T02:54:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-APROBACION-PL-102-DE-2025-Sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Comisiones-Economicas-Conjuntas-HR-Sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/1.-Modificacion-ORDEN-DEL-DIA-APROBACION-PL-102-D-2025-sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/2.-MODIFICACION-cItacion-Orden-del-Dia-Comisiones-Economicas-Conjuntas-Sept-24-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/REPROGRAMACION-HORA-Citacion-Comisiones-Conjuntas-24-09-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Reprogramado-Orden-del-dia-24-09-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia clc miercoles 3 de diciembre de 2025",
@@ -3296,7 +3354,16 @@
       "identificador": "c8d9f4be027f549355c9",
       "fecha_documento_normalizada": "2025-09-09",
       "primera_deteccion": "2026-11-03T22:22:24+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/Orden%20del%20Dia%20%282025-09-09%29%20martes%209%20de%20septiembre%20de%202025%20vot%20pls%20anun%2020250902.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Orden-del-Dia-2025-09-09-martes-9-de-septiembre-de-2025-vot-pls-anun-20250902.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision primera constitucional permanente orden del dia 286",
@@ -3318,7 +3385,16 @@
       "identificador": "cfa7614009de880d0765",
       "fecha_documento_normalizada": "2025-09-09",
       "primera_deteccion": "2026-11-03T22:22:24+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-04T14:57:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/COMISION%20II%20ORDEN%20DEL%20DIA%20MARTES%209%20DE%20SEPTIEMBRE%20DE%20%202025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/COMISION-II-ORDEN-DEL-DIA-MARTES-9-DE-SEPTIEMBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision septima constitucional permanente orden del dia 09 de septiembre de 2025",
@@ -12391,44 +12467,6 @@
       "revisado_para_anexos": "2026-10-30T03:21:59+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/04/ORDEN-DEL-DIA-abril-15-de-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 2026 0415 miercoles 15 de abril de 2026 vot pls",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-0415-miercoles-15-de-abril-de-2026-vot-pls/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "7a36d90f9e65abf7ad63",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-04-15",
-      "revisado_para_anexos": "2026-10-30T03:21:59+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/04/Orden-del-dia-2026.0415.-muieroesl-15-de-abril-de-2026-vot-pls-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion conjunta 15 de abril de 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-sesion-conjunta-15-de-abril-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "f123885d88bd7c4785af",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-04-15",
-      "revisado_para_anexos": "2026-10-30T03:21:59+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/04/Orden-del-dia-Sesion-Conjunta-15-de-abril-de-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
