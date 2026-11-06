@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-06T18:25:54+00:00",
-  "nuevos_en_esta_consulta": 11,
+  "ultima_consulta": "2026-11-06T19:33:55+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Medellín ( jpeg, 490 KB )",
@@ -80,7 +80,13 @@
       "identificador": "6eed7190bcdd18c37d24",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-06T19:33:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9698-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-yopal/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Proposiciones no avaladas de articulos nuevos que quedan como constancias pl 177 26s 305 26c",
@@ -91,7 +97,13 @@
       "identificador": "e6aa55cef86bcb766d09",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-06T19:33:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9697-proposiciones-no-avaladas-de-articulos-nuevos-que-quedan-como-constancias-pl-177-26s-305-26c/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Proposiciones avaladas de articulos nuevos que quedan como constancias pl 177 26s 305 26c",
@@ -102,7 +114,13 @@
       "identificador": "b3eb896cfdecf6030ca1",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-06T19:33:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9696-proposiciones-avaladas-de-articulos-nuevos-que-quedan-como-constancias-pl-177-26s-305-26c/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 8 de septiembre",
@@ -113,7 +131,15 @@
       "identificador": "3a66e81c5d9d0705483d",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-06T19:33:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-07-at-10.58.23-AM.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C 4 orden del dia para la sesion de las comisiones economicas conjuntas del miercoles 20 de mayo de 2026 hora 0800 a m recinto salon eliptico del capitolio nacional",
