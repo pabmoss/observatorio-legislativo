@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-06T20:25:47+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-06T21:19:45+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1733 · Senado de la República · 05/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "e80d5810e5278d479d2f",
+      "fecha_documento": "05/11/2026",
+      "fecha_documento_normalizada": "2026-11-05",
+      "primera_deteccion": "2026-11-06T21:19:45+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-06T21:19:45+00:00"
+    },
     {
       "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Medellín ( jpeg, 490 KB )",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9702-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-medellin/file",
@@ -13276,25 +13289,6 @@
       "revisado_para_anexos": "2026-10-29T08:26:11+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/09/ORDEN-DEL-DIA-29-DE-SEPTIEMBRE-1_260924_092842.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision ii orden del dia martes 22 de septiembre de 2026 2",
-      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-22-de-septiembre-de-2026-2/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "6a5cf50881bf24fa9a89",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22",
-      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MARTES-29-DE-SEPTIEMBRE-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
