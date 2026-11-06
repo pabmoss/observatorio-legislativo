@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-06T12:09:30+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-06T13:32:27+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1717 · Cámara de Representantes · 04/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "ceead29a45673756f66b",
+      "fecha_documento": "04/11/2026",
+      "fecha_documento_normalizada": "2026-11-04",
+      "primera_deteccion": "2026-11-06T13:32:27+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-06T13:32:27+00:00"
+    },
     {
       "titulo": "Orden del dia martes 25 de agosto de 2025",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-25-de-agosto-de-2025/",
@@ -13309,25 +13322,6 @@
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/09/Plenaria-Orden-del-Dia-Mocion-de-Censura-MINDEFENSA2026-09-22-2.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2026/09/Comunicado-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 22 de septiembre de 2026 2",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-22-de-septiembre-de-2026-2/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "11b92e29752eaa2d113d",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-22",
-      "revisado_para_anexos": "2026-10-29T09:27:49+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/09/ORDEN-DEL-DIA-22-DE-SEPTIEMBRE_MODIFICADA-2.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
