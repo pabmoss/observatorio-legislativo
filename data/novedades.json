@@ -1,8 +1,49 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-07T14:45:09+00:00",
+  "ultima_consulta": "2026-11-07T15:23:20+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Ordenes del día 2023",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2023",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "e41a47dfceab8e081ab0",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-07T15:23:20+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T15:23:20+00:00"
+    },
+    {
+      "titulo": "Orden del dia 1 de sep 2026 sesiones conjuntas 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/9533-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-1/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "5c6cbf1f8dfd9d421cbc",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-07T15:23:20+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T15:23:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/9533-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Agenda legislativa del 19 al 23 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9671-agenda-legislativa-del-19-al-23-de-octubre-de-2026",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "5a6c3cf74ee889d1581f",
+      "fecha_documento_normalizada": "2026-10-23",
+      "primera_deteccion": "2026-11-07T15:23:20+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T15:23:20+00:00"
+    },
     {
       "titulo": "Agenda legislativa del 13 al 16 de octubre de 2026",
       "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9661-agenda-legislativa-del-13-al-16-de-octubre-de-2026",
@@ -13228,42 +13269,6 @@
       "fuente_id": "senado-c7",
       "clase": "orden_del_dia",
       "identificador": "bc595afaaa74c1632566",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
-    },
-    {
-      "titulo": "Ordenes del Día 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2020",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "06e60114d1e3feda38e6",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
-    },
-    {
-      "titulo": "Ordenes del Día 2021",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2021",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "f93fce88dc62dd5cf3a6",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T23:18:26+00:00"
-    },
-    {
-      "titulo": "Ordenes del día 2022",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2022",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "90bcfe30f256e273415c",
       "primera_deteccion": "2026-10-28T23:21:42+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "fecha_documento_normalizada": null,
