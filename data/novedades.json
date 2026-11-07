@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-07T18:21:05+00:00",
+  "ultima_consulta": "2026-11-07T19:15:02+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "15 orden del dia jueves 03 de octubre de 2024 cp prop 12 stander quilichao acta 14",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8413-15-orden-del-dia-jueves-03-de-octubre-de-2024-cp-prop-12-stander-quilichao-acta-14/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "591e23b26de60564a69d",
+      "fecha_documento_normalizada": "2024-10-03",
+      "primera_deteccion": "2026-11-07T19:15:02+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T19:15:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8413-15-orden-del-dia-jueves-03-de-octubre-de-2024-cp-prop-12-stander-quilichao-acta-14/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "13 orden del dia miercoles 25 sep2024 cp prop 06 asbesto sibate acta 12 3",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8411-13-orden-del-dia-miercoles-25-sep2024-cp-prop-06-asbesto-sibate-acta-12-3/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "2cc8d89665e39797a44d",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-07T19:15:02+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T19:15:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8411-13-orden-del-dia-miercoles-25-sep2024-cp-prop-06-asbesto-sibate-acta-12-3/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "14 orden del dia martes 01 de octubre de 2024 or pl y aprob actas 8 9 10 acta 13",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8412-14-orden-del-dia-martes-01-de-octubre-de-2024-or-pl-y-aprob-actas-8-9-10-acta-13/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "a44602b90adfbad88fe0",
+      "fecha_documento_normalizada": "2024-10-01",
+      "primera_deteccion": "2026-11-07T19:15:02+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T19:15:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8412-14-orden-del-dia-martes-01-de-octubre-de-2024-or-pl-y-aprob-actas-8-9-10-acta-13/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "11 orden del dia miercoles 18 de septiembre de 2024 cp cnsc acta 10 2",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8409-11-orden-del-dia-miercoles-18-de-septiembre-de-2024-cp-cnsc-acta-10-2/file",
@@ -13204,57 +13255,6 @@
       "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8482-18-orden-del-dia-para-el-martes-29-de-octubre-de-2024-or-pl-y-aprob-acta-s-12a15-acta-17-3-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "17 orden del dia para el martes 22 de octubre de 2024 or pl y aprob acta 11 acta 16 todos",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8481-17-orden-del-dia-para-el-martes-22-de-octubre-de-2024-or-pl-y-aprob-acta-11-acta-16-todos/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "e007e2e99dde30497629",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-10-22",
-      "revisado_para_anexos": "2026-10-31T04:22:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8481-17-orden-del-dia-para-el-martes-22-de-octubre-de-2024-or-pl-y-aprob-acta-11-acta-16-todos/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "18 orden del dia para el martes 29 de octubre de 2024 or pl y aprob acta s 12a15 acta 17 3",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8480-18-orden-del-dia-para-el-martes-29-de-octubre-de-2024-or-pl-y-aprob-acta-s-12a15-acta-17-3/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "6c48fdc39d13e0cfe152",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-10-29",
-      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8480-18-orden-del-dia-para-el-martes-29-de-octubre-de-2024-or-pl-y-aprob-acta-s-12a15-acta-17-3/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "19 orden del dia miercoles 06 de noviembre de 2024 control politico proposicion 15",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8479-19-orden-del-dia-miercoles-06-de-noviembre-de-2024-control-politico-proposicion-15/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "0bdfca6f893c9178c602",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-11-06",
-      "revisado_para_anexos": "2026-10-31T03:22:50+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8479-19-orden-del-dia-miercoles-06-de-noviembre-de-2024-control-politico-proposicion-15/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
