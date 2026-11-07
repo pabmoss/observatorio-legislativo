@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-07T23:20:54+00:00",
+  "ultima_consulta": "2026-11-07T23:58:14+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "42 orden del dia miercoles 17 de mayo de 2023 anuncios actas acta 42",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7160-42-orden-del-dia-miercoles-17-de-mayo-de-2023-anuncios-actas-acta-42/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "31b3e5e58f241d9300af",
+      "fecha_documento_normalizada": "2023-05-17",
+      "primera_deteccion": "2026-11-07T23:58:14+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T23:58:14+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7160-42-orden-del-dia-miercoles-17-de-mayo-de-2023-anuncios-actas-acta-42/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "41 orden del di a lunes 13 de mayo de 2023 audiencia publica cucuta reforma pensional acta 41",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7159-41-orden-del-di-a-lunes-13-de-mayo-de-2023-audiencia-publica-cucuta-reforma-pensional-acta-41/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "f69ff586cc1506dc9973",
+      "fecha_documento_normalizada": "2023-05-13",
+      "primera_deteccion": "2026-11-07T23:58:14+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T23:58:14+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7159-41-orden-del-di-a-lunes-13-de-mayo-de-2023-audiencia-publica-cucuta-reforma-pensional-acta-41/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "39 orden del di a miercoles 10 de mayo de 2023 audiencia publica reforma pensional acta 39",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7134-39-orden-del-di-a-miercoles-10-de-mayo-de-2023-audiencia-publica-reforma-pensional-acta-39/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "24b31ad260a7af57b687",
+      "fecha_documento_normalizada": "2023-05-10",
+      "primera_deteccion": "2026-11-07T23:58:14+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T23:58:14+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7134-39-orden-del-di-a-miercoles-10-de-mayo-de-2023-audiencia-publica-reforma-pensional-acta-39/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "40 orden del dia viernes 12 de mayo de 2023 control politico icbf medellin acta 40",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7135-40-orden-del-dia-viernes-12-de-mayo-de-2023-control-politico-icbf-medellin-acta-40/file",
@@ -13204,57 +13255,6 @@
       "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7224-46-orden-del-di-a-mie-rcoles-7-de-junio-de-2023-proyectos-acta-46/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "45 orden del di a martes 6 de junio de 2023 proyectos acta 45",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7221-45-orden-del-di-a-martes-6-de-junio-de-2023-proyectos-acta-45/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "938efc9e217581d9f945",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-06",
-      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7221-45-orden-del-di-a-martes-6-de-junio-de-2023-proyectos-acta-45/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "44 orden del di a martes 30 de mayo de 2023 proyectos acta 44",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7197-44-orden-del-di-a-martes-30-de-mayo-de-2023-proyectos-acta-44/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "d7d22c0f20fc7586c92c",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-30",
-      "revisado_para_anexos": "2026-10-31T09:25:31+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7197-44-orden-del-di-a-martes-30-de-mayo-de-2023-proyectos-acta-44/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "43 orden del di a martes 23 de mayo de 2023 anuncios actas acta 43",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7179-43-orden-del-di-a-martes-23-de-mayo-de-2023-anuncios-actas-acta-43/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "8bc10ce9cf69ed0bc781",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-05-23",
-      "revisado_para_anexos": "2026-10-31T10:14:44+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7179-43-orden-del-di-a-martes-23-de-mayo-de-2023-anuncios-actas-acta-43/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
