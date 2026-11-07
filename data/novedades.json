@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-07T21:22:10+00:00",
+  "ultima_consulta": "2026-11-07T22:03:23+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "32 orden del di a mie rcoles 29 marzo de 2023 proyectos acta 32 mujer 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7127-32-orden-del-di-a-mie-rcoles-29-marzo-de-2023-proyectos-acta-32-mujer-1/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "b59107ce7d85db131791",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-07T22:03:23+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T22:03:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7127-32-orden-del-di-a-mie-rcoles-29-marzo-de-2023-proyectos-acta-32-mujer-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "33 orden del dia martes 11 de abril de 2023 control politico cnsc acta 33 2",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7128-33-orden-del-dia-martes-11-de-abril-de-2023-control-politico-cnsc-acta-33-2/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "6a3b79e000ca3e11af93",
+      "fecha_documento_normalizada": "2023-04-11",
+      "primera_deteccion": "2026-11-07T22:03:23+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T22:03:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7128-33-orden-del-dia-martes-11-de-abril-de-2023-control-politico-cnsc-acta-33-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "30 orden del di a martes 21 de marzo de 2023 proyectos acta 30",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7126-30-orden-del-di-a-martes-21-de-marzo-de-2023-proyectos-acta-30/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "2d78e282de58bdffbd5c",
+      "fecha_documento_normalizada": "2023-03-21",
+      "primera_deteccion": "2026-11-07T22:03:23+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-07T22:03:23+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7126-30-orden-del-di-a-martes-21-de-marzo-de-2023-proyectos-acta-30/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "23 citacion sesion ordinaria discusion y votacion pl martes 03dic24 acta 23",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8536-23-citacion-sesion-ordinaria-discusion-y-votacion-pl-martes-03dic24-acta-23/file",
@@ -13204,57 +13255,6 @@
       "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7131-36-orden-del-di-a-mie-rcoles-19-de-abril-de-2023-proyectos-acta-36/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "37 orden del di a martes 25 de abril de 2023 proyectos acta 37 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7132-37-orden-del-di-a-martes-25-de-abril-de-2023-proyectos-acta-37-1/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "00d44fda42fec9b7fe84",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-25",
-      "revisado_para_anexos": "2026-10-31T11:40:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7132-37-orden-del-di-a-martes-25-de-abril-de-2023-proyectos-acta-37-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "35 orden del dia martes 18 de abril de 2023 control politico mi casa ya acta 35",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7130-35-orden-del-dia-martes-18-de-abril-de-2023-control-politico-mi-casa-ya-acta-35/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "1ad463ddacae5662038f",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-18",
-      "revisado_para_anexos": "2026-10-31T12:22:25+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7130-35-orden-del-dia-martes-18-de-abril-de-2023-control-politico-mi-casa-ya-acta-35/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "34 orden del di a mie rcoles 12 de abril de 2023 proyectos acta 34 2",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7129-34-orden-del-di-a-mie-rcoles-12-de-abril-de-2023-proyectos-acta-34-2/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "ef8ec2970072b1bf68cc",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-04-12",
-      "revisado_para_anexos": "2026-10-31T12:22:25+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7129-34-orden-del-di-a-mie-rcoles-12-de-abril-de-2023-proyectos-acta-34-2/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
