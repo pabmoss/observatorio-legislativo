@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-07T23:58:14+00:00",
+  "ultima_consulta": "2026-11-08T01:05:17+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "45 orden del di a martes 6 de junio de 2023 proyectos acta 45",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7221-45-orden-del-di-a-martes-6-de-junio-de-2023-proyectos-acta-45/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "938efc9e217581d9f945",
+      "fecha_documento_normalizada": "2023-06-06",
+      "primera_deteccion": "2026-11-08T01:05:17+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-08T01:05:17+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7221-45-orden-del-di-a-martes-6-de-junio-de-2023-proyectos-acta-45/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "44 orden del di a martes 30 de mayo de 2023 proyectos acta 44",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7197-44-orden-del-di-a-martes-30-de-mayo-de-2023-proyectos-acta-44/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "d7d22c0f20fc7586c92c",
+      "fecha_documento_normalizada": "2023-05-30",
+      "primera_deteccion": "2026-11-08T01:05:17+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-08T01:05:17+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7197-44-orden-del-di-a-martes-30-de-mayo-de-2023-proyectos-acta-44/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "43 orden del di a martes 23 de mayo de 2023 anuncios actas acta 43",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7179-43-orden-del-di-a-martes-23-de-mayo-de-2023-anuncios-actas-acta-43/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "8bc10ce9cf69ed0bc781",
+      "fecha_documento_normalizada": "2023-05-23",
+      "primera_deteccion": "2026-11-08T01:05:17+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-08T01:05:17+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7179-43-orden-del-di-a-martes-23-de-mayo-de-2023-anuncios-actas-acta-43/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "42 orden del dia miercoles 17 de mayo de 2023 anuncios actas acta 42",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7160-42-orden-del-dia-miercoles-17-de-mayo-de-2023-anuncios-actas-acta-42/file",
@@ -13204,57 +13255,6 @@
       "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7246-50-orden-del-di-a-martes-20-de-junio-de-2023-proyectos-acta-50/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del di a martes 13 de junio de 2023 proyectos",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7237-orden-del-di-a-martes-13-de-junio-de-2023-proyectos/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "dc48f9c5d429d66fe7c0",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-13",
-      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7237-orden-del-di-a-martes-13-de-junio-de-2023-proyectos/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del di a",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7230-orden-del-di-a/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "ed67d79f541835cc522d",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T22:39:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7230-orden-del-di-a/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "46 orden del di a mie rcoles 7 de junio de 2023 proyectos acta 46",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7224-46-orden-del-di-a-mie-rcoles-7-de-junio-de-2023-proyectos-acta-46/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "4cd360bb58e228e5ff3b",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2023-06-07",
-      "revisado_para_anexos": "2026-10-31T08:46:59+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7224-46-orden-del-di-a-mie-rcoles-7-de-junio-de-2023-proyectos-acta-46/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
