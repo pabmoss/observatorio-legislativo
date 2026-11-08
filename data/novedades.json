@@ -1,8 +1,54 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-08T02:10:39+00:00",
+  "ultima_consulta": "2026-11-08T03:12:59+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Ordenes del día",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "efc37e95361b12c08264",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-08T03:12:59+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-08T03:12:59+00:00"
+    },
+    {
+      "titulo": "01 orden del di a martes 25 de julio de 2023 eleccio n mesa directiva",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7316-01-orden-del-di-a-martes-25-de-julio-de-2023-eleccio-n-mesa-directiva/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "8d61e881538c938b497b",
+      "fecha_documento_normalizada": "2023-07-25",
+      "primera_deteccion": "2026-11-08T03:12:59+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-08T03:12:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7316-01-orden-del-di-a-martes-25-de-julio-de-2023-eleccio-n-mesa-directiva/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "50 orden del di a martes 20 de junio de 2023 proyectos acta 50",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7246-50-orden-del-di-a-martes-20-de-junio-de-2023-proyectos-acta-50/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "53f63d58ee7431eaaa73",
+      "fecha_documento_normalizada": "2023-06-20",
+      "primera_deteccion": "2026-11-08T03:12:59+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-08T03:12:59+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7246-50-orden-del-di-a-martes-20-de-junio-de-2023-proyectos-acta-50/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del di a martes 13 de junio de 2023 proyectos",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7237-orden-del-di-a-martes-13-de-junio-de-2023-proyectos/file",
@@ -13209,57 +13255,6 @@
       "revisado_para_anexos": "2026-10-29T10:25:31+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9543-orden-del-dia-sesion-8-de-septiembre-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 2 de septiembre de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9528-orden-del-dia-sesion-2-de-septiembre-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "4dcc047607ffcb3466d9",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-02",
-      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9528-orden-del-dia-sesion-2-de-septiembre-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 1 de septiembre de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9527-orden-del-dia-sesion-1-de-septiembre-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "bfd6523285f118d7c684",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-09-01",
-      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9527-orden-del-dia-sesion-1-de-septiembre-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 26 de agosto de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9517-orden-del-dia-sesion-26-de-agosto-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "24c48511d850f6015d6b",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-08-26",
-      "revisado_para_anexos": "2026-10-29T11:20:44+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9517-orden-del-dia-sesion-26-de-agosto-de-2026/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
