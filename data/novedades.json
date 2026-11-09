@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-09T00:24:24+00:00",
+  "ultima_consulta": "2026-11-09T01:50:00+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Orden del dia sesion 19 de mayo de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9381-orden-del-dia-sesion-19-de-mayo-de-2026/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "731810d07cff7da2996e",
+      "fecha_documento_normalizada": "2026-05-19",
+      "primera_deteccion": "2026-11-09T01:50:00+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T01:50:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9381-orden-del-dia-sesion-19-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion 12 de mayo de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9372-orden-del-dia-sesion-12-de-mayo-de-2026/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "202cc1b0fd2c606be29b",
+      "fecha_documento_normalizada": "2026-05-12",
+      "primera_deteccion": "2026-11-09T01:50:00+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T01:50:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9372-orden-del-dia-sesion-12-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion 5 de mayo de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9365-orden-del-dia-sesion-5-de-mayo-de-2026/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "e680da250cb598991096",
+      "fecha_documento_normalizada": "2026-05-05",
+      "primera_deteccion": "2026-11-09T01:50:00+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T01:50:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9365-orden-del-dia-sesion-5-de-mayo-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia sesion 29 de abril de 2026",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9341-orden-del-dia-sesion-29-de-abril-de-2026/file",
@@ -13228,57 +13279,6 @@
       "revisado_para_anexos": "2026-10-29T19:23:19+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9407-orden-del-dia-sesion-3-de-junio-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 2 de junio de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9400-orden-del-dia-sesion-2-de-junio-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "4decbc237ee4c6269e2d",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-06-02",
-      "revisado_para_anexos": "2026-10-29T19:23:19+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9400-orden-del-dia-sesion-2-de-junio-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 28 de mayo de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9397-orden-del-dia-sesion-28-de-mayo-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "37916708235f15e0dbc4",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-28",
-      "revisado_para_anexos": "2026-10-29T19:23:19+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9397-orden-del-dia-sesion-28-de-mayo-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 20 de mayo de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9391-orden-del-dia-sesion-20-de-mayo-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "6ef31f38eced1e809cbc",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-05-20",
-      "revisado_para_anexos": "2026-10-29T20:21:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9391-orden-del-dia-sesion-20-de-mayo-de-2026/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
