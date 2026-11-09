@@ -1,8 +1,668 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-09T16:05:39+00:00",
-  "nuevos_en_esta_consulta": 53,
+  "ultima_consulta": "2026-11-09T17:16:56+00:00",
+  "nuevos_en_esta_consulta": 56,
   "novedades": [
+    {
+      "titulo": "Orden del dia martes 10 septiembre de 2019 conjuntas",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2139-orden-del-dia-martes-10-septiembre-de-2019-conjuntas/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "ac397550f2dc33f5a35d",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 9 septiembre de 2019 conjuntas",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2138-orden-del-dia-9-septiembre-de-2019-conjuntas/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "24175f0d90174316512a",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia sesion conjunta miercoles 28 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9681-orden-del-dia-sesion-conjunta-miercoles-28-de-octubre-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "688cf8da65ca28a12290",
+      "fecha_documento_normalizada": "2026-10-28",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9681-orden-del-dia-sesion-conjunta-miercoles-28-de-octubre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion conjunta martes 27 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9678-orden-del-dia-sesion-conjunta-martes-27-de-octubre-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "10a01a1c2e53056008e3",
+      "fecha_documento_normalizada": "2026-10-27",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9678-orden-del-dia-sesion-conjunta-martes-27-de-octubre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion conjunta martes 20 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9670-orden-del-dia-sesion-conjunta-martes-20-de-octubre-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "9e87ca5ea8ae60fd054b",
+      "fecha_documento_normalizada": "2026-10-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9670-orden-del-dia-sesion-conjunta-martes-20-de-octubre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia anuncio 22 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9602-orden-del-dia-anuncio-22-1/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "b379e2a7d8566540994d",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 14 de septiembre de 2026 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9553-orden-del-dia-14-de-septiembre-de-2026-1/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "8fa25aa7a3c7f36b34ad",
+      "fecha_documento_normalizada": "2026-09-14",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9553-orden-del-dia-14-de-septiembre-de-2026-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia 2 de sep de 2026 1 f131 1 1 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9539-orden-del-dia-2-de-sep-de-2026-1-f131-1-1-1/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "0c0237ed1349f607486d",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 1 de sep 2026 sesiones conjuntas 2",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9534-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-2/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "ac3ff6c1fc45d1b885a5",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 19 de agosto de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9475-orden-del-dia-19-de-agosto-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "2324fce76c0f53767b43",
+      "fecha_documento_normalizada": "2026-08-19",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9475-orden-del-dia-19-de-agosto-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia 12 de agosto de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9474-orden-del-dia-12-de-agosto-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "ba664ca1c37b173a2323",
+      "fecha_documento_normalizada": "2026-08-12",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 05 de agosto de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9468-orden-del-dia-05-de-agosto-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "919d6a4ce5c6f0f22253",
+      "fecha_documento_normalizada": "2026-08-05",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia sesion ordinaria miercoles 29 de julio de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9463-orden-del-dia-sesion-ordinaria-miercoles-29-de-julio-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "393331a98a1ac1cf8d33",
+      "fecha_documento_normalizada": "2026-07-29",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia miercoles 17 de junio de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9428-orden-del-dia-miercoles-17-de-junio-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "287325ab517fe704b18f",
+      "fecha_documento_normalizada": "2026-06-17",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia miercoles 10 de junio de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9409-orden-del-dia-miercoles-10-de-junio-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "c98035ce576d8e6dab9e",
+      "fecha_documento_normalizada": "2026-06-10",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia martes 09 de junio de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9408-orden-del-dia-martes-09-de-junio-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "0eff188c25e7acace833",
+      "fecha_documento_normalizada": "2026-06-09",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia miercoles 03 de junio de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9404-orden-del-dia-miercoles-03-de-junio-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "894c50b628c393910727",
+      "fecha_documento_normalizada": "2026-06-03",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 27 de mayo de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9395-orden-del-dia-27-de-mayo-de-2026/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "98ff133dc570dce8a7af",
+      "fecha_documento_normalizada": "2026-05-27",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia aprobacion",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9390-orden-del-dia-aprobacion/file",
+      "fuente": "Senado · Comisión Cuarta",
+      "fuente_id": "senado-c4",
+      "clase": "orden_del_dia",
+      "identificador": "a3d33e261b773a2a9c13",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Periodo Constitucional 2014 -2018",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2014-2018",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "4678f45ad4e19eca9dc3",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Periodo Constitucional 2018 -2022",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2018-2022",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "bc21a8778aaa0e6e5432",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Periodo Constitucional 2022 - 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2022-2026",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "cdf07fa5ab2ed337ad8a",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Periodo Constitucional 2026 - 2030",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2026-2030",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "2c19272030f43a08a242",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2018 - 20 Julio 2019",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2018-2022/ordenes-del-dia-legislatura-20-julio-2018-20-julio-2019",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "6b5062572bce06250617",
+      "fecha_documento_normalizada": "2018-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2019 - 20 Julio 2020",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2018-2022/ordenes-del-dia-legislatura-20-julio-2019-20-julio-2020",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "66a825dd6d29b4c2f174",
+      "fecha_documento_normalizada": "2019-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2020 - 20 Julio 2021",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2018-2022/ordenes-del-dia-legislatura-20-julio-2020-20-julio-2021",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "f485eaf0798f4f8ffba0",
+      "fecha_documento_normalizada": "2020-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2021 - 20 Julio 2022",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2018-2022/ordenes-del-dia-legislatura-20-julio-2021-20-julio-2022",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "85399a73174b3f86d340",
+      "fecha_documento_normalizada": "2021-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2022 - 20 Julio 2023",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2022-2026/ordenes-del-dia-legislatura-20-julio-2022-20-julio-2023",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "05bb9ec63ef5f6ae47df",
+      "fecha_documento_normalizada": "2022-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2023 - 20 Julio 2024",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2022-2026/ordenes-del-dia-legislatura-20-julio-2023-20-julio-2024",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "f1ee38a503648e221fcf",
+      "fecha_documento_normalizada": "2023-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2024 - 20 Julio 2025",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2022-2026/ordenes-del-dia-legislatura-20-julio-2024-20-julio-2025",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "d8003f77d33affadedf6",
+      "fecha_documento_normalizada": "2024-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2025 - 20 Julio 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2022-2026/ordenes-del-dia-legislatura-20-julio-2025-20-julio-2026",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "1f2dc9398a2a509bdc96",
+      "fecha_documento_normalizada": "2025-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Ordenes del día Legislatura 20 Julio 2026 - 20 Julio 2027",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-anteriores/periodo-constitucional-2026-2030/ordenes-del-dia-legislatura-20-julio-2026-20-julio-2027",
+      "fuente": "Senado · Comisión Quinta",
+      "fuente_id": "senado-c5",
+      "clase": "orden_del_dia",
+      "identificador": "3d7b6df96d329b1c30cd",
+      "fecha_documento_normalizada": "2026-07-20",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del Día",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "f60c0320c1084417a863",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del Día",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "81d85095374bd16ceeea",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Primera Legislatura (2022-2023)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "9c40e221810d12f59008",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Segunda Legislatura (2023-2024)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "3e4b40b2940da9ebb333",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Tercera Legislatura (2024-2025)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "0959c5c1c3a5406e96a4",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Cuarta Legislatura (2025-2026)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "d7addeef2a5ccfab4b4b",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 03 de abril de 2024",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/7890-orden-del-dia-03-de-abril-de-2024/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "305a3a70fa3376c37060",
+      "fecha_documento_normalizada": "2024-04-03",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 13 de marzo de 2024",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/7862-orden-del-dia-13-de-marzo-de-2024/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "fdbd9318f1c9cb26a53e",
+      "fecha_documento_normalizada": "2024-03-13",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Primera Legislatura (2026-2027)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "613c460f1b4837e8569a",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Segunda Legislatura (2027-2028)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/segunda-legislatura-2027-2028",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "1eb6e5b2185af28d05e5",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Tercera Legislatura (2028-2029)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/tercera-legislatura-2028-2029",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "662f0cefe703486867fd",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Cuarta Legislatura (2029-2030)",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/cuarta-legislatura-2029-2030",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "751d38d6a59175bb5eb6",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia anuncio 22",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/9601-orden-del-dia-anuncio-22/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "1e4a5118cf20521c2736",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 14 de septiembre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/9552-orden-del-dia-14-de-septiembre-de-2026/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "6a6f7f8c3c9be5794b9e",
+      "fecha_documento_normalizada": "2026-09-14",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/9552-orden-del-dia-14-de-septiembre-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia 2 de sep de 2026 1 f131 1 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/9538-orden-del-dia-2-de-sep-de-2026-1-f131-1-1/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "ed2780c7bed6d9dad190",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia sesion 14 de junio de 2023",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7242-orden-del-dia-sesion-14-de-junio-de-2023/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "0df1ac7382c2f02e6ff6",
+      "fecha_documento_normalizada": "2023-06-14",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia sesion 13 de junio de 2023",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7240-orden-del-dia-sesion-13-de-junio-de-2023/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "fb41510b8ad1d6506c3f",
+      "fecha_documento_normalizada": "2023-06-13",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "C3 orden del dia sesion conjunta 14 de septiembre de 2026",
+      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-conjunta-14-de-septiembre-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "93ff33958755d11dde6e",
+      "fecha_documento_normalizada": "2026-09-14",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-09T17:16:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/orden-del-dia-14-de-septiembre-de-2026-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia plenaria 26 05 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-26-05-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "5e6d40b75b57c6955d34",
+      "fecha_documento_normalizada": "2026-05-26",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia martes 26 de mayo de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-26-de-mayo-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "1711ad1f7aa1b56888ff",
+      "fecha_documento_normalizada": "2026-05-26",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia marzo 25 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-marzo-25-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "ef87f8f5f8c1bf62d63e",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "C3 orden del dia sesion ordinaria 25 de marzo de 2026",
+      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-25-de-marzo-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "4330fda462c83cf6535a",
+      "fecha_documento_normalizada": "2026-03-25",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "C3 orden del dia sesion ordinaria 12 de noviembre de 2025",
+      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-12-de-noviembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "73f1c06920badc4682a4",
+      "fecha_documento_normalizada": "2025-11-12",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 12 de noviembre de 2025",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-12-de-noviembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "05295b29885ee4505688",
+      "fecha_documento_normalizada": "2025-11-12",
+      "primera_deteccion": "2026-11-09T17:16:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
     {
       "titulo": "Orden del dia sesion 7 de junio de 2023",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7223-orden-del-dia-sesion-7-de-junio-de-2023/file",
@@ -12069,958 +12729,6 @@
       "revisado_para_anexos": "2026-10-31T13:26:53+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6926-orden-del-dia-15-de-febrero-de-2023/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Agenda legislativa del 15 al 18 de noviembre de 2022 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6654-agenda-legislativa-del-15-al-18-de-noviembre-de-2022-1/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "agenda",
-      "identificador": "c8934fb9e8883e969caa",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-11-18",
-      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6654-agenda-legislativa-del-15-al-18-de-noviembre-de-2022-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 18 de marzo 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3920-orden-del-dia-miercoles-18-de-marzo-2020/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "659ae2da26a882a67d72",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3920-orden-del-dia-miercoles-18-de-marzo-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 11 de diciembre",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3259-orden-del-dia-miercoles-11-de-diciembre/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "094ecd527d9d365b6e93",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3259-orden-del-dia-miercoles-11-de-diciembre/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 10 de diciembre",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3252-orden-del-dia-martes-10-de-diciembre/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "b25642aec93e318c21a2",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3252-orden-del-dia-martes-10-de-diciembre/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "ORDEN DEL DIA LUNES 09 DE DICIEMBRE 2019 ( jpg )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3238-orden-del-dia-lunes-09-de-diciembre-2019-1/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "a67f9f6dfa3a3c37b75f",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3238-orden-del-dia-lunes-09-de-diciembre-2019-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "ORDEN DEL DIA LUNES 09 DE DICIEMBRE 2019 ( jpg )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3237-orden-del-dia-lunes-09-de-diciembre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "b25e83be8254e5bb58ad",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3237-orden-del-dia-lunes-09-de-diciembre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "ORDEN DEL DIA MARTES 03 DE DICIEMBRE 2019 ( jpg, 93 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3152-orden-del-dia-martes-03-de-diciembre-2019-2/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "5795309f80ec60b42f9c",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3152-orden-del-dia-martes-03-de-diciembre-2019-2/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 27 de noviembre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3085-orden-del-dia-27-de-noviembre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "dd74f5f1e8120e6cce5f",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3085-orden-del-dia-27-de-noviembre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 20 de noviembre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2724-orden-del-dia-miercoles-20-de-noviembre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "57f27049f92e174d8373",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2724-orden-del-dia-miercoles-20-de-noviembre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 05 de noviembre 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2674-orden-del-dia-martes-05-de-noviembre-1/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "11972220b74b35188dc9",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T17:37:35+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2674-orden-del-dia-martes-05-de-noviembre-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 05 de noviembre",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2673-orden-del-dia-martes-05-de-noviembre/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "770fc474c2d6970ef8c3",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2673-orden-del-dia-martes-05-de-noviembre/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 30 de octubre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2662-orden-del-dia-miercoles-30-de-octubre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "5126075e5d9de8dd34b1",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2662-orden-del-dia-miercoles-30-de-octubre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "ORDEN DEL DIA MARTES 15 DE OCTUBRE 2019 ( jpeg, 177 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2640-orden-del-dia-martes-15-de-octubre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "a170ce670f514dab1a50",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2640-orden-del-dia-martes-15-de-octubre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 02 de octubre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2621-orden-del-dia-miercoles-02-de-octubre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "2d37c859857bd246679d",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2621-orden-del-dia-miercoles-02-de-octubre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 01 de octubre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2620-orden-del-dia-martes-01-de-octubre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "a7f64f7a592889dfb8d5",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2620-orden-del-dia-martes-01-de-octubre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 24 de septiembre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2607-orden-del-dia-martes-24-de-septiembre-2019/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "92f1d6449c3b984d9074",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2607-orden-del-dia-martes-24-de-septiembre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 17 de septiembre",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2598-orden-del-dia-martes-17-de-septiembre/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "a771d5ab8d73b870b634",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T18:19:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2598-orden-del-dia-martes-17-de-septiembre/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 18 de agosto 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/orden-del-dia-17/9498-orden-del-dia-martes-18-de-agosto-2026/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "1e2c0736d33f710b96bd",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/orden-del-dia-17/9498-orden-del-dia-martes-18-de-agosto-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del di a jueves 30 de julio de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/orden-del-dia-17/9462-orden-del-di-a-jueves-30-de-julio-de-2026/file",
-      "fuente": "Senado · Comisión Segunda",
-      "fuente_id": "senado-c2",
-      "clase": "orden_del_dia",
-      "identificador": "903eb2253c30df26a4ba",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2026-07-30",
-      "revisado_para_anexos": "2026-10-29T13:27:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/orden-del-dia-17/9462-orden-del-di-a-jueves-30-de-julio-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 08 de octubre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2633-orden-del-dia-08-de-octubre-2019/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "0051f68df66b6c20e752",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2633-orden-del-dia-08-de-octubre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 25 de septiembre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2606-orden-del-dia-25-de-septiembre-2019/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "ec07fb1d603a75ac288f",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2606-orden-del-dia-25-de-septiembre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 03 de septiembre 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2132-orden-del-dia-03-de-septiembre-2019/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "8e2b471e8f77f7940725",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2132-orden-del-dia-03-de-septiembre-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 22 de noviembre de 2022",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/6671-orden-del-dia-22-de-noviembre-de-2022/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "1f8e4fce27c9eb143aaf",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-11-22",
-      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/6671-orden-del-dia-22-de-noviembre-de-2022/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Agenda legislativa del 15 al 18 de noviembre de 2022 2",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/6655-agenda-legislativa-del-15-al-18-de-noviembre-de-2022-2/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "e54c3a42e52ee8874bc0",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2022-11-18",
-      "revisado_para_anexos": "2026-10-31T14:16:46+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/6655-agenda-legislativa-del-15-al-18-de-noviembre-de-2022-2/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 20 de junio de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4213-orden-del-dia-20-de-junio-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "8b9bb74259eee8c38ca9",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-06-20",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4213-orden-del-dia-20-de-junio-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 19 de junio de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4209-orden-del-dia-19-de-junio-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "6ea805b63b870d062ebd",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-06-19",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4209-orden-del-dia-19-de-junio-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 17 de junio de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4205-orden-del-dia-17-de-junio-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "241c9f7952cfbdcf5c49",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-06-17",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4205-orden-del-dia-17-de-junio-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 04 de junio 2020 xx",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4150-orden-del-dia-04-de-junio-2020-xx/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "d1caccaf1113b3aad487",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4150-orden-del-dia-04-de-junio-2020-xx/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 04 de junio 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4137-orden-del-dia-04-de-junio-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "774a2e9b67d570cf5a56",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4137-orden-del-dia-04-de-junio-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia junio 03 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4134-orden-del-dia-junio-03-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "273f16c5fdcd8b801686",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:12:32+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4134-orden-del-dia-junio-03-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 27 de mayo 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4094-orden-del-dia-27-de-mayo-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "983eb9b6235a323a6ab0",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:54:47+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4094-orden-del-dia-27-de-mayo-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 19 de mayo de 2020 xxx",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4068-orden-del-dia-19-de-mayo-de-2020-xxx/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "336afb007d3ac6df3e31",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-19",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4068-orden-del-dia-19-de-mayo-de-2020-xxx/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Xxx orden del dia 20 de mayo de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4069-xxx-orden-del-dia-20-de-mayo-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "4405463ec0f59105aebf",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-20",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4069-xxx-orden-del-dia-20-de-mayo-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Xxx orden del dia 14 de mayo de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4021-xxx-orden-del-dia-14-de-mayo-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "2733ed2a7fb2814b5ce5",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-14",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4021-xxx-orden-del-dia-14-de-mayo-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del di a 13 de mayo de 2020 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4020-c3s-orden-del-di-a-13-de-mayo-de-2020-1/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "5ff6540174663209dee1",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-13",
-      "revisado_para_anexos": "2026-10-31T14:56:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4020-c3s-orden-del-di-a-13-de-mayo-de-2020-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del di a 13 de mayo de 2020 1 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4019-c3s-orden-del-di-a-13-de-mayo-de-2020-1-1/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "204708d02585cb5e521c",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-01-01",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4019-c3s-orden-del-di-a-13-de-mayo-de-2020-1-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del dia 12 de mayo de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4018-c3s-orden-del-dia-12-de-mayo-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "34eb6b843775dfc74d93",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-05-12",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4018-c3s-orden-del-dia-12-de-mayo-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del diea 29 de abril de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3994-c3s-orden-del-diea-29-de-abril-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "8076c83b9895b3a51b8e",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-04-29",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3994-c3s-orden-del-diea-29-de-abril-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del diea 27 de abril de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3993-c3s-orden-del-diea-27-de-abril-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "494829eaa3fe53c3051d",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-04-27",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3993-c3s-orden-del-diea-27-de-abril-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del dia 20 de abril de 2020 mod",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3973-c3s-orden-del-dia-20-de-abril-de-2020-mod/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "7c6b7242d102b7df41df",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-04-20",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3973-c3s-orden-del-dia-20-de-abril-de-2020-mod/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del diea 22 de abril de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3972-c3s-orden-del-diea-22-de-abril-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "9a9c51429d6f149a202e",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-04-22",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3972-c3s-orden-del-diea-22-de-abril-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3s orden del diea 20 de abril de 2020",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3971-c3s-orden-del-diea-20-de-abril-de-2020/file",
-      "fuente": "Senado · Comisión Tercera",
-      "fuente_id": "senado-c3",
-      "clase": "orden_del_dia",
-      "identificador": "8395c951402f198dbd65",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2020-04-20",
-      "revisado_para_anexos": "2026-10-31T15:39:04+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/3971-c3s-orden-del-diea-20-de-abril-de-2020/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia aprobacion monto miercoles 10 septiembre de 2025",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/9039-orden-del-dia-aprobacion-monto-miercoles-10-septiembre-de-2025/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "0712489fc79ff6dd4f50",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:54:47+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/9039-orden-del-dia-aprobacion-monto-miercoles-10-septiembre-de-2025/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 13 de agosto de 2024",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8233-orden-del-dia-13-de-agosto-de-2024/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "8c9a7391a479a4d8f65c",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-08-13",
-      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8233-orden-del-dia-13-de-agosto-de-2024/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 24 de julio de 2024 4",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8175-orden-del-dia-24-de-julio-de-2024-4/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "07fb3c86940b5c75b4be",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2024-07-24",
-      "revisado_para_anexos": "2026-10-31T05:10:12+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8175-orden-del-dia-24-de-julio-de-2024-4/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 04 de diciembre de 2019 11282019221035 8",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3149-orden-del-dia-miercoles-04-de-diciembre-de-2019-11282019221035-8/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "f738d07036aa8ef14dc2",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-12-04",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3149-orden-del-dia-miercoles-04-de-diciembre-de-2019-11282019221035-8/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 04 de diciembre de 2019 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3147-orden-del-dia-miercoles-04-de-diciembre-de-2019-1/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "796ec785458305a1aa72",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-12-04",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3147-orden-del-dia-miercoles-04-de-diciembre-de-2019-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 27 de noviembre de 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3073-orden-del-dia-27-de-noviembre-de-2019/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "6c0db35da62677dc9f93",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-27",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/3073-orden-del-dia-27-de-noviembre-de-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 20 de noviembre de 2019 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2787-orden-del-dia-miercoles-20-de-noviembre-de-2019-1/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "c7c02a871041da884804",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-20",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2787-orden-del-dia-miercoles-20-de-noviembre-de-2019-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 12 de noviembre de 2019 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2710-orden-del-dia-martes-12-de-noviembre-de-2019-1/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "ec46ab6d13ebe4504069",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-12",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2710-orden-del-dia-martes-12-de-noviembre-de-2019-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 5 de noviembre de 2019 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2672-orden-del-dia-martes-5-de-noviembre-de-2019-1/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "1483decd9a18b49d793f",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-11-05",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2672-orden-del-dia-martes-5-de-noviembre-de-2019-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 01 de octubre de 2019",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2619-orden-del-dia-martes-01-de-octubre-de-2019/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "958b2b2d2b95426d761f",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-10-01",
-      "revisado_para_anexos": "2026-10-31T16:20:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2619-orden-del-dia-martes-01-de-octubre-de-2019/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 24 de septiembre de 2019 conjuntas",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2615-orden-del-dia-martes-24-de-septiembre-de-2019-conjuntas/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "60d7438007451041e84e",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-09-24",
-      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2615-orden-del-dia-martes-24-de-septiembre-de-2019-conjuntas/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia lunes 23 de septiembre de 2019 conjuntas",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2603-orden-del-dia-lunes-23-de-septiembre-de-2019-conjuntas/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "b7739a22e6edd6a02f1b",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-09-23",
-      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2603-orden-del-dia-lunes-23-de-septiembre-de-2019-conjuntas/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 11 de septiembre de 2019 conjuntas",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2443-orden-del-dia-miercoles-11-de-septiembre-de-2019-conjuntas/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "d1d873d432eacbeb5a32",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": "2019-09-11",
-      "revisado_para_anexos": "2026-10-31T17:02:03+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2443-orden-del-dia-miercoles-11-de-septiembre-de-2019-conjuntas/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia lunes 9 septiembre de 2019 conjuntas",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2140-orden-del-dia-lunes-9-septiembre-de-2019-conjuntas/file",
-      "fuente": "Senado · Comisión Cuarta",
-      "fuente_id": "senado-c4",
-      "clase": "orden_del_dia",
-      "identificador": "7053a08277ebae0cd951",
-      "primera_deteccion": "2026-10-28T23:21:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "fecha_documento_normalizada": null,
-      "revisado_para_anexos": "2026-10-31T19:54:47+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2140-orden-del-dia-lunes-9-septiembre-de-2019-conjuntas/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
