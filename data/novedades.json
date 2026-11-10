@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-10T18:38:03+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-10T19:37:55+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Gaceta 1755 · Cámara de Representantes · 10/11/2026",
@@ -1045,7 +1045,15 @@
       "identificador": "5274341f9e9c2cd645f5",
       "fecha_documento_normalizada": "2025-08-20",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/Orden-del-dia-Sesion-COT_20-Agosto-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision legal de cuentas clc orden del dia 20 de agosto de 2025",
@@ -1056,7 +1064,14 @@
       "identificador": "5a3b7ba49518b999a6ca",
       "fecha_documento_normalizada": "2025-08-20",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision septima constitucional permanente orden del dia 19 de agosto de 2025",
@@ -1067,7 +1082,15 @@
       "identificador": "72c7c961d14da3b0361f",
       "fecha_documento_normalizada": "2025-08-19",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/03-ORDEN-DEL-DIA-agosto-19-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision primera constitucional permanente orden del dia 281",
@@ -1089,7 +1112,16 @@
       "identificador": "f08e660445aaeef21d1f",
       "fecha_documento_normalizada": "2025-08-19",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-08/COMISION%20II%20ORDEN%20DEL%20DIA%20MARTES%2019%20DE%20AGOSTO%20DE%202025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/COMISION-II-ORDEN-DEL-DIA-MARTES-19-DE-AGOSTO-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision sexta o de transportes y comunicaciones orden del dia martes 19 de agosto de 2025",
@@ -1100,7 +1132,15 @@
       "identificador": "fe9d93ca0f24c0f69c65",
       "fecha_documento_normalizada": "2025-08-19",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/ORDEN-DEL-DIA-MARTES-19-DE-AGOSTO-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision tercera o de hacienda y credito publico c3 orden del dia sesion conjunta 19 de agosto de 2025",
@@ -1111,7 +1151,15 @@
       "identificador": "b911c9866e4de4863942",
       "fecha_documento_normalizada": "2025-08-19",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/ORDEN-DEL-DIA-19-de-AGOSTO-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 orden del dia sesion comisiones economicas conjuntas martes 19 de agosto de 2025 salon eliptico capitolio nacional",
@@ -1122,7 +1170,15 @@
       "identificador": "19620f81bababaa62384",
       "fecha_documento_normalizada": "2025-08-19",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T19:37:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/ORDEN-DEL-DIA-PRESENTACION-PGN-2026-agosto-19-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision tercera o de hacienda y credito publico agenda comision tercera semana comprendida entre el 18 de agosto de 2025 al 22 de agosto de 2025",
