@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-10T20:30:00+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-10T21:21:12+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1743 · Senado de la República · 06/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "557f6c055a7a61b13419",
+      "fecha_documento": "06/11/2026",
+      "fecha_documento_normalizada": "2026-11-06",
+      "primera_deteccion": "2026-11-10T21:21:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00"
+    },
     {
       "titulo": "Gaceta 1755 · Cámara de Representantes · 10/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -1314,7 +1327,15 @@
       "identificador": "c139eb07a5e9131806ab",
       "fecha_documento_normalizada": "2025-08-13",
       "primera_deteccion": "2026-11-09T22:06:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/Orden-del-Dia-Sesion-COT-13-Agosto-2025-1-2.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Gaceta 1734 · Cámara de Representantes · 06/11/2026",
@@ -2706,7 +2727,15 @@
       "identificador": "283dab3b10c78811424d",
       "fecha_documento_normalizada": "2025-07-29",
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/orden_dia/orden_del_dia_2025_07_29_martes_29_de_julio_de_2025_vot_actas_y_anun_pls.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia miercoles 13 de marzo de 2024 prop 046 mads ejecucion pptal 2023",
@@ -2887,7 +2916,15 @@
       "identificador": "5d4f4a0cc7eacd5c67ec",
       "fecha_documento_normalizada": "2025-08-03",
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Plenaria-Orden-del-Dia-Proyectos-2025-09-03.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia 2025 09 03 miercoles 3 de septiembre de 2025 propo 051",
@@ -4286,7 +4323,13 @@
       "identificador": "8c9a7391a479a4d8f65c",
       "fecha_documento_normalizada": "2024-08-13",
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8233-orden-del-dia-13-de-agosto-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 24 de julio de 2024 4",
@@ -4297,7 +4340,13 @@
       "identificador": "07fb3c86940b5c75b4be",
       "fecha_documento_normalizada": "2024-07-24",
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8175-orden-del-dia-24-de-julio-de-2024-4/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 04 de diciembre de 2019 11282019221035 8",
@@ -4880,7 +4929,8 @@
       "identificador": "1f2dc9398a2a509bdc96",
       "fecha_documento_normalizada": "2025-07-20",
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T21:21:12+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2026 - 20 Julio 2027",
@@ -12056,27 +12106,6 @@
         "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-3-DE-DICIEMBRE-DE-2025.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Sesion-ordinaria-Dic-03-2025.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/11/Cancelacion-sesion-comision-2-y-3-de-Dic-2025-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C 4 orden del dia para la sesion ordinaria del martes 02 de diciembre de 2025",
-      "url": "https://www.camara.gov.co/evento/c-4-orden-del-dia-para-la-sesion-ordinaria-del-martes-02-de-diciembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "c9c820f06eec7575a5ca",
-      "fecha_documento_normalizada": "2025-12-02",
-      "primera_deteccion": "2026-11-04T03:55:52+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T03:55:52+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-2-DE-DICIEMBRE-DE-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-debate-de-control-politico-Dic-02-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Cancelacion-sesion-comision-2-y-3-de-Dic-2025.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
