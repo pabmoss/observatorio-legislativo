@@ -1,8 +1,107 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-10T23:00:40+00:00",
+  "ultima_consulta": "2026-11-10T23:40:06+00:00",
   "nuevos_en_esta_consulta": 6,
   "novedades": [
+    {
+      "titulo": "Orden del dia plenaria 09 12 2025",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-09-12-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "3e45e5cc8b0f832f5de4",
+      "fecha_documento_normalizada": "2025-12-09",
+      "primera_deteccion": "2026-11-10T23:40:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/12/Plenaria-Orden-del-Dia-Proyectos-2025-12-09.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia 2025 12 09 miarte 9 de diciembre de 2025 estatuto oposicion vot pls",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2025-12-09-miarte-9-de-diciembre-de-2025-estatuto-oposicion-vot-pls/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "841489485507805ff248",
+      "fecha_documento_normalizada": "2025-12-09",
+      "primera_deteccion": "2026-11-10T23:40:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/12/Orden-del-Dia-2025-12-09-miarte-9-de-diciembre-de-2025-ESTATUTO-OPOSICION-VOT-PLs.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Agenda comision tercera semana comprendida entre el 09 de diciembre de 2025 al 12 de diciembre de 2025",
+      "url": "https://www.camara.gov.co/evento/agenda-comision-tercera-semana-comprendida-entre-el-09-de-diciembre-de-2025-al-12-de-diciembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "ca5c9267f3f50efd0feb",
+      "fecha_documento_normalizada": "2025-12-09",
+      "primera_deteccion": "2026-11-10T23:40:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/12/AGENDA-SEMANA-9-al-12-DICIEMBRE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion conjunta diciembre 09 2025",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-sesion-conjunta-diciembre-09-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "54f2375f0d55d4a072fe",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-10T23:40:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "C 4 orden del dia para las sesiones conjuntas del martes 03 de diciembre de 2025 pl no 283 de 2025 camara 262 de 2025 senado lugar salon eliptico del capitolio nacional hora 0300 p m",
+      "url": "https://www.camara.gov.co/evento/c-4-orden-del-dia-para-las-sesiones-conjuntas-del-martes-03-de-diciembre-de-2025-pl-no-283-de-2025-camara-262-de-2025-senado-lugar-salon-eliptico-del-capitolio-nacional-hora-0300-p-m/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "62b4f4da765899c10b1e",
+      "fecha_documento_normalizada": "2025-12-03",
+      "primera_deteccion": "2026-11-10T23:40:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Sesiones-Conjuntas-2-y-3-de-Dic-de-2025-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-3-DE-DICIEMBRE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia diciembre 03 2025",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-diciembre-03-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "87cbae7d6c5fb2faa640",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-10T23:40:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
     {
       "titulo": "Orden del dia 2025 12 03 miercoles 3 de diciembre de 2025 debate propo 034 y votac pls",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-2025-12-03-miercoles-3-de-diciembre-de-2025-debate-propo-034-y-votac-pls/",
@@ -5749,7 +5848,13 @@
       "identificador": "7d0282b85ffd08b85e1f",
       "fecha_documento_normalizada": "2024-06-19",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8111-orden-del-dia-sesion-19-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 18 de junio de 2024",
@@ -5760,7 +5865,13 @@
       "identificador": "82eb5ca4062432df957c",
       "fecha_documento_normalizada": "2024-06-18",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8110-orden-del-dia-sesion-18-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 17 de junio de 2024",
@@ -5771,7 +5882,13 @@
       "identificador": "a1e3809255e28ee10ad9",
       "fecha_documento_normalizada": "2024-06-17",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8095-orden-del-dia-sesion-17-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 13 de junio de 2024 ciudad de pereira",
@@ -11963,121 +12080,6 @@
       "revisado_para_anexos": "2026-11-04T06:00:29+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2025/12/Orden-del-dia-2025.1210-MIERCOLES-10-de-diciembre-de-2025-PRESIDENCIA-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia clc miercoles 10 de diciembre de 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-clc-miercoles-10-de-diciembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "a9868065cf4a8cd22a57",
-      "fecha_documento_normalizada": "2025-12-10",
-      "primera_deteccion": "2026-11-04T06:00:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T06:00:29+00:00",
-      "documentos_adjuntos": [
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion mixta 10 12 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-sesion-mixta-10-12-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "4545b73bcc970e3dbc2e",
-      "fecha_documento_normalizada": "2025-12-10",
-      "primera_deteccion": "2026-11-04T06:00:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T06:00:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/Orden-del-dia-Sesion-Mixta-10-12-2025-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision ii orden del dia martes 9 de diciembre de 2025",
-      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-9-de-diciembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "6eac67495740254f2a03",
-      "fecha_documento_normalizada": "2025-12-09",
-      "primera_deteccion": "2026-11-04T06:00:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T06:00:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/COMISION-II-ORDEN-DEL-DIA-MARTES-9-DE-DICIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C 4 orden del dia para las sesiones conjuntas del martes 09 de diciembre de 2025 pl no 283 de 2025 camara 262 de 2025 senado lugar salon eliptico del capitolio nacional hora 0900 a m",
-      "url": "https://www.camara.gov.co/evento/c-4-orden-del-dia-para-las-sesiones-conjuntas-del-martes-09-de-diciembre-de-2025-pl-no-283-de-2025-camara-262-de-2025-senado-lugar-salon-eliptico-del-capitolio-nacional-hora-0900-a-m/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "540aa92a4ee700b7f81b",
-      "fecha_documento_normalizada": "2025-12-09",
-      "primera_deteccion": "2026-11-04T06:00:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T06:00:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/ORDEN-DEL-DIA-9-DE-DICIEMBRE-2025-1.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/AGENDA-9-Dic-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/NOTIFICACION-SECRETARIOS-9-dic-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 9 de diciembre de 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-9-de-diciembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "e77afc3444f3f8ef2e23",
-      "fecha_documento_normalizada": "2025-12-09",
-      "primera_deteccion": "2026-11-04T06:00:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T06:00:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/ORDEN-DEL-DIA-MARTES-9-DE-DICIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Sesion conjunta comisiones de etica y estatuto del congresista del senado de la republica y camara de representantes",
-      "url": "https://www.camara.gov.co/evento/sesion-conjunta-comisiones-de-etica-y-estatuto-del-congresista-del-senado-de-la-republica-y-camara-de-representantes/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "36b16fbe65365bc407b2",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-04T06:00:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T10:37:40+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/1-Orden-del-dia-Sesion-Conjunta-10-de-diciembre-de-2025.docx.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
