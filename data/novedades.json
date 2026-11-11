@@ -1,8 +1,27 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-11T08:02:48+00:00",
+  "ultima_consulta": "2026-11-11T08:59:09+00:00",
   "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Orden del dia miercoles 9 de septiembre de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-9-de-septiembre-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "6155e0ec548ddcb4e0e8",
+      "fecha_documento_normalizada": "2026-09-09",
+      "primera_deteccion": "2026-11-11T08:59:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Orden-del-dia-Sesion-COT-09-septAgenda-COTIISem2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia plenaria 19 05 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-19-05-2026/",
@@ -4244,7 +4263,13 @@
       "identificador": "dbba88414a1c26053757",
       "fecha_documento_normalizada": "2023-05-09",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7102-orden-del-dia-9-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 26 de abril de 2023",
@@ -4255,7 +4280,13 @@
       "identificador": "66b6d3322bac72df739c",
       "fecha_documento_normalizada": "2023-04-26",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7063-orden-del-dia-26-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 19 de abril de 2023",
@@ -6360,7 +6391,13 @@
       "identificador": "7e2c42e7d7ca4ec44dd0",
       "fecha_documento_normalizada": "2023-05-23",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7170-orden-del-dia-sesion-23-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 17 de mayo 2023 ciudad de pasto",
@@ -6382,7 +6419,13 @@
       "identificador": "e4f0dca110433cc9cf39",
       "fecha_documento_normalizada": "2023-05-10",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7093-orden-del-di-a-sesion-10-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 9 de mayo de 2023",
@@ -6393,7 +6436,13 @@
       "identificador": "7a10b0aa29ce36bb45d0",
       "fecha_documento_normalizada": "2023-05-09",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7092-orden-del-di-a-sesion-9-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 3 de mayo de 2023",
@@ -6404,7 +6453,13 @@
       "identificador": "c7d5058f768b75b7f53b",
       "fecha_documento_normalizada": "2023-05-03",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7071-orden-del-di-a-sesion-3-de-mayo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 26 de abril de 2023",
@@ -12207,25 +12262,6 @@
         "https://www.camara.gov.co/wp-content/uploads/2026/04/PROPOSICION-ADITIVA-A-LA-PROPOSICION-No.-093-de-2025.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2026/04/Citacion-Sesion-Ordinaria-Honorables-Representantes-1.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2026/04/Aplazamiento-de-debate-de-control-politico-–-Proposicion-No.-093-de-2025-Honorables-Representantes.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision ii orden del dia miercoles 21 de octubre de 2026",
-      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-miercoles-21-de-octubre-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "06d5ae7d6213ac7af715",
-      "fecha_documento_normalizada": "2026-10-21",
-      "primera_deteccion": "2026-11-04T22:40:49+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T22:40:49+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-21-DE-OCTUBRE-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
