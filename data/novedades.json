@@ -1,8 +1,52 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-11T03:30:08+00:00",
-  "nuevos_en_esta_consulta": 5,
+  "ultima_consulta": "2026-11-11T04:34:43+00:00",
+  "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Orden del dia octubre 21 de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-octubre-21-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "3c10dbdd43b5ceb32913",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-11T04:34:43+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
+    {
+      "titulo": "Orden del dia 2026 10 21 miercoles 21 de octubre 2026 vot pls",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-10-21-miercoles-21-de-octubre-2026-vot-pls/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "8db0eefec2ed6bc4a18e",
+      "fecha_documento_normalizada": "2026-10-21",
+      "primera_deteccion": "2026-11-11T04:34:43+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Modificacion-Orden-del-dia-2026.10.21-mIercoles-21-de-octubre-2026-Vot-pls.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Ponencia-Primer-Debate-P.L.-216-2026C.-SAF-ley-2-2026.10.16.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Ponencia-Primer-Debate-P.L.-120-2026C.-.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Ponencia-Primer-Debate-P.L.-203-2026C.-baldios-ley-2-2026.10.14.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia martes 08 de septimbre de 2026 debate control politico prop 005 011 y 014 min minas y otros",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-08-de-septimbre-de-2026-debate-control-politico-prop-005-011-y-014-min-minas-y-otros/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "18acfd0ce4c1a6fc5e52",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-11T04:34:43+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+    },
     {
       "titulo": "Orden del dia miercoles 20 de mayo de 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-20-de-mayo-de-2026/",
@@ -3488,7 +3532,15 @@
       "identificador": "50870b30ba75cae5ea12",
       "fecha_documento_normalizada": "2024-03-13",
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/08/orden_dia/orden_del_dia_miercoles_13_de_marzo_de_2024_prop_046_mads_ejecucion_pptal_2023.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia 2025 09 09 martes 9 de septiembre de 2025 vot pls anun",
@@ -3854,7 +3906,13 @@
       "identificador": "786bddaec36dab247fef",
       "fecha_documento_normalizada": "2023-12-05",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7664-orden-del-dia-05-de-diciembre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "27 de noviembre de 2023",
@@ -3865,7 +3923,13 @@
       "identificador": "ef75eedee478c7cc09e3",
       "fecha_documento_normalizada": "2023-11-27",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7645-27-de-noviembre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia audiencia publica 27 de noviembre de 2023",
@@ -3876,7 +3940,13 @@
       "identificador": "326e1eebc24e226e3cbb",
       "fecha_documento_normalizada": "2023-11-27",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7646-orden-del-dia-audiencia-publica-27-de-noviembre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "21 de noviembre de 2023",
@@ -3887,7 +3957,13 @@
       "identificador": "d3609115127cf58c91b6",
       "fecha_documento_normalizada": "2023-11-21",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7627-21-de-noviembre-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 15 de noviembre de 2023 1",
@@ -5779,7 +5855,13 @@
       "identificador": "fdbd9318f1c9cb26a53e",
       "fecha_documento_normalizada": "2024-03-13",
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T04:34:43+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/7862-orden-del-dia-13-de-marzo-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Primera Legislatura (2026-2027)",
@@ -12080,60 +12162,6 @@
         "https://www.camara.gov.co/wp-content/uploads/2026/05/Mayo-19-de-2026-Orden-del-dia.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 11 de noviembre de 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-11-de-noviembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "d3bb5b5aaf7d7157bc1b",
-      "fecha_documento_normalizada": "2025-11-11",
-      "primera_deteccion": "2026-11-04T21:52:07+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T21:52:07+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MARTES-11-DE-NOVIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision septima constitucional permanente orden del dia 10 de septiembre de 2025",
-      "url": "https://www.camara.gov.co/evento/comision-septima-constitucional-permanente-orden-del-dia-10-de-septiembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "e053edafd7ce9f110b69",
-      "fecha_documento_normalizada": "2025-09-10",
-      "primera_deteccion": "2026-11-04T21:52:07+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-04T21:52:07+00:00",
-      "documentos_adjuntos": [
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Audiencias públicas territoriales - Proyecto de Ley de Competitividad - Cali ( jpeg, 293 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "7088bfe8e534760bc0d6",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-04T20:55:36+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T09:23:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
