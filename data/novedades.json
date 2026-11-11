@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-11T10:01:47+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-11T11:03:37+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Comision ii orden del dia miercoles 21 de octubre de 2026",
@@ -4350,7 +4350,13 @@
       "identificador": "0500b49693a459b0eb22",
       "fecha_documento_normalizada": "2023-03-31",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7010-orden-del-dia-31-de-marzo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 28 de marzo de 2023 1",
@@ -4361,7 +4367,13 @@
       "identificador": "49a8798276cbec6f834d",
       "fecha_documento_normalizada": "2023-03-28",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7004-orden-del-dia-28-de-marzo-de-2023-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 28 de febrero de 2023",
@@ -4372,7 +4384,13 @@
       "identificador": "90405fde1c7327230ca5",
       "fecha_documento_normalizada": "2023-02-28",
       "primera_deteccion": "2026-11-09T19:20:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/6940-orden-del-dia-28-de-febrero-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 15 de febrero de 2023",
@@ -6569,7 +6587,13 @@
       "identificador": "67ab1862ae7db702c3f4",
       "fecha_documento_normalizada": "2023-04-12",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7027-orden-del-dia-sesion-12-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 11 de abril de 2023",
@@ -6580,7 +6604,13 @@
       "identificador": "069fcb1780c519519cde",
       "fecha_documento_normalizada": "2023-04-11",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7020-orden-del-di-a-sesion-11-de-abril-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 29 de marzo de 2023",
@@ -6591,7 +6621,13 @@
       "identificador": "87fc45bb52ce0d69fd88",
       "fecha_documento_normalizada": "2023-03-29",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7008-orden-del-di-a-sesion-29-de-marzo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a sesion 28 de marzo de 2023",
@@ -6602,7 +6638,13 @@
       "identificador": "42518de768145a2a2405",
       "fecha_documento_normalizada": "2023-03-28",
       "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-11T11:03:37+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/6997-orden-del-di-a-sesion-28-de-marzo-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 19 de junio de 2024",
