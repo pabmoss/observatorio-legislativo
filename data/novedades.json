@@ -1,8 +1,65 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-12T09:43:01+00:00",
+  "ultima_consulta": "2026-11-12T10:47:12+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Orden del dia martes 27 de octubre conjuntas salon boyaca",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-27-de-octubre-conjuntas-salon-boyaca/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "02932b5569c4ff5e2238",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-12T10:47:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-MARTES-27-DE-OCTUBRE-2026-CONJUNTAS.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Comision ii orden del dia martes 08 de septiembre de 2026",
+      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-08-de-septiembre-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "ef18ae0b07a12961be86",
+      "fecha_documento_normalizada": "2026-09-08",
+      "primera_deteccion": "2026-11-12T10:47:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MARTES-08-DE-SEPTIEMBRE-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia martes 8 de septiembre de 2026 comision accidental bicameral para el seguimiento y acompanamiento a la atencion de los damnificados por el terremoto en san jose del palmar choco",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-8-de-septiembre-de-2026-comision-accidental-bicameral-para-el-seguimiento-y-acompanamiento-a-la-atencion-de-los-damnificados-por-el-terremoto-en-san-jose-del-palmar-choco/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "a19436ff58de6cd33840",
+      "fecha_documento_normalizada": "2026-09-08",
+      "primera_deteccion": "2026-11-12T10:47:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/ORDEN-DEL-DIA-SESION-8-DE-SEPTIEMBRE-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia mayo 20 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-mayo-20-2026/",
@@ -5147,7 +5204,8 @@
       "identificador": "b6350bf0e6b3c2fcccbf",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00"
     },
     {
       "titulo": "Ordenamiento territorial orden del dia sesion 03 septiembre 2025",
@@ -5177,7 +5235,14 @@
       "identificador": "7330c121b3843e81ef53",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Vigilancia de organismos control publico orden del dia miercoles 3 de septiembre",
@@ -5188,7 +5253,8 @@
       "identificador": "4aaa41181ece583665ee",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00"
     },
     {
       "titulo": "Comision legal de cuentas aplazado c6 orden del dia 3 de septiembre de 2025",
@@ -5255,7 +5321,8 @@
       "identificador": "c2ef3b79a979fab2288a",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T20:19:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T10:47:12+00:00"
     },
     {
       "titulo": "Gaceta 1741 · Senado de la República · 06/11/2026",
@@ -12744,63 +12811,6 @@
       "revisado_para_anexos": "2026-11-05T22:38:54+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/07/CONGRESO-PLENO-20-DE-JULIO-MODIFCADO-INSTALACION-2026-2030-2.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 17 06 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-17-06-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "6249c53d92bb824457f8",
-      "fecha_documento_normalizada": "2026-06-17",
-      "primera_deteccion": "2026-11-05T21:50:37+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T21:50:37+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/06/Plenaria-Orden-del-Dia-Proyectos-2026-06-17-2.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia junio 16 2026 sesion estatuto de oposicion",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-junio-16-2026-sesion-estatuto-de-oposicion/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "97b44c252eb9d9863724",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-05T21:50:37+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T21:50:37+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/06/Junio-17-de-2026-Orden-del-dia-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision ii orden del dia miercoles 17 de junio de 2026",
-      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-miercoles-17-de-junio-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "d1cbcff86af4862203c1",
-      "fecha_documento_normalizada": "2026-06-17",
-      "primera_deteccion": "2026-11-05T21:50:37+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T21:50:37+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/06/COMISION-II-ORDEN-DEL-DIA-MIEFCOLES-17-DE-JUNIO-DE-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
