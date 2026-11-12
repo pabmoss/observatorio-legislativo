@@ -1,8 +1,34 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-12T01:54:45+00:00",
+  "ultima_consulta": "2026-11-12T02:55:06+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Gaceta 1761 · Cámara de Representantes · 10/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "14f82813e730b6c354dd",
+      "fecha_documento": "10/11/2026",
+      "fecha_documento_normalizada": "2026-11-10",
+      "primera_deteccion": "2026-11-12T02:55:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00"
+    },
+    {
+      "titulo": "Gaceta 1760 · Cámara de Representantes · 10/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "793f5dff5070dcc9ded0",
+      "fecha_documento": "10/11/2026",
+      "fecha_documento_normalizada": "2026-11-10",
+      "primera_deteccion": "2026-11-12T02:55:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00"
+    },
     {
       "titulo": "C 4 orden del dia para la sesion ordinaria del martes 05 de mayo de 2026 recinto de la comision cuarta victor renan barco lopez",
       "url": "https://www.camara.gov.co/evento/c-4-orden-del-dia-para-la-sesion-ordinaria-del-martes-05-de-mayo-de-2026-recinto-de-la-comision-cuarta-victor-renan-barco-lopez/",
@@ -5672,7 +5698,13 @@
       "identificador": "659ae2da26a882a67d72",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3920-orden-del-dia-miercoles-18-de-marzo-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 11 de diciembre",
@@ -5683,7 +5715,13 @@
       "identificador": "094ecd527d9d365b6e93",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3259-orden-del-dia-miercoles-11-de-diciembre/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 10 de diciembre",
@@ -5694,7 +5732,13 @@
       "identificador": "b25642aec93e318c21a2",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3252-orden-del-dia-martes-10-de-diciembre/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA LUNES 09 DE DICIEMBRE 2019 ( jpg )",
@@ -5705,7 +5749,13 @@
       "identificador": "a67f9f6dfa3a3c37b75f",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3238-orden-del-dia-lunes-09-de-diciembre-2019-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA LUNES 09 DE DICIEMBRE 2019 ( jpg )",
@@ -5716,7 +5766,13 @@
       "identificador": "b25e83be8254e5bb58ad",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T02:55:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/3237-orden-del-dia-lunes-09-de-diciembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA MARTES 03 DE DICIEMBRE 2019 ( jpg, 93 KB )",
@@ -12671,44 +12727,6 @@
       "revisado_para_anexos": "2026-11-05T03:38:56+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/04/Orden-del-Dia-05-05-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision ii orden del dia martes 5de mayo de 2026",
-      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-5de-mayo-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "aeff3fddb9bb3923aba2",
-      "fecha_documento_normalizada": "2026-05-05",
-      "primera_deteccion": "2026-11-05T02:41:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T02:41:38+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/COMISION-II-ORDEN-DEL-DIA-MARTES-5-DE-MAYO-DE-2026-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 2026 05 05 martes 5 de mayo de 2026 control politico prop 035 mocoa",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-05-05-martes-5-de-mayo-de-2026-control-politico-prop-035-mocoa/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "80859a028ebca9303288",
-      "fecha_documento_normalizada": "2026-05-05",
-      "primera_deteccion": "2026-11-05T02:41:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-05T02:41:38+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/04/Orden-del-dia-2026.05.05.-Martes-5-de-MAYO-de-2026-Control-Politico-Prop-035-MOCOA.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
