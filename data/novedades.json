@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-12T11:43:52+00:00",
+  "ultima_consulta": "2026-11-12T12:46:20+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -6397,7 +6397,13 @@
       "identificador": "57f27049f92e174d8373",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2724-orden-del-dia-miercoles-20-de-noviembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 05 de noviembre 1",
@@ -6408,7 +6414,13 @@
       "identificador": "11972220b74b35188dc9",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2674-orden-del-dia-martes-05-de-noviembre-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 05 de noviembre",
@@ -6419,7 +6431,13 @@
       "identificador": "770fc474c2d6970ef8c3",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2673-orden-del-dia-martes-05-de-noviembre/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 30 de octubre 2019",
@@ -6430,7 +6448,13 @@
       "identificador": "5126075e5d9de8dd34b1",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2662-orden-del-dia-miercoles-30-de-octubre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "ORDEN DEL DIA MARTES 15 DE OCTUBRE 2019 ( jpeg, 177 KB )",
@@ -6441,7 +6465,13 @@
       "identificador": "a170ce670f514dab1a50",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2640-orden-del-dia-martes-15-de-octubre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 02 de octubre 2019",
@@ -6452,7 +6482,13 @@
       "identificador": "2d37c859857bd246679d",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2621-orden-del-dia-miercoles-02-de-octubre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 01 de octubre 2019",
@@ -6463,7 +6499,13 @@
       "identificador": "a7f64f7a592889dfb8d5",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T12:46:20+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2620-orden-del-dia-martes-01-de-octubre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 24 de septiembre 2019",
