@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-12T17:07:04+00:00",
+  "ultima_consulta": "2026-11-12T18:00:00+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -7867,7 +7867,8 @@
       "identificador": "f60c0320c1084417a863",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Orden del Día",
@@ -7878,7 +7879,8 @@
       "identificador": "81d85095374bd16ceeea",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Primera Legislatura (2022-2023)",
@@ -7889,7 +7891,8 @@
       "identificador": "9c40e221810d12f59008",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Segunda Legislatura (2023-2024)",
@@ -7900,7 +7903,8 @@
       "identificador": "3e4b40b2940da9ebb333",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Tercera Legislatura (2024-2025)",
@@ -7911,7 +7915,8 @@
       "identificador": "0959c5c1c3a5406e96a4",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Cuarta Legislatura (2025-2026)",
@@ -7922,7 +7927,8 @@
       "identificador": "d7addeef2a5ccfab4b4b",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Orden del dia 03 de abril de 2024",
@@ -7967,7 +7973,8 @@
       "identificador": "613c460f1b4837e8569a",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T17:16:56+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T18:00:00+00:00"
     },
     {
       "titulo": "Segunda Legislatura (2027-2028)",
