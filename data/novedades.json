@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-12T12:46:20+00:00",
+  "ultima_consulta": "2026-11-12T14:01:42+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -6516,7 +6516,13 @@
       "identificador": "92f1d6449c3b984d9074",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2607-orden-del-dia-martes-24-de-septiembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 17 de septiembre",
@@ -6527,7 +6533,13 @@
       "identificador": "a771d5ab8d73b870b634",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/2598-orden-del-dia-martes-17-de-septiembre/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 18 de agosto 2026",
@@ -6538,7 +6550,13 @@
       "identificador": "1e2c0736d33f710b96bd",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-segunda/orden-del-dia-17/9498-orden-del-dia-martes-18-de-agosto-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a jueves 30 de julio de 2026",
@@ -6566,7 +6584,13 @@
       "identificador": "0051f68df66b6c20e752",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2633-orden-del-dia-08-de-octubre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 25 de septiembre 2019",
@@ -6577,7 +6601,13 @@
       "identificador": "ec07fb1d603a75ac288f",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2606-orden-del-dia-25-de-septiembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 03 de septiembre 2019",
@@ -6588,7 +6618,13 @@
       "identificador": "8e2b471e8f77f7940725",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/2132-orden-del-dia-03-de-septiembre-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 22 de noviembre de 2022",
@@ -6684,7 +6720,13 @@
       "identificador": "d1caccaf1113b3aad487",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-09T18:11:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-12T14:01:42+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4150-orden-del-dia-04-de-junio-2020-xx/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 04 de junio 2020",
