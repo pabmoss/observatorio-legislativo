@@ -1,8 +1,72 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-13T20:56:00+00:00",
-  "nuevos_en_esta_consulta": 3,
+  "ultima_consulta": "2026-11-13T21:50:50+00:00",
+  "nuevos_en_esta_consulta": 4,
   "novedades": [
+    {
+      "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Yopal ( jpeg, 312 KB )",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9698-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-yopal/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "6eed7190bcdd18c37d24",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-13T21:50:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-13T21:50:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9698-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-yopal/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Proposiciones no avaladas de articulos nuevos que quedan como constancias pl 177 26s 305 26c",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9697-proposiciones-no-avaladas-de-articulos-nuevos-que-quedan-como-constancias-pl-177-26s-305-26c/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "e6aa55cef86bcb766d09",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-13T21:50:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-13T21:50:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9697-proposiciones-no-avaladas-de-articulos-nuevos-que-quedan-como-constancias-pl-177-26s-305-26c/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Proposiciones avaladas de articulos nuevos que quedan como constancias pl 177 26s 305 26c",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9696-proposiciones-avaladas-de-articulos-nuevos-que-quedan-como-constancias-pl-177-26s-305-26c/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "b3eb896cfdecf6030ca1",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-13T21:50:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-13T21:50:50+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9696-proposiciones-avaladas-de-articulos-nuevos-que-quedan-como-constancias-pl-177-26s-305-26c/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Gaceta 1805 · Cámara de Representantes · 13/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "2e6aec4a441cd73388a7",
+      "fecha_documento": "13/11/2026",
+      "fecha_documento_normalizada": "2026-11-13",
+      "primera_deteccion": "2026-11-13T21:50:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-13T21:50:50+00:00"
+    },
     {
       "titulo": "Orden del dia 8 de septiembre",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-8-de-septiembre/",
@@ -13070,74 +13134,6 @@
       "primera_deteccion": "2026-11-06T21:19:45+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-06T21:19:45+00:00"
-    },
-    {
-      "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Medellín ( jpeg, 490 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9702-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-medellin/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "0621a650c5a1097ebc07",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-06T18:25:54+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9702-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-medellin/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Tunja ( jpeg, 323 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9701-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-tunja/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "b3de67531a7e0b40a4ea",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-06T18:25:54+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9701-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-tunja/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Neiva ( jpeg, 403 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9700-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-neiva/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "7517eda9f95b60585157",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-06T18:25:54+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9700-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-neiva/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Audiencias públicas territoriales Proyecto de Ley de Competitividad - Barranquilla ( jpeg, 466 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9699-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-barranquilla/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "e0a165dd88dc2cbf11f8",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-06T18:25:54+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-06T18:25:54+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9699-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad-barranquilla/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     }
   ]
 }
