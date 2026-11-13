@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-13T12:34:12+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-13T13:52:29+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1771 · Senado de la República · 10/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "de9cb5de730e4e6f7361",
+      "fecha_documento": "10/11/2026",
+      "fecha_documento_normalizada": "2026-11-10",
+      "primera_deteccion": "2026-11-13T13:52:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-13T13:52:29+00:00"
+    },
     {
       "titulo": "Gaceta 1767 · Cámara de Representantes · 10/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13127,25 +13140,6 @@
       "revisado_para_anexos": "2026-11-06T03:37:55+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/08/ORDEN-DEL-DIA-PRESENTACION-PGN-2026-1-1.docx.-1-1-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 11 de agosto de 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-11-de-agosto-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "f497d0f31b30679296fa",
-      "fecha_documento_normalizada": "2026-08-11",
-      "primera_deteccion": "2026-11-06T03:37:55+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-06T03:37:55+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/08/ORDEN-DEL-DIA-MARTES-11-AGOSTO-2026-_Firmada_05.08.2026-1.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
