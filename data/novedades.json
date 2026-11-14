@@ -1,8 +1,56 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-14T18:21:36+00:00",
+  "ultima_consulta": "2026-11-14T19:15:08+00:00",
   "nuevos_en_esta_consulta": 4,
   "novedades": [
+    {
+      "titulo": "Agenda legislativa del 19 al 23 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9671-agenda-legislativa-del-19-al-23-de-octubre-de-2026",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "5a6c3cf74ee889d1581f",
+      "fecha_documento_normalizada": "2026-10-23",
+      "primera_deteccion": "2026-11-14T19:15:08+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00"
+    },
+    {
+      "titulo": "Agenda legislativa del 13 al 16 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9661-agenda-legislativa-del-13-al-16-de-octubre-de-2026",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "189f3562d6c122046f69",
+      "fecha_documento_normalizada": "2026-10-16",
+      "primera_deteccion": "2026-11-14T19:15:08+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00"
+    },
+    {
+      "titulo": "Agenda legislativa del 28 de septiembre al 2 de octubre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9658-agenda-legislativa-del-28-de-septiembre-al-2-de-octubre-de-2026",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "b11da004b6900ce95c03",
+      "fecha_documento_normalizada": "2026-10-02",
+      "primera_deteccion": "2026-11-14T19:15:08+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00"
+    },
+    {
+      "titulo": "Agenda legislativa del 21 al 25 de septiembre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9608-agenda-legislativa-del-21-al-25-de-septiembre-de-2026",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "bd9e5c8ec863f29a716c",
+      "fecha_documento_normalizada": "2026-09-25",
+      "primera_deteccion": "2026-11-14T19:15:08+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00"
+    },
     {
       "titulo": "Orden del dia plenaria 15 10 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-15-10-2026/",
@@ -532,7 +580,16 @@
       "identificador": "c1a72b71eb95f0fc57ef",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-14T17:00:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/COMISION%20II%20ORDEN%20DEL%20DIA%20MARTES%2024%20DE%20SEPTIEMBRE%20DE%20%202025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/COMISION-II-ORDEN-DEL-DIA-MARTES-24-DE-SEPTIEMBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 24 09 2025",
@@ -543,7 +600,15 @@
       "identificador": "20bd97ed64cdb3c80dd5",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-14T17:00:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Plenaria-Orden-del-Dia-Votacion-mocion-2025-09-24.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Ordenamiento territorial orden del dia sesion cot 24 septiembre 2025",
@@ -554,7 +619,15 @@
       "identificador": "f50c5d1813a5e31844b9",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-14T17:00:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T19:15:08+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Orden-del-dia-Sesion-COT_24-Septiembre-2025-.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Vigilancia de organismos control publico orden del dia miercoles 24 de septiembre",
@@ -13022,59 +13095,6 @@
       "primera_deteccion": "2026-11-07T16:15:09+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-07T16:15:09+00:00"
-    },
-    {
-      "titulo": "Ordenes del Día 2021",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2021",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "f93fce88dc62dd5cf3a6",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-07T16:15:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T16:15:09+00:00"
-    },
-    {
-      "titulo": "Ordenes del día 2022",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2022",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "90bcfe30f256e273415c",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-07T16:15:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T16:15:09+00:00"
-    },
-    {
-      "titulo": "Ordenes del día 2023",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2023",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "e41a47dfceab8e081ab0",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-07T15:23:20+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T15:23:20+00:00"
-    },
-    {
-      "titulo": "Orden del dia 1 de sep 2026 sesiones conjuntas 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/9533-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-1/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "5c6cbf1f8dfd9d421cbc",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-07T15:23:20+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T15:23:20+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/9533-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     }
   ]
 }
