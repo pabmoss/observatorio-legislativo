@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-14T02:26:23+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-14T03:26:45+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1818 · Cámara de Representantes · 13/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "75fe449ced505df440c9",
+      "fecha_documento": "13/11/2026",
+      "fecha_documento_normalizada": "2026-11-13",
+      "primera_deteccion": "2026-11-14T03:26:45+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T03:26:45+00:00"
+    },
     {
       "titulo": "C4 orden del dia para la sesion de las comisiones economicas conjunta del martes 27 de octubre de 2026 lugar recinto salon eliptico del capitolio nacional hora 0900 a m",
       "url": "https://www.camara.gov.co/evento/c4-orden-del-dia-para-la-sesion-de-las-comisiones-economicas-conjunta-del-martes-27-de-octubre-de-2026-lugar-recinto-salon-eliptico-del-capitolio-nacional-hora-0900-a-m/",
@@ -13137,19 +13150,6 @@
       "primera_deteccion": "2026-11-07T04:28:48+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-07T04:28:48+00:00"
-    },
-    {
-      "titulo": "Gaceta 1745 · Cámara de Representantes · 06/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "b8b15c12b7ab1bb314bf",
-      "fecha_documento": "06/11/2026",
-      "fecha_documento_normalizada": "2026-11-06",
-      "primera_deteccion": "2026-11-07T03:26:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T03:26:47+00:00"
     }
   ]
 }
