@@ -1,8 +1,47 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-13T23:22:34+00:00",
+  "ultima_consulta": "2026-11-14T00:15:17+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia plenaria 08 09 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-08-09-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "1d0076c5a1ce585e902a",
+      "fecha_documento_normalizada": "2026-09-08",
+      "primera_deteccion": "2026-11-14T00:15:17+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T00:15:17+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Plenaria-Orden-del-Dia-Proyectos-2026-09-08-1-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/APLAZAMIENTO-PLENARIA-CAMARA-08-09-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia 2026 0519 martes 19 de mayo de 2026 vot pls n",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-0519-martes-19-de-mayo-de-2026-vot-pls-n/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "d2dc2c6510b7f4d74b2a",
+      "fecha_documento_normalizada": "2026-05-19",
+      "primera_deteccion": "2026-11-14T00:15:17+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T00:15:17+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/Orden-del-dia-2026.05.20.-miercoles-20-de-mayo-de-2026-vot-pls-n-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Texto aprobado sesiones conjuntas pl 177 26s 305 26c competitividad",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9707-texto-aprobado-sesiones-conjuntas-pl-177-26s-305-26c-competitividad/file",
@@ -13104,39 +13143,6 @@
       "primera_deteccion": "2026-11-07T03:26:47+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-07T03:26:47+00:00"
-    },
-    {
-      "titulo": "Gaceta 1728 · Senado de la República · 05/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "45bda036e5cd038fede2",
-      "fecha_documento": "05/11/2026",
-      "fecha_documento_normalizada": "2026-11-05",
-      "primera_deteccion": "2026-11-07T03:26:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T03:26:47+00:00"
-    },
-    {
-      "titulo": "C4 orden del dia para la sesion de las comisiones economicas conjunta del martes 27 de octubre de 2026 lugar recinto salon eliptico del capitolio nacional hora 0900 a m",
-      "url": "https://www.camara.gov.co/evento/c4-orden-del-dia-para-la-sesion-de-las-comisiones-economicas-conjunta-del-martes-27-de-octubre-de-2026-lugar-recinto-salon-eliptico-del-capitolio-nacional-hora-0900-a-m/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "dac81aecc594d5e17a0a",
-      "fecha_documento_normalizada": "2026-10-27",
-      "primera_deteccion": "2026-11-06T23:24:19+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-06T23:24:19+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-MARTES-27-DE-OCTUBRE-D-E-2026-Modificado.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/CIRCULAR-Modificacion-orden-del-dia-27-de-oct-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     }
   ]
 }
