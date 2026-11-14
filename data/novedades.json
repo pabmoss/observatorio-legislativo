@@ -1,8 +1,66 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-14T19:58:47+00:00",
+  "ultima_consulta": "2026-11-14T20:42:46+00:00",
   "nuevos_en_esta_consulta": 4,
   "novedades": [
+    {
+      "titulo": "07 orden del dia jueves 05 septiembre de 2024 presupuesto 2 acta 07",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8405-07-orden-del-dia-jueves-05-septiembre-de-2024-presupuesto-2-acta-07/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "9cf9c87c96c13781cee7",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-14T20:42:46+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8405-07-orden-del-dia-jueves-05-septiembre-de-2024-presupuesto-2-acta-07/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "05 orden del di a sesion mixta martes 27 de agosto 2024 discusion y votacion proyectos de ley acta 05",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8403-05-orden-del-di-a-sesion-mixta-martes-27-de-agosto-2024-discusion-y-votacion-proyectos-de-ley-acta-05/file",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "417d84e6e2c402001ea7",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-14T20:42:46+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8403-05-orden-del-di-a-sesion-mixta-martes-27-de-agosto-2024-discusion-y-votacion-proyectos-de-ley-acta-05/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Ordenes del Dia 2019",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2019",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "bc595afaaa74c1632566",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-14T20:42:46+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00"
+    },
+    {
+      "titulo": "Ordenes del Día 2020",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2020",
+      "fuente": "Senado · Comisión Septima",
+      "fuente_id": "senado-c7",
+      "clase": "orden_del_dia",
+      "identificador": "06e60114d1e3feda38e6",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-14T20:42:46+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00"
+    },
     {
       "titulo": "Ordenes del Día 2021",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/ordenes-del-dia/ordenes-del-dia-2021",
@@ -189,7 +247,15 @@
       "identificador": "2050d062b06b7499c266",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-14T17:40:51+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-MIERCOLES-14-DE-OCTUBRE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision ii orden del dia miercoles 14 de octubre de 2026",
@@ -257,7 +323,15 @@
       "identificador": "a8c2b88aae6afe9633b1",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-14T17:40:51+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Octubre-13-de-2026-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision ii orden del dia jueves 29 de octubre 2026",
@@ -268,7 +342,15 @@
       "identificador": "3085a596c61cad4e1461",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-14T17:00:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T20:42:46+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/COMISION-II-ORDEN-DEL-DIA-JUEVES-29-DE-OCTUBRE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 28 de octubre conjuntas recinto plenaria senado",
@@ -13042,74 +13124,6 @@
       "revisado_para_anexos": "2026-11-07T18:21:05+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8410-12-orden-del-dia-martes-24-de-septiembre-de-2024-or-pl-y-aprob-acta-7-acta-11-3/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "10 orden del dia miercoles 11 de septiembre de 2024 aprob in presupuesto 3 acta 09 2",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8408-10-orden-del-dia-miercoles-11-de-septiembre-de-2024-aprob-in-presupuesto-3-acta-09-2/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "6f6680b756906838b956",
-      "fecha_documento_normalizada": "2024-09-11",
-      "primera_deteccion": "2026-11-07T18:21:05+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T18:21:05+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8408-10-orden-del-dia-miercoles-11-de-septiembre-de-2024-aprob-in-presupuesto-3-acta-09-2/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "08 orden del dia viernes 06 de septiembre de 2024 presupuesto 3 acta 08",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8406-08-orden-del-dia-viernes-06-de-septiembre-de-2024-presupuesto-3-acta-08/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "971c01c6d59a6edfcc72",
-      "fecha_documento_normalizada": "2024-09-06",
-      "primera_deteccion": "2026-11-07T17:39:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T17:39:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8406-08-orden-del-dia-viernes-06-de-septiembre-de-2024-presupuesto-3-acta-08/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "09 orden del dia miercoles 31 de agosto de 2022 9 de la manana presupuesto acta 09 f",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8407-09-orden-del-dia-miercoles-31-de-agosto-de-2022-9-de-la-manana-presupuesto-acta-09-f/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "d4b20f0f813f1ff76d53",
-      "fecha_documento_normalizada": "2022-08-31",
-      "primera_deteccion": "2026-11-07T17:39:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T17:39:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8407-09-orden-del-dia-miercoles-31-de-agosto-de-2022-9-de-la-manana-presupuesto-acta-09-f/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "06 orden del di a martes 03 septiembre de 2024 presupuesto 1 acta 06 f3",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8404-06-orden-del-di-a-martes-03-septiembre-de-2024-presupuesto-1-acta-06-f3/file",
-      "fuente": "Senado · Comisión Septima",
-      "fuente_id": "senado-c7",
-      "clase": "orden_del_dia",
-      "identificador": "1f78ac781d319576e131",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-07T17:39:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T17:39:29+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8404-06-orden-del-di-a-martes-03-septiembre-de-2024-presupuesto-1-acta-06-f3/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
