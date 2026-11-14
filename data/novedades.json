@@ -1,8 +1,28 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-14T00:15:17+00:00",
-  "nuevos_en_esta_consulta": 2,
+  "ultima_consulta": "2026-11-14T01:29:31+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "C4 orden del dia para la sesion de las comisiones economicas conjunta del martes 27 de octubre de 2026 lugar recinto salon eliptico del capitolio nacional hora 0900 a m",
+      "url": "https://www.camara.gov.co/evento/c4-orden-del-dia-para-la-sesion-de-las-comisiones-economicas-conjunta-del-martes-27-de-octubre-de-2026-lugar-recinto-salon-eliptico-del-capitolio-nacional-hora-0900-a-m/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "dac81aecc594d5e17a0a",
+      "fecha_documento_normalizada": "2026-10-27",
+      "primera_deteccion": "2026-11-14T01:29:31+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-14T01:29:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-MARTES-27-DE-OCTUBRE-D-E-2026-Modificado.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/CIRCULAR-Modificacion-orden-del-dia-27-de-oct-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia plenaria 08 09 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-08-09-2026/",
@@ -13127,19 +13147,6 @@
       "identificador": "b8b15c12b7ab1bb314bf",
       "fecha_documento": "06/11/2026",
       "fecha_documento_normalizada": "2026-11-06",
-      "primera_deteccion": "2026-11-07T03:26:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-07T03:26:47+00:00"
-    },
-    {
-      "titulo": "Gaceta 1732 · Senado de la República · 05/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "83df9c3dc4289f0f2de2",
-      "fecha_documento": "05/11/2026",
-      "fecha_documento_normalizada": "2026-11-05",
       "primera_deteccion": "2026-11-07T03:26:47+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-07T03:26:47+00:00"
