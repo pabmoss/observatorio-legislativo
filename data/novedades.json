@@ -1,8 +1,85 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-15T06:39:48+00:00",
+  "ultima_consulta": "2026-11-15T07:51:57+00:00",
   "nuevos_en_esta_consulta": 4,
   "novedades": [
+    {
+      "titulo": "Orden del dia septiembre 08 de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-septiembre-08-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "22d2603f2d41e26d3d6d",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-15T07:51:57+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T07:51:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Septiembre-08-de-2026-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia 2026 08 25 miercoles 9 de septiembre de 2026 eleccion comision rectora regalias y vot p 013 de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-08-25-miercoles-9-de-septiembre-de-2026-eleccion-comision-rectora-regalias-y-vot-p-013-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "3d2fa13f847d7f09ba39",
+      "fecha_documento_normalizada": "2026-08-25",
+      "primera_deteccion": "2026-11-15T07:51:57+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T07:51:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Orden-del-dia-2026.09.25.-MIERCOLES-9-de-septiembre-de-2026-ELECCION-COMISION-RECTORA-REGALIAS-y-vot-p-013-de-2026.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Ponencia-Primer-Debate-P.L.-013-2026C.-pdf.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "C3 orden del dia sesion ordinaria 20 de mayo de 2026",
+      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-20-de-mayo-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "dc5ec97d56358799531b",
+      "fecha_documento_normalizada": "2026-05-20",
+      "primera_deteccion": "2026-11-15T07:51:57+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T07:51:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-APROBACION-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia plenaria 20 05 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-20-05-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "e61ec199834b40aaff78",
+      "fecha_documento_normalizada": "2026-05-20",
+      "primera_deteccion": "2026-11-15T07:51:57+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T07:51:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/Plenaria-Orden-del-Dia-Proyectos-2026-05-20-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia 2026 03 18 miercoles 18 de marzode 2026 auncio pls y actas 1516y 17",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-03-18-miercoles-18-de-marzode-2026-auncio-pls-y-actas-1516y-17/",
@@ -13099,78 +13176,6 @@
       "revisado_para_anexos": "2026-11-08T20:00:31+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9666-orden-del-dia-sesion-21-de-octubre-de-2026-barrancabermeja-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 21 de octubre de 2026 barrancabermeja",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9665-orden-del-dia-sesion-21-de-octubre-de-2026-barrancabermeja/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "73310681b96bd16aa0f0",
-      "fecha_documento_normalizada": "2026-10-21",
-      "primera_deteccion": "2026-11-08T20:00:31+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-08T20:00:31+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9665-orden-del-dia-sesion-21-de-octubre-de-2026-barrancabermeja/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 20 de octubre de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9664-orden-del-dia-sesion-20-de-octubre-de-2026/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "c15d18b2908aee3e64c5",
-      "fecha_documento_normalizada": "2026-10-20",
-      "primera_deteccion": "2026-11-08T20:00:31+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-08T20:00:31+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9664-orden-del-dia-sesion-20-de-octubre-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 27 de octubre de 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-27-de-octubre-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "944a2356999ad7c04f89",
-      "fecha_documento_normalizada": "2026-10-27",
-      "primera_deteccion": "2026-11-08T19:15:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-08T19:15:06+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-octubre-27-de-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 09 09 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-09-09-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "b744c8d8f5404e1c365b",
-      "fecha_documento_normalizada": "2026-09-09",
-      "primera_deteccion": "2026-11-08T19:15:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-08T19:15:06+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/09/Plenaria-Orden-del-Dia-Proyectos-2026-09-09.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
