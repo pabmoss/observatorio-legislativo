@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-15T20:15:53+00:00",
+  "ultima_consulta": "2026-11-15T21:00:30+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Orden del dia sesion 17 de junio de 2025",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8881-orden-del-dia-sesion-17-de-junio-de-2025/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "a357cf9bbeb3b391eafd",
+      "fecha_documento_normalizada": "2025-06-17",
+      "primera_deteccion": "2026-11-15T21:00:30+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T21:00:30+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8881-orden-del-dia-sesion-17-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion 16 de junio de 2025",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8878-orden-del-dia-sesion-16-de-junio-de-2025/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "81b400c3e01265b7af5f",
+      "fecha_documento_normalizada": "2025-06-16",
+      "primera_deteccion": "2026-11-15T21:00:30+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T21:00:30+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8878-orden-del-dia-sesion-16-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion 11 de junio de 2025",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8874-orden-del-dia-sesion-11-de-junio-de-2025/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "f1a31c6c1432223ea507",
+      "fecha_documento_normalizada": "2025-06-11",
+      "primera_deteccion": "2026-11-15T21:00:30+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-15T21:00:30+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8874-orden-del-dia-sesion-11-de-junio-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia sesion 9 de junio de 2025",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8872-orden-del-dia-sesion-9-de-junio-de-2025/file",
@@ -13129,57 +13180,6 @@
       "revisado_para_anexos": "2026-11-09T11:40:46+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/7950-orden-del-dia-sesion-30-de-abril-de-2024/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 24 de abril de 2024 1",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/7932-orden-del-dia-sesion-24-de-abril-de-2024-1/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "236495e7f08fda7b8e81",
-      "fecha_documento_normalizada": "2024-04-24",
-      "primera_deteccion": "2026-11-09T11:40:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-09T11:40:46+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/7932-orden-del-dia-sesion-24-de-abril-de-2024-1/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 19 de junio de 2025",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8883-orden-del-dia-sesion-19-de-junio-de-2025/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "af48b888ba79c2406539",
-      "fecha_documento_normalizada": "2025-06-19",
-      "primera_deteccion": "2026-11-09T11:40:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-09T11:40:46+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8883-orden-del-dia-sesion-19-de-junio-de-2025/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 18 de junio de 2025",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8882-orden-del-dia-sesion-18-de-junio-de-2025/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "a5b14b7d3aa8e60d5d53",
-      "fecha_documento_normalizada": "2025-06-18",
-      "primera_deteccion": "2026-11-09T10:41:24+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-09T10:41:24+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-1/8882-orden-del-dia-sesion-18-de-junio-de-2025/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
