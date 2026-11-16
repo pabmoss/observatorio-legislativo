@@ -1,8 +1,47 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-16T21:30:11+00:00",
+  "ultima_consulta": "2026-11-16T22:27:06+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia 2025 11 12 miercoles 12 de noviembre de 2025 votac pls",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2025-11-12-miercoles-12-de-noviembre-de-2025-votac-pls/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "d877e72455ff11fe09d0",
+      "fecha_documento_normalizada": "2025-11-12",
+      "primera_deteccion": "2026-11-16T22:27:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-16T22:27:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Orden-del-Dia-2025-11-12-miercoles-12-de-noviembre-de-2025-Votac.-PLs.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Comision quinta constitucional permanente orden del dia 2025 09 17 miercoles 17 de septiembre de 2025 propo 002 y 010",
+      "url": "https://www.camara.gov.co/evento/comision-quinta-constitucional-permanente-orden-del-dia-2025-09-17-miercoles-17-de-septiembre-de-2025-propo-002-y-010/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "5bfdff7b9011c133adc1",
+      "fecha_documento_normalizada": "2025-09-17",
+      "primera_deteccion": "2026-11-16T22:27:06+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-16T22:27:06+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Orden-del-Dia-2025-09-17-miercoles-17-de-SEPTIEMBRE-de-2025-propo-002-y-010.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Respuesta-CAM.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Comision sexta o de transportes y comunicaciones orden del dia miercoles 17 de septiembre de 2025",
       "url": "https://www.camara.gov.co/evento/comision-sexta-o-de-transportes-y-comunicaciones-orden-del-dia-miercoles-17-de-septiembre-de-2025/",
@@ -13139,44 +13178,6 @@
       "revisado_para_anexos": "2026-11-12T20:54:05+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/03/1-Orden-del-dia-Sesion-Conjunta-24-de-marzo-de-2026-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 12 11 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-12-11-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "fc1d95297dfdfbdbbfeb",
-      "fecha_documento_normalizada": "2025-11-12",
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-10T07:50:49+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Plenaria-Orden-del-Dia-Proyectos-2025-11-12.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia noviembre 12 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-noviembre-12-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "53ae9c063cfc2d62eed3",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T20:54:05+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Noviembre-12-de-2025-Orden-del-dia-1.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
