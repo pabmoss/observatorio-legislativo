@@ -1,8 +1,46 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-16T03:51:29+00:00",
+  "ultima_consulta": "2026-11-16T05:23:39+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia miercoles 18 de marzo",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-18-de-marzo/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "b3a227d43d355fc4392a",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-16T05:23:39+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-16T05:23:39+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/03/ORDEN-DEL-DIA-MIERCOLES-18-DE-MARZO.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Agenda comision tercera semana comprendida entre el 23 de marzo de 2026 al 27 de marzo de 2026",
+      "url": "https://www.camara.gov.co/evento/agenda-comision-tercera-semana-comprendida-entre-el-23-de-marzo-de-2026-al-27-de-marzo-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "e92abbc036398557b2e5",
+      "fecha_documento_normalizada": "2026-03-23",
+      "primera_deteccion": "2026-11-16T05:23:39+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-16T05:23:39+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/03/AGENDA-SEMANA-DEL-23-al-27-de-marzo-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia marzo 18 2025",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-marzo-18-2025/",
@@ -13140,44 +13178,6 @@
       "revisado_para_anexos": "2026-11-10T01:43:22+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-19-MAYO-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia marzo 24 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-marzo-24-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "ed263a976338cba22342",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-09T14:58:55+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T21:50:42+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/03/Marzo-24-de-2026-Orden-del-dia.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 25 de marzo",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-25-de-marzo/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "0c9604bf89bb0ff02be5",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-09T14:58:55+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T21:50:42+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/03/ORDEN-DEL-DIA-marzo-25-de-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
