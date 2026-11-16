@@ -1,8 +1,42 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-16T18:31:46+00:00",
+  "ultima_consulta": "2026-11-16T19:37:29+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia sesion 24 de mayo de 2024 san andres isla",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8012-orden-del-dia-sesion-24-de-mayo-de-2024-san-andres-isla/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "f5ed6574cc7f0ef2f9af",
+      "fecha_documento_normalizada": "2024-05-24",
+      "primera_deteccion": "2026-11-16T19:37:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-16T19:37:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8012-orden-del-dia-sesion-24-de-mayo-de-2024-san-andres-isla/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion 21 de mayo de 2024",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8011-orden-del-dia-sesion-21-de-mayo-de-2024/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "e430a3828c31bc6a83d0",
+      "fecha_documento_normalizada": "2024-05-21",
+      "primera_deteccion": "2026-11-16T19:37:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-16T19:37:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8011-orden-del-dia-sesion-21-de-mayo-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia clc octubre 28 de 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-clc-octubre-28-de-2026/",
@@ -13149,41 +13183,6 @@
         "https://www.camara.gov.co/wp-content/uploads/2025/09/17-de-septiembre-de-2025.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision septima constitucional permanente orden del dia 17 de septiembre de 2025",
-      "url": "https://www.camara.gov.co/evento/comision-septima-constitucional-permanente-orden-del-dia-17-de-septiembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "c65800b129638f523e4c",
-      "fecha_documento_normalizada": "2025-09-17",
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-10T14:58:37+00:00",
-      "documentos_adjuntos": [
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 22 de mayo de 2024",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8024-orden-del-dia-sesion-22-de-mayo-de-2024/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "e3c65db1b50027cbf1a2",
-      "fecha_documento_normalizada": "2024-05-22",
-      "primera_deteccion": "2026-11-09T14:58:55+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T02:33:40+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8024-orden-del-dia-sesion-22-de-mayo-de-2024/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
