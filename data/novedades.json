@@ -1,8 +1,42 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-17T10:37:25+00:00",
+  "ultima_consulta": "2026-11-17T11:36:27+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia sesion 5 de junio de 2024",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8051-orden-del-dia-sesion-5-de-junio-de-2024/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "b77ba0da30c26f360fe1",
+      "fecha_documento_normalizada": "2024-06-05",
+      "primera_deteccion": "2026-11-17T11:36:27+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-17T11:36:27+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8051-orden-del-dia-sesion-5-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia sesion 4 de junio de 2024",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8050-orden-del-dia-sesion-4-de-junio-de-2024/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "6cd72d4f0f76a5e3a93d",
+      "fecha_documento_normalizada": "2024-06-04",
+      "primera_deteccion": "2026-11-17T11:36:27+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-17T11:36:27+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8050-orden-del-dia-sesion-4-de-junio-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia sesion 28 de mayo de 2024",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8028-orden-del-dia-sesion-28-de-mayo-de-2024/file",
@@ -13150,40 +13184,6 @@
       "revisado_para_anexos": "2026-11-11T00:25:14+00:00",
       "documentos_adjuntos": [
         "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8085-orden-del-dia-sesion-13-de-junio-de-2024-ciudad-de-pereira/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 12 de junio de 2024",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8084-orden-del-dia-sesion-12-de-junio-de-2024/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "5b40282136b3ba89bb7a",
-      "fecha_documento_normalizada": "2024-06-12",
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T00:25:14+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8084-orden-del-dia-sesion-12-de-junio-de-2024/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion 11 de junio de 2024",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8083-orden-del-dia-sesion-11-de-junio-de-2024/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "cd5478465dfb21f50f1f",
-      "fecha_documento_normalizada": "2024-06-11",
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T01:44:13+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024/8083-orden-del-dia-sesion-11-de-junio-de-2024/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
