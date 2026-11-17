@@ -1,8 +1,46 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-17T04:43:28+00:00",
+  "ultima_consulta": "2026-11-17T05:46:03+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia octubre 27 de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-octubre-27-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "2b011c78d29f1e914824",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-17T05:46:03+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-17T05:46:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Octubre-27-de-2026-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Comision ii orden del dia martes 15 de septiembre de 2026",
+      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-15-de-septiembre-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "486a09881109ed426c6e",
+      "fecha_documento_normalizada": "2026-09-15",
+      "primera_deteccion": "2026-11-17T05:46:03+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-17T05:46:03+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MARTES-15-DE-SEPTIEMBRE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia martes 15 de septiembre prop 004 010 014 019 y 027 de 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-15-de-septiembre-prop-004-010-014-019-y-027-de-2026/",
@@ -13140,44 +13178,6 @@
       "revisado_para_anexos": "2026-11-09T16:05:39+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA.-28-DE-OCTUBRE-DE-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3 orden del dia sesion ordinaria 26 de octubre de 2026",
-      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-26-de-octubre-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "5656ae3241a9cb917c52",
-      "fecha_documento_normalizada": "2026-10-26",
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-09T16:05:39+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA.-SESION-ORDINARIA-26-octubre-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Agenda comision tercera semana comprendida entre el 26 de octubre de 2026 al 30 de octubre de 2026",
-      "url": "https://www.camara.gov.co/evento/agenda-comision-tercera-semana-comprendida-entre-el-26-de-octubre-de-2026-al-30-de-octubre-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "47d3c40588252600eec7",
-      "fecha_documento_normalizada": "2026-10-26",
-      "primera_deteccion": "2026-11-09T16:05:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-09T16:05:39+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/AGENDA-SEMANA-DEL-26-al-30-DE-OCTUBRE-de-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
