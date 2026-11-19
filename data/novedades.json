@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-19T11:31:48+00:00",
+  "ultima_consulta": "2026-11-19T12:38:28+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -104,7 +104,15 @@
       "identificador": "13d9ee2df6c54a4817c4",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-19T00:30:22+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Septiembre-16-de-2026-Orden-del-dia.-Pr.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion ordinaria 2 de junio de 2026",
@@ -4759,7 +4767,13 @@
       "identificador": "958b2b2d2b95426d761f",
       "fecha_documento_normalizada": "2019-10-01",
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2619-orden-del-dia-martes-01-de-octubre-de-2019/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 24 de septiembre de 2019 conjuntas",
@@ -4770,7 +4784,13 @@
       "identificador": "60d7438007451041e84e",
       "fecha_documento_normalizada": "2019-09-24",
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2615-orden-del-dia-martes-24-de-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia lunes 23 de septiembre de 2019 conjuntas",
@@ -4781,7 +4801,13 @@
       "identificador": "b7739a22e6edd6a02f1b",
       "fecha_documento_normalizada": "2019-09-23",
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2603-orden-del-dia-lunes-23-de-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 11 de septiembre de 2019 conjuntas",
@@ -4792,7 +4818,13 @@
       "identificador": "d1d873d432eacbeb5a32",
       "fecha_documento_normalizada": "2019-09-11",
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2443-orden-del-dia-miercoles-11-de-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia lunes 9 septiembre de 2019 conjuntas",
@@ -5121,7 +5153,8 @@
       "identificador": "6b5062572bce06250617",
       "fecha_documento_normalizada": "2018-07-20",
       "primera_deteccion": "2026-11-17T22:30:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2019 - 20 Julio 2020",
@@ -5132,7 +5165,8 @@
       "identificador": "66a825dd6d29b4c2f174",
       "fecha_documento_normalizada": "2019-07-20",
       "primera_deteccion": "2026-11-17T22:30:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T12:38:28+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2020 - 20 Julio 2021",
