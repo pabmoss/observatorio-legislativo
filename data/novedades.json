@@ -1,8 +1,34 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-19T02:56:51+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-19T04:00:12+00:00",
+  "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Gaceta 1851 · Senado de la República · 18/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "96cea46a56c23983e3ea",
+      "fecha_documento": "18/11/2026",
+      "fecha_documento_normalizada": "2026-11-18",
+      "primera_deteccion": "2026-11-19T04:00:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00"
+    },
+    {
+      "titulo": "Gaceta 1837 · Cámara de Representantes · 18/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "1c0cecb48ba9d8c83f29",
+      "fecha_documento": "18/11/2026",
+      "fecha_documento_normalizada": "2026-11-18",
+      "primera_deteccion": "2026-11-19T04:00:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00"
+    },
     {
       "titulo": "Gaceta 1847 · Senado de la República · 18/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -253,7 +279,15 @@
       "identificador": "4294c2afb624ca4b47c1",
       "fecha_documento_normalizada": "2025-10-29",
       "primera_deteccion": "2026-11-18T20:31:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Plenaria-Orden-del-Dia-Proyectos-2025-10-29-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Gaceta 1835 · Senado de la República · 18/11/2026",
@@ -1232,7 +1266,17 @@
       "identificador": "07e7a6d72ab704b516a0",
       "fecha_documento_normalizada": "2025-10-01",
       "primera_deteccion": "2026-11-18T18:11:36+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/aclaracion-y-reprogramacion-fecha-citacion-Sesion-Ordinaria-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/aclaracion-y-reprogramacion-fecha-citacion-Sesion-Ordinaria_0.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/reprogramacion-ORDEN-DEL-DIA-MIERCOLES-01-DE-OCTUBRE-DE-2025-ELECCION-DE-SECRETARIO-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 30 09 2025",
@@ -1243,7 +1287,15 @@
       "identificador": "0c66d1abafc717b58c08",
       "fecha_documento_normalizada": "2025-09-30",
       "primera_deteccion": "2026-11-18T18:11:36+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Plenaria-Orden-del-Dia-Proyectos-2025-09-30.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia 2025 09 30 martes 30 de septiembre de 2025 vot pls",
@@ -1298,7 +1350,18 @@
       "identificador": "5f768bed75d019cb98de",
       "fecha_documento_normalizada": "2025-10-01",
       "primera_deteccion": "2026-11-18T18:11:36+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/aclaracion-y-reprogramacion-fecha-citacion-Sesion-Ordinaria.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/COMUNICACION-RESOLUCION-MD-No.-0936-del-24-de-septiembre-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Citacion-Sesion-Ordinaria-HR-martes-30-de-septiembre-de-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-ELECCION-DE-SECRETARIO-martes-30-de-spt-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Gaceta 1831 · Senado de la República · 17/11/2026",
@@ -2404,7 +2467,15 @@
       "identificador": "ec73a54efb7f7e03ec6c",
       "fecha_documento_normalizada": "2025-11-04",
       "primera_deteccion": "2026-11-18T11:45:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T04:00:12+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Plenaria-Orden-del-Dia-Proyectos-2025-11-04-3.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision tercera o de hacienda y credito publico agenda comision tercera semana comprendida entre el 22 de septiembre al 26 de septiembre de 2025",
@@ -12283,45 +12354,6 @@
       "revisado_para_anexos": "2026-11-11T22:22:39+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2025/12/ORDEN-DEL-DIA-CONJUNTAS-09-DE-DICIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C 4 orden del dia para las sesiones conjuntas del martes 03 de diciembre de 2025 pl no 283 de 2025 camara 262 de 2025 senado lugar salon eliptico del capitolio nacional hora 0300 p m",
-      "url": "https://www.camara.gov.co/evento/c-4-orden-del-dia-para-las-sesiones-conjuntas-del-martes-03-de-diciembre-de-2025-pl-no-283-de-2025-camara-262-de-2025-senado-lugar-salon-eliptico-del-capitolio-nacional-hora-0300-p-m/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "62b4f4da765899c10b1e",
-      "fecha_documento_normalizada": "2025-12-03",
-      "primera_deteccion": "2026-11-10T23:40:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-10T23:40:06+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Sesiones-Conjuntas-2-y-3-de-Dic-de-2025-1.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-3-DE-DICIEMBRE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia diciembre 03 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-diciembre-03-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "87cbae7d6c5fb2faa640",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-10T23:40:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T22:22:39+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/ORDEN-DEL-DIA-CONJUNTAS-03-DE-DICIEMBRE-DE-2025-1.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
