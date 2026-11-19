@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-19T17:16:19+00:00",
-  "nuevos_en_esta_consulta": 4,
+  "ultima_consulta": "2026-11-19T18:12:44+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1834 · Senado de la República · 18/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "8dcbd4fef19b620b8e23",
+      "fecha_documento": "18/11/2026",
+      "fecha_documento_normalizada": "2026-11-18",
+      "primera_deteccion": "2026-11-19T18:12:44+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00"
+    },
     {
       "titulo": "Gaceta 1861 · Senado de la República · 19/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -2335,7 +2348,15 @@
       "identificador": "23a16bdcfa73f3536020",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T14:01:31+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/03/Marzo-17-de-2026-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 17 03 2026",
@@ -2442,7 +2463,14 @@
       "identificador": "7059cbda938b9104716a",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T12:46:32+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia audiencia publica 2025 11 18 propo 031",
@@ -2491,7 +2519,15 @@
       "identificador": "00807386120de57808ff",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T12:46:32+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Noviembre-11-de-2025-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2025 11 11 martes 11 de noviembre de 2025 votac pls",
@@ -2649,7 +2685,15 @@
       "identificador": "cd26d4c8cb4cc8e4d732",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T11:45:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Orden_del_dia_CLC_Octubre_21_de_2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 20 de septiembre",
@@ -2660,7 +2704,15 @@
       "identificador": "a73aa64b7e509df8d0c6",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T11:45:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-OCTUBRE-20-DE-2026-2docx_261016_195_261016_195144-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2026 10 20 martes 20 de octubre 2026 vot pls",
@@ -2690,7 +2742,15 @@
       "identificador": "b452cbaed284d4b19dc3",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T11:45:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-19T18:12:44+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/O.D.-16_septiembre_2026-.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion conjunta 01 de septiembre de 2026",
@@ -12809,25 +12869,6 @@
       "revisado_para_anexos": "2026-11-11T00:25:14+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2025/12/ORDEN-DEL-DIA-MARTES-9-DE-DICIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Sesion conjunta comisiones de etica y estatuto del congresista del senado de la republica y camara de representantes",
-      "url": "https://www.camara.gov.co/evento/sesion-conjunta-comisiones-de-etica-y-estatuto-del-congresista-del-senado-de-la-republica-y-camara-de-representantes/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "36b16fbe65365bc407b2",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T00:25:14+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T21:16:09+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/12/1-Orden-del-dia-Sesion-Conjunta-10-de-diciembre-de-2025.docx.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
