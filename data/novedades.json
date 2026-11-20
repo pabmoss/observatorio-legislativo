@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-20T01:51:15+00:00",
+  "ultima_consulta": "2026-11-20T02:44:45+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -5594,7 +5594,13 @@
       "identificador": "0c0237ed1349f607486d",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T23:28:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9539-orden-del-dia-2-de-sep-de-2026-1-f131-1-1-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 1 de sep 2026 sesiones conjuntas 2",
@@ -5605,7 +5611,13 @@
       "identificador": "ac3ff6c1fc45d1b885a5",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T23:28:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9534-orden-del-dia-1-de-sep-2026-sesiones-conjuntas-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 19 de agosto de 2026",
@@ -5756,7 +5768,8 @@
       "identificador": "4678f45ad4e19eca9dc3",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T23:28:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00"
     },
     {
       "titulo": "Periodo Constitucional 2018 -2022",
@@ -5767,7 +5780,8 @@
       "identificador": "bc21a8778aaa0e6e5432",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T23:28:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00"
     },
     {
       "titulo": "Periodo Constitucional 2022 - 2026",
@@ -5778,7 +5792,8 @@
       "identificador": "cdf07fa5ab2ed337ad8a",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T23:28:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00"
     },
     {
       "titulo": "Periodo Constitucional 2026 - 2030",
@@ -5789,7 +5804,8 @@
       "identificador": "2c19272030f43a08a242",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T22:30:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2018 - 20 Julio 2019",
@@ -5908,7 +5924,8 @@
       "identificador": "f60c0320c1084417a863",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T22:30:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T02:44:45+00:00"
     },
     {
       "titulo": "Orden del Día",
