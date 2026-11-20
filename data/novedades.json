@@ -1,8 +1,30 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-20T21:53:30+00:00",
+  "ultima_consulta": "2026-11-20T22:52:08+00:00",
   "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Orden del dia 2026 10 21 miercoles 21 de octubre 2026 vot pls",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-10-21-miercoles-21-de-octubre-2026-vot-pls/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "8db0eefec2ed6bc4a18e",
+      "fecha_documento_normalizada": "2026-10-21",
+      "primera_deteccion": "2026-11-20T22:52:08+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T22:52:08+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Modificacion-Orden-del-dia-2026.10.21-mIercoles-21-de-octubre-2026-Vot-pls.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Ponencia-Primer-Debate-P.L.-216-2026C.-SAF-ley-2-2026.10.16.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Ponencia-Primer-Debate-P.L.-120-2026C.-.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Ponencia-Primer-Debate-P.L.-203-2026C.-baldios-ley-2-2026.10.14.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia martes 08 de septimbre de 2026 debate control politico prop 005 011 y 014 min minas y otros",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-08-de-septimbre-de-2026-debate-control-politico-prop-005-011-y-014-min-minas-y-otros/",
@@ -13223,25 +13245,6 @@
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-11T05:36:32+00:00",
       "documentos_adjuntos": [
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia octubre 21 de 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-octubre-21-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "3c10dbdd43b5ceb32913",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T04:34:43+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T21:16:09+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-CONJUNTAS-MIERCOLES-21-DE-OCTUBRE-DE-2026-1.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
