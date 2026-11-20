@@ -1,8 +1,27 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-20T22:52:08+00:00",
+  "ultima_consulta": "2026-11-20T23:40:56+00:00",
   "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Orden del dia octubre 21 de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-octubre-21-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "3c10dbdd43b5ceb32913",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-20T23:40:56+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T23:40:56+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-CONJUNTAS-MIERCOLES-21-DE-OCTUBRE-DE-2026-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia 2026 10 21 miercoles 21 de octubre 2026 vot pls",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-10-21-miercoles-21-de-octubre-2026-vot-pls/",
@@ -13227,24 +13246,6 @@
       "revisado_para_anexos": "2026-11-11T05:36:32+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MARTES-11-DE-NOVIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision septima constitucional permanente orden del dia 10 de septiembre de 2025",
-      "url": "https://www.camara.gov.co/evento/comision-septima-constitucional-permanente-orden-del-dia-10-de-septiembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "e053edafd7ce9f110b69",
-      "fecha_documento_normalizada": "2025-09-10",
-      "primera_deteccion": "2026-11-11T05:36:32+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T05:36:32+00:00",
-      "documentos_adjuntos": [
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
