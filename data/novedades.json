@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-20T00:23:41+00:00",
+  "ultima_consulta": "2026-11-20T01:51:15+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -5003,7 +5003,13 @@
       "identificador": "273f16c5fdcd8b801686",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T02:55:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4134-orden-del-dia-junio-03-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 27 de mayo 2020",
@@ -5014,7 +5020,13 @@
       "identificador": "983eb9b6235a323a6ab0",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T02:55:50+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-tercera/orden-del-dia-3/4094-orden-del-dia-27-de-mayo-2020/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Gaceta 1825 · Cámara de Representantes · 17/11/2026",
@@ -5225,7 +5237,13 @@
       "identificador": "0712489fc79ff6dd4f50",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T01:56:51+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/9039-orden-del-dia-aprobacion-monto-miercoles-10-septiembre-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 13 de agosto de 2024",
@@ -5440,7 +5458,13 @@
       "identificador": "7053a08277ebae0cd951",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2140-orden-del-dia-lunes-9-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia martes 10 septiembre de 2019 conjuntas",
@@ -5451,7 +5475,13 @@
       "identificador": "ac397550f2dc33f5a35d",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2139-orden-del-dia-martes-10-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 9 septiembre de 2019 conjuntas",
@@ -5462,7 +5492,13 @@
       "identificador": "24175f0d90174316512a",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-18T00:28:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/2138-orden-del-dia-9-septiembre-de-2019-conjuntas/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion conjunta miercoles 28 de octubre de 2026",
@@ -5524,7 +5560,13 @@
       "identificador": "b379e2a7d8566540994d",
       "fecha_documento_normalizada": null,
       "primera_deteccion": "2026-11-17T23:28:04+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-20T01:51:15+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9602-orden-del-dia-anuncio-22-1/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 14 de septiembre de 2026 1",
