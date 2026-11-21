@@ -1,8 +1,67 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-21T02:53:02+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-21T03:56:29+00:00",
+  "nuevos_en_esta_consulta": 4,
   "novedades": [
+    {
+      "titulo": "Comision primera constitucional permanente orden del dia 287",
+      "url": "https://www.camara.gov.co/evento/comision-primera-constitucional-permanente-orden-del-dia-287/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "abe339db3a973ad897a3",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-21T03:56:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T03:56:29+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/Septiembre%2010%20de%202025%20-%20Orden%20del%20dia.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/Septiembre-10-de-2025-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Gaceta 1882 · Senado de la República · 20/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "6373fa5029ee69c8af25",
+      "fecha_documento": "20/11/2026",
+      "fecha_documento_normalizada": "2026-11-20",
+      "primera_deteccion": "2026-11-21T03:56:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T03:56:29+00:00"
+    },
+    {
+      "titulo": "Gaceta 1863 · Senado de la República · 19/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "cb02fa7cba3d0d71c8cd",
+      "fecha_documento": "19/11/2026",
+      "fecha_documento_normalizada": "2026-11-19",
+      "primera_deteccion": "2026-11-21T03:56:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T03:56:29+00:00"
+    },
+    {
+      "titulo": "Gaceta 1841 · Cámara de Representantes · 18/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "6eb9c1dca5e1735def95",
+      "fecha_documento": "18/11/2026",
+      "fecha_documento_normalizada": "2026-11-18",
+      "primera_deteccion": "2026-11-21T03:56:29+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T03:56:29+00:00"
+    },
     {
       "titulo": "Audiencias públicas territoriales - Proyecto de Ley de Competitividad - Cali ( jpeg, 293 KB )",
       "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file",
@@ -13168,82 +13227,6 @@
       "revisado_para_anexos": "2026-11-11T10:01:47+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/10/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-21-DE-OCTUBRE-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 9 de septiembre de 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-9-de-septiembre-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "6155e0ec548ddcb4e0e8",
-      "fecha_documento_normalizada": "2026-09-09",
-      "primera_deteccion": "2026-11-11T08:59:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T08:59:09+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/09/Orden-del-dia-Sesion-COT-09-septAgenda-COTIISem2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 19 05 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-19-05-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "84c6c47f5a7e44c85ccf",
-      "fecha_documento_normalizada": "2026-05-19",
-      "primera_deteccion": "2026-11-11T08:02:48+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T08:02:48+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/Plenaria-Orden-del-Dia-Proyectos-2026-05-19.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia sesion conjunta 09 de septiembre 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-sesion-conjunta-09-de-septiembre-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "8891b424eed34949b8f4",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T06:40:23+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T19:39:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/09/Orden-del-dia-Sesion-Conjunta-09-de-septiembre-2026-2.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia mayo 19 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-mayo-19-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "7521e6fd687d4596b276",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T06:40:23+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T19:39:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/Mayo-19-de-2026-Orden-del-dia.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
