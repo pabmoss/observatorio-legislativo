@@ -1,8 +1,27 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-21T00:34:14+00:00",
+  "ultima_consulta": "2026-11-21T01:53:33+00:00",
   "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Orden del dia martes 11 de noviembre de 2025",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-11-de-noviembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "d3bb5b5aaf7d7157bc1b",
+      "fecha_documento_normalizada": "2025-11-11",
+      "primera_deteccion": "2026-11-21T01:53:33+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T01:53:33+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MARTES-11-DE-NOVIEMBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Comision septima constitucional permanente orden del dia 10 de septiembre de 2025",
       "url": "https://www.camara.gov.co/evento/comision-septima-constitucional-permanente-orden-del-dia-10-de-septiembre-de-2025/",
@@ -13230,23 +13249,6 @@
         "https://www.camara.gov.co/wp-content/uploads/2025/09/Septiembre-10-de-2025-Orden-del-dia.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Audiencias públicas territoriales - Proyecto de Ley de Competitividad - Cali ( jpeg, 293 KB )",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file",
-      "fuente": "Senado · Comisión Sexta",
-      "fuente_id": "senado-c6",
-      "clase": "orden_del_dia",
-      "identificador": "7088bfe8e534760bc0d6",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T05:36:32+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T19:39:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file"
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
