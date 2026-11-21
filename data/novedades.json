@@ -1,8 +1,45 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-21T05:58:35+00:00",
+  "ultima_consulta": "2026-11-21T07:12:19+00:00",
   "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Comision de paz y posconflicto orden del dia 23 de septiembre 2025",
+      "url": "https://www.camara.gov.co/evento/comision-de-paz-y-posconflicto-orden-del-dia-23-de-septiembre-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "be9930b0dd3ad34e17b4",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-21T07:12:19+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T07:12:19+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-23-DE-SEPTIEMBRE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Comision septima constitucional permanente orden del dia 23 de septiembre de 2025",
+      "url": "https://www.camara.gov.co/evento/comision-septima-constitucional-permanente-orden-del-dia-23-de-septiembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "a3a0eb2e7e807171f146",
+      "fecha_documento_normalizada": "2025-09-23",
+      "primera_deteccion": "2026-11-21T07:12:19+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T07:12:19+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Comision ii orden del dia miercoles 21 de octubre de 2026",
       "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-miercoles-21-de-octubre-de-2026/",
@@ -13202,44 +13239,6 @@
       "revisado_para_anexos": "2026-11-11T18:30:45+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2025/11/Noviembre-19-de-2025-Orden-del-dia-CP.docx.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia noviembre 18 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-noviembre-18-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "8e01b83878f112f0729e",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T17:35:53+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T19:39:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Noviembre-18-de-2025-Orden-del-dia.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia 2025 11 19 miercoles 19 de noviembre de 2025 votac pls",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-2025-11-19-miercoles-19-de-noviembre-de-2025-votac-pls/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "72bc43546de165de456b",
-      "fecha_documento_normalizada": "2025-11-19",
-      "primera_deteccion": "2026-11-11T17:35:53+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T17:35:53+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/Orden-del-Dia-2025-11-19-miercoles-19-de-noviembre-de-2025-Votac.-PLs-2.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
