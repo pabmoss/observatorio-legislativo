@@ -1,8 +1,25 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-21T01:53:33+00:00",
+  "ultima_consulta": "2026-11-21T02:53:02+00:00",
   "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Audiencias públicas territoriales - Proyecto de Ley de Competitividad - Cali ( jpeg, 293 KB )",
+      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file",
+      "fuente": "Senado · Comisión Sexta",
+      "fuente_id": "senado-c6",
+      "clase": "orden_del_dia",
+      "identificador": "7088bfe8e534760bc0d6",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-21T02:53:02+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-21T02:53:02+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2026-2030-1/orden-del-dia-18/primera-legislatura-2026-2027/9693-audiencias-publicas-territoriales-proyecto-de-ley-de-competitividad/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia martes 11 de noviembre de 2025",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-11-de-noviembre-de-2025/",
@@ -13227,26 +13244,6 @@
       "revisado_para_anexos": "2026-11-11T19:39:02+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/05/Mayo-19-de-2026-Orden-del-dia.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision primera constitucional permanente orden del dia 287",
-      "url": "https://www.camara.gov.co/evento/comision-primera-constitucional-permanente-orden-del-dia-287/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "abe339db3a973ad897a3",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-11T06:40:23+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-11T19:39:02+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/sites/default/files/2025-09/Septiembre%2010%20de%202025%20-%20Orden%20del%20dia.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/Septiembre-10-de-2025-Orden-del-dia.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
