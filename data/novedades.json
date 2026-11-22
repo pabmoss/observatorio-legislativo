@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-22T04:43:38+00:00",
-  "nuevos_en_esta_consulta": 21,
+  "ultima_consulta": "2026-11-22T05:42:51+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Orden del dia comision legal de paz y posconflicto",
@@ -179,7 +179,19 @@
       "identificador": "b061bb253fe8ec216c05",
       "fecha_documento_normalizada": "2026-06-10",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/ORDEN-DEL-DIA-10-DE-JUNIO-DE-2026.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/REPROG1-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Proposicion-No.-096-de-2026-aprobada-18-de-marzo-de-2026-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Proposicion-Aditiva-ala-Proposicion-No.-096-de-2026-aprobada-08-de-abril-de-2026-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Cancelacion-Citacion-Sesion-Ordinaria-Junio-10-de-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision ii orden del dia miercoles 10 de junio de 2026",
@@ -190,7 +202,15 @@
       "identificador": "def37f7fb62544cb0552",
       "fecha_documento_normalizada": "2026-06-10",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-10-DE-JUNIO-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia junio 10 2026 estatuto de oposicion",
@@ -212,7 +232,17 @@
       "identificador": "c0b99b94e40efff90c85",
       "fecha_documento_normalizada": "2026-04-22",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/ORDEN-DEL-DIA-22-DE-ABRIL-DE-2026-final.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/Citacion-Sesion-Ordinaria-22-de-abril-de-2026-final.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/Reprogramacion-Sesion-Ordinaria-Honorables-Representantes.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 15 04 2026",
@@ -223,7 +253,15 @@
       "identificador": "f8794f712890fda60393",
       "fecha_documento_normalizada": "2026-04-15",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/Plenaria-Orden-del-Dia-Proyectos-2026-04-15.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C3 orden del dia sesion ordinaria 15 de abril de 2026",
@@ -234,7 +272,15 @@
       "identificador": "1d5d6c5c5b560bf641af",
       "fecha_documento_normalizada": "2026-04-15",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/ORDEN-DEL-DIA-15-DE-ABRIL-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia abril 15 2026",
@@ -256,7 +302,15 @@
       "identificador": "d2b87327c461130beda3",
       "fecha_documento_normalizada": "2026-04-15",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/ORDEN-DEL-DIA-abril-15-de-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2026 0415 miercoles 15 de abril de 2026 vot pls",
@@ -267,7 +321,15 @@
       "identificador": "7a36d90f9e65abf7ad63",
       "fecha_documento_normalizada": "2026-04-15",
       "primera_deteccion": "2026-11-22T04:43:38+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-22T05:42:51+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/Orden-del-dia-2026.0415.-muieroesl-15-de-abril-de-2026-vot-pls-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion conjunta 15 de abril de 2026",
