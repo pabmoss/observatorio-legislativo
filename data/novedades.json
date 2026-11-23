@@ -1,8 +1,65 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-23T22:37:31+00:00",
+  "ultima_consulta": "2026-11-23T23:36:35+00:00",
   "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Orden del dia martes 27 de octubre conjuntas salon boyaca",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-27-de-octubre-conjuntas-salon-boyaca/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "02932b5569c4ff5e2238",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-23T23:36:35+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T23:36:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-MARTES-27-DE-OCTUBRE-2026-CONJUNTAS.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Comision ii orden del dia martes 08 de septiembre de 2026",
+      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-martes-08-de-septiembre-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "ef18ae0b07a12961be86",
+      "fecha_documento_normalizada": "2026-09-08",
+      "primera_deteccion": "2026-11-23T23:36:35+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T23:36:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/COMISION-II-ORDEN-DEL-DIA-MARTES-08-DE-SEPTIEMBRE-DE-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Comision tercera o de hacienda y credito publico c3 orden del dia sesion ordinaria 23 de septiembre de 2025",
+      "url": "https://www.camara.gov.co/evento/comision-tercera-o-de-hacienda-y-credito-publico-c3-orden-del-dia-sesion-ordinaria-23-de-septiembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "ac43eb0200ddd5a57f3e",
+      "fecha_documento_normalizada": "2025-09-23",
+      "primera_deteccion": "2026-11-23T23:36:35+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T23:36:35+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-23-DE-SEPTIEMBRE-2025_0.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia martes 8 de septiembre de 2026 comision accidental bicameral para el seguimiento y acompanamiento a la atencion de los damnificados por el terremoto en san jose del palmar choco",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-8-de-septiembre-de-2026-comision-accidental-bicameral-para-el-seguimiento-y-acompanamiento-a-la-atencion-de-los-damnificados-por-el-terremoto-en-san-jose-del-palmar-choco/",
@@ -13147,68 +13204,6 @@
       "revisado_para_anexos": "2026-11-12T16:04:16+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-18-de-NOVIEMBRE.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia martes 18 de noviembre de 2025",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-18-de-noviembre-de-2025/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "205b15a22a42eacdf1bf",
-      "fecha_documento_normalizada": "2025-11-18",
-      "primera_deteccion": "2026-11-12T16:04:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T16:04:16+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-MARTES-18-DE-NOVIEMBRE-DE-2025.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision cuarta o presupuesto c 4 reprogramacion hora 0430 pm orden del dia sesion de comisiones economicas conjuntas martes 23 de septiembre de 2025 la cual se llevara a cabo en el",
-      "url": "https://www.camara.gov.co/evento/comision-cuarta-o-presupuesto-c-4-reprogramacion-hora-0430-pm-orden-del-dia-sesion-de-comisiones-economicas-conjuntas-martes-23-de-septiembre-de-2025-la-cual-se-llevara-a-cabo-en-el/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "90fe2e128f0755f24276",
-      "fecha_documento_normalizada": "2025-09-23",
-      "primera_deteccion": "2026-11-12T16:04:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T16:04:16+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/REPROGRAMACION-HORA-Citacion-Comisiones-Economicas-Conjuntas-HR-Hora-4-y-30-pm-23-09-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-ANUNCIO-PL-102-CAMARA-2-HORA-4-y-30-pm.-23-09-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/REPROGRAMACION-HORA-Citacion-Comisiones-Economicas-Conjuntas-HR-3-y-30-pm.-23-09-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-ANUNCIO-PL-102-CAMARA-1-HORA-3-y-30-pm.-23-09-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/REPROGRAMACION-HORA-Citacion-Comisiones-Economicas-Conjuntas-HR-3-pm.-23-09-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-ANUNCIO-PL-102-CAMARA-Reprogramada-3-pm-23-09-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/Citacion-Comisiones-Economicas-Conjuntas-Honorables-Representantes-sept-23-de-2025.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-ANUNCIO-PL-102-CAMARA-Sept-23-de-2025.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 23 09 2025 cancelado",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-23-09-2025-cancelado/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "0335379a5cf006a9e02e",
-      "fecha_documento_normalizada": "2025-09-23",
-      "primera_deteccion": "2026-11-12T16:04:16+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T16:04:16+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2025/09/Plenaria-Orden-del-Dia-Proyectos-2025-09-23.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
