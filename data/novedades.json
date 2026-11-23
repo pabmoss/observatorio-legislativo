@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-23T12:50:09+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-23T14:17:20+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1870 · Cámara de Representantes · 20/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "3bfad82af7a0e40c9d07",
+      "fecha_documento": "20/11/2026",
+      "fecha_documento_normalizada": "2026-11-20",
+      "primera_deteccion": "2026-11-23T14:17:20+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T14:17:20+00:00"
+    },
     {
       "titulo": "Orden del dia comision legal de paz y posconflicto",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-comision-legal-de-paz-y-posconflicto/",
@@ -13245,25 +13258,6 @@
       "revisado_para_anexos": "2026-11-12T06:06:05+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-CONJUNTAS-06-DE-MAYO-DE-2026-2.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3 orden del dia sesion ordinaria 06 de mayo de 2026",
-      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-06-de-mayo-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "ee67fab0cbd90f341173",
-      "fecha_documento_normalizada": "2026-05-06",
-      "primera_deteccion": "2026-11-12T06:06:05+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T06:06:05+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-6-DE-MAYO-2026-1.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
