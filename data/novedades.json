@@ -1,8 +1,59 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-23T14:17:20+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-23T15:29:53+00:00",
+  "nuevos_en_esta_consulta": 4,
   "novedades": [
+    {
+      "titulo": "Agenda legislativa del 23 al 27 de noviembre de 2026 1",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9748-agenda-legislativa-del-23-al-27-de-noviembre-de-2026-1",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "62876334be786884c868",
+      "fecha_documento_normalizada": "2026-11-27",
+      "primera_deteccion": "2026-11-23T15:29:53+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T15:29:53+00:00"
+    },
+    {
+      "titulo": "Gaceta 1884 · Cámara de Representantes · 20/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "bcd0131ecfd302fa32e0",
+      "fecha_documento": "20/11/2026",
+      "fecha_documento_normalizada": "2026-11-20",
+      "primera_deteccion": "2026-11-23T15:29:53+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T15:29:53+00:00"
+    },
+    {
+      "titulo": "Gaceta 1883 · Senado de la República · 20/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "247a8ee8d0d8eaf7133d",
+      "fecha_documento": "20/11/2026",
+      "fecha_documento_normalizada": "2026-11-20",
+      "primera_deteccion": "2026-11-23T15:29:53+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T15:29:53+00:00"
+    },
+    {
+      "titulo": "Gaceta 1880 · Senado de la República · 20/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "51d14d3980bdcd4b52f5",
+      "fecha_documento": "20/11/2026",
+      "fecha_documento_normalizada": "2026-11-20",
+      "primera_deteccion": "2026-11-23T15:29:53+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-23T15:29:53+00:00"
+    },
     {
       "titulo": "Gaceta 1870 · Cámara de Representantes · 20/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13182,82 +13233,6 @@
       "revisado_para_anexos": "2026-11-12T07:28:41+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/05/AGENDA-DEL-11-15-MAYO-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Comision ii orden del dia miercoles 6 de mayo de 2026",
-      "url": "https://www.camara.gov.co/evento/comision-ii-orden-del-dia-miercoles-6-de-mayo-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "8b2a50999d8445b6d56f",
-      "fecha_documento_normalizada": "2026-05-06",
-      "primera_deteccion": "2026-11-12T07:28:41+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T07:28:41+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-6-DE-MAYO-DE-2026-3.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 6 de mayo",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-6-de-mayo/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "8ff8223fb5a49d2475c3",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-12T07:28:41+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T07:28:41+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-MIERCOLES-6-DE-MAYO-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 06 05 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-06-05-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "ce5b3cdc75123ac3b9d9",
-      "fecha_documento_normalizada": "2026-05-06",
-      "primera_deteccion": "2026-11-12T07:28:41+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T07:28:41+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/Plenaria-Orden-del-Dia-Proyectos-2026-05-06.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia mayo 06 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-mayo-06-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "1c2e79c13c7b73704ce8",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-12T06:06:05+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T06:06:05+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-CONJUNTAS-06-DE-MAYO-DE-2026-2.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
