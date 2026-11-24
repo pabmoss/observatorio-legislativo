@@ -1,8 +1,20 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-24T13:47:05+00:00",
+  "ultima_consulta": "2026-11-24T14:46:09+00:00",
   "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Agenda legislativa del 23 al 27 de noviembre de 2026",
+      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9783-agenda-legislativa-del-23-al-27-de-noviembre-de-2026",
+      "fuente": "Senado · Agenda legislativa",
+      "fuente_id": "senado-agenda",
+      "clase": "agenda",
+      "identificador": "1d9362c2df54485dbec2",
+      "fecha_documento_normalizada": "2026-11-27",
+      "primera_deteccion": "2026-11-24T14:46:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-24T14:46:09+00:00"
+    },
     {
       "titulo": "Gaceta 1843 · Cámara de Representantes · 27/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13215,19 +13227,6 @@
       "primera_deteccion": "2026-11-13T14:55:30+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-13T14:55:30+00:00"
-    },
-    {
-      "titulo": "Gaceta 1771 · Senado de la República · 10/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "de9cb5de730e4e6f7361",
-      "fecha_documento": "10/11/2026",
-      "fecha_documento_normalizada": "2026-11-10",
-      "primera_deteccion": "2026-11-13T13:52:29+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-13T13:52:29+00:00"
     }
   ]
 }
