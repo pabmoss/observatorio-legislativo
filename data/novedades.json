@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-24T04:03:58+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-24T05:14:12+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1888 · Senado de la República · 23/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "0004705c3921b0f99ee4",
+      "fecha_documento": "23/11/2026",
+      "fecha_documento_normalizada": "2026-11-23",
+      "primera_deteccion": "2026-11-24T05:14:12+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-24T05:14:12+00:00"
+    },
     {
       "titulo": "Gaceta 1887 · Senado de la República · 23/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13215,19 +13228,6 @@
       "primera_deteccion": "2026-11-13T01:40:11+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-13T01:40:11+00:00"
-    },
-    {
-      "titulo": "Gaceta 1783 · Senado de la República · 11/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "e498c2204f00b417e05e",
-      "fecha_documento": "11/11/2026",
-      "fecha_documento_normalizada": "2026-11-11",
-      "primera_deteccion": "2026-11-13T00:21:19+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-13T00:21:19+00:00"
     }
   ]
 }
