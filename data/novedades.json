@@ -1,8 +1,65 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-24T00:31:59+00:00",
-  "nuevos_en_esta_consulta": 4,
+  "ultima_consulta": "2026-11-24T01:56:01+00:00",
+  "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Orden del dia 28 de octubre de 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-28-de-octubre-de-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "6ab80aeb459ff41ea050",
+      "fecha_documento_normalizada": "2026-10-28",
+      "primera_deteccion": "2026-11-24T01:56:01+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-24T01:56:01+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/10/Orden-del-Dia-Sesion-COT-28-Octubre-2026_7am.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "Orden del dia abril 07 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-abril-07-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "3f5f80ee2e26e51408e6",
+      "fecha_documento_normalizada": null,
+      "primera_deteccion": "2026-11-24T01:56:01+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-24T01:56:01+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/04/Abril-07-de-2026-Orden-del-dia.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "C3 orden del dia sesion ordinaria 18 de noviembre de 2025",
+      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-18-de-noviembre-de-2025/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "dba837927b2bfdbbd77b",
+      "fecha_documento_normalizada": "2025-11-18",
+      "primera_deteccion": "2026-11-24T01:56:01+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-24T01:56:01+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-18-de-NOVIEMBRE.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia martes 18 de noviembre de 2025",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-martes-18-de-noviembre-de-2025/",
@@ -13171,49 +13228,6 @@
       "primera_deteccion": "2026-11-12T22:36:46+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-12T22:36:46+00:00"
-    },
-    {
-      "titulo": "Gaceta 1785 · Senado de la República · 11/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "e07963a4d117f74383c6",
-      "fecha_documento": "11/11/2026",
-      "fecha_documento_normalizada": "2026-11-11",
-      "primera_deteccion": "2026-11-12T21:50:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T21:50:42+00:00"
-    },
-    {
-      "titulo": "Gaceta 1784 · Senado de la República · 11/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "1846689cd31ad0895275",
-      "fecha_documento": "11/11/2026",
-      "fecha_documento_normalizada": "2026-11-11",
-      "primera_deteccion": "2026-11-12T21:50:42+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T21:50:42+00:00"
-    },
-    {
-      "titulo": "Orden del dia miercoles 18 de noviembre de 2026",
-      "url": "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-actuales/9726-orden-del-dia-miercoles-18-de-noviembre-de-2026/file",
-      "fuente": "Senado · Comisión Quinta",
-      "fuente_id": "senado-c5",
-      "clase": "orden_del_dia",
-      "identificador": "b0d744d67d40447a472e",
-      "fecha_documento_normalizada": "2026-11-18",
-      "primera_deteccion": "2026-11-12T20:54:05+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-12T20:54:05+00:00",
-      "documentos_adjuntos": [
-        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-quinta/orden-del-dia/ordenes-del-dia-actuales/9726-orden-del-dia-miercoles-18-de-noviembre-de-2026/file"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     }
   ]
 }
