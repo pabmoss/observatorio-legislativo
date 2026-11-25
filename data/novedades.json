@@ -1,8 +1,21 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-25T18:24:28+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-25T19:35:54+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Gaceta 1913 · Senado de la República · 25/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "18c4d28a8e4ce463a308",
+      "fecha_documento": "25/11/2026",
+      "fecha_documento_normalizada": "2026-11-25",
+      "primera_deteccion": "2026-11-25T19:35:54+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-25T19:35:54+00:00"
+    },
     {
       "titulo": "Gaceta 1898 · Senado de la República · 24/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13191,18 +13204,6 @@
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Agenda legislativa del 9 al 13 de noviembre de 2027",
-      "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9728-agenda-legislativa-del-9-al-13-de-noviembre-de-2027",
-      "fuente": "Senado · Agenda legislativa",
-      "fuente_id": "senado-agenda",
-      "clase": "agenda",
-      "identificador": "8d627f4c8795b13f8df5",
-      "fecha_documento_normalizada": "2027-11-13",
-      "primera_deteccion": "2026-11-13T16:57:33+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-13T16:57:33+00:00"
     }
   ]
 }
