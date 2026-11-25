@@ -1,8 +1,47 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-25T03:00:06+00:00",
-  "nuevos_en_esta_consulta": 1,
+  "ultima_consulta": "2026-11-25T04:10:50+00:00",
+  "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Gaceta 1904 · Senado de la República · 24/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "53976d8a803be32fd823",
+      "fecha_documento": "24/11/2026",
+      "fecha_documento_normalizada": "2026-11-24",
+      "primera_deteccion": "2026-11-25T04:10:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-25T04:10:50+00:00"
+    },
+    {
+      "titulo": "Gaceta 1903 · Senado de la República · 24/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "eb1df417786957057148",
+      "fecha_documento": "24/11/2026",
+      "fecha_documento_normalizada": "2026-11-24",
+      "primera_deteccion": "2026-11-25T04:10:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-25T04:10:50+00:00"
+    },
+    {
+      "titulo": "Gaceta 1902 · Senado de la República · 24/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "61b971b4086025b97e93",
+      "fecha_documento": "24/11/2026",
+      "fecha_documento_normalizada": "2026-11-24",
+      "primera_deteccion": "2026-11-25T04:10:50+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-25T04:10:50+00:00"
+    },
     {
       "titulo": "Gaceta 1899 · Cámara de Representantes · 24/11/2026",
       "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
@@ -13178,45 +13217,6 @@
       ],
       "referencias_proyectos": [],
       "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Gaceta 1804 · Senado de la República · 13/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "07985a24c7be65b46978",
-      "fecha_documento": "13/11/2026",
-      "fecha_documento_normalizada": "2026-11-13",
-      "primera_deteccion": "2026-11-13T16:57:33+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-13T16:57:33+00:00"
-    },
-    {
-      "titulo": "Gaceta 1780 · Senado de la República · 11/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "057eec6520d71bd422bd",
-      "fecha_documento": "11/11/2026",
-      "fecha_documento_normalizada": "2026-11-11",
-      "primera_deteccion": "2026-11-13T16:57:33+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-13T16:57:33+00:00"
-    },
-    {
-      "titulo": "Gaceta 1772 · Senado de la República · 10/11/2026",
-      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
-      "fuente": "Imprenta Nacional · Gacetas del Congreso",
-      "fuente_id": "gacetas",
-      "clase": "gaceta",
-      "identificador": "9b79949c671dbbf5ee4e",
-      "fecha_documento": "10/11/2026",
-      "fecha_documento_normalizada": "2026-11-10",
-      "primera_deteccion": "2026-11-13T16:57:33+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-13T16:57:33+00:00"
     }
   ]
 }
