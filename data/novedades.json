@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-26T09:19:41+00:00",
+  "ultima_consulta": "2026-11-26T10:29:49+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -1279,7 +1279,15 @@
       "identificador": "0eff188c25e7acace833",
       "fecha_documento_normalizada": "2026-06-09",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9408-orden-del-dia-martes-09-de-junio-de-2026/file"
+      ],
+      "referencias_proyectos": [
+        "354/26"
+      ],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia miercoles 03 de junio de 2026",
@@ -1290,7 +1298,15 @@
       "identificador": "894c50b628c393910727",
       "fecha_documento_normalizada": "2026-06-03",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/orden-del-dia-16/9404-orden-del-dia-miercoles-03-de-junio-de-2026/file"
+      ],
+      "referencias_proyectos": [
+        "354/26"
+      ],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Periodo Constitucional 2014 -2018",
@@ -2754,7 +2770,13 @@
       "identificador": "fe8abbd580d346e1a9d4",
       "fecha_documento_normalizada": "2026-06-09",
       "primera_deteccion": "2026-11-25T23:37:14+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9410-orden-del-dia-sesion-9-de-junio-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 3 de junio de 2026",
@@ -2765,7 +2787,13 @@
       "identificador": "f1dc2dd985985219cd1e",
       "fecha_documento_normalizada": "2026-06-03",
       "primera_deteccion": "2026-11-25T23:37:14+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9407-orden-del-dia-sesion-3-de-junio-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 2 de junio de 2026",
@@ -2776,7 +2804,13 @@
       "identificador": "4decbc237ee4c6269e2d",
       "fecha_documento_normalizada": "2026-06-02",
       "primera_deteccion": "2026-11-25T23:37:14+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9400-orden-del-dia-sesion-2-de-junio-de-2026/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia clc octubre 28 de 2026",
@@ -4296,7 +4330,15 @@
       "identificador": "82faaf3706c1b7e051fa",
       "fecha_documento_normalizada": "2026-06-03",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Orden-del-dia-2026.06.03.-miercoles-3-de-junio-de-2026-vot-pls.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion de debate de control politico del miercoles 03 de junio de 2026",
@@ -4307,7 +4349,15 @@
       "identificador": "5ccce31af89c82997f1b",
       "fecha_documento_normalizada": "2026-06-03",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T10:29:49+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/06/Orden-del-Dia-03-de-junio-de-2026.-Debate-de-Control-Politico-y-entrega-informe-de-gestion-.docx.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 2026 0519 martes 19 de mayo de 2026 vot pls n",
