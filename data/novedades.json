@@ -1,8 +1,47 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-26T22:41:25+00:00",
-  "nuevos_en_esta_consulta": 4,
+  "ultima_consulta": "2026-11-26T23:41:09+00:00",
+  "nuevos_en_esta_consulta": 2,
   "novedades": [
+    {
+      "titulo": "Orden del dia 2026 06 02 martes 02 de junio de 2026 vot pls n",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-2026-06-02-martes-02-de-junio-de-2026-vot-pls-n/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "da59c86b9b6550faf380",
+      "fecha_documento_normalizada": "2026-06-02",
+      "primera_deteccion": "2026-11-26T23:41:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/Orden-del-dia-2026.06.02.-martes-02-de-junio-de-2026-vot-pls-n.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
+    {
+      "titulo": "C 4 orden del dia para la sesion ordinaria del martes 02 de junio de 2026 recinto de la comision cuarta victor renan barco lopez",
+      "url": "https://www.camara.gov.co/evento/c-4-orden-del-dia-para-la-sesion-ordinaria-del-martes-02-de-junio-de-2026-recinto-de-la-comision-cuarta-victor-renan-barco-lopez/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "8f876b736e68ffbfeac7",
+      "fecha_documento_normalizada": "2026-06-02",
+      "primera_deteccion": "2026-11-26T23:41:09+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/ORDEN-DEL-DIA-02-DE-JUNIO-DE-2026.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2026/05/Citacion-Sesion-Ordinaria-Honorables-Representantes-2.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "C3 orden del dia sesion ordinaria 08 de abril de 2026",
       "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-08-de-abril-de-2026/",
@@ -31,7 +70,15 @@
       "identificador": "b22356c080cc189c185e",
       "fecha_documento_normalizada": "2026-04-06",
       "primera_deteccion": "2026-11-26T22:41:25+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/03/AGENDA-6-al-10-de-ABRIL-2026.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia audiencia publica 2025 11 18 propo 031",
@@ -484,7 +531,17 @@
       "identificador": "e3becc832c284eaa76ab",
       "fecha_documento_normalizada": "2025-12-03",
       "primera_deteccion": "2026-11-26T20:38:45+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/ORDEN-DEL-DIA-3-DE-DICIEMBRE-DE-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Citacion-Sesion-ordinaria-Dic-03-2025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Cancelacion-sesion-comision-2-y-3-de-Dic-2025-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision segunda o de relaciones internacionales comision ii orden del dia miercoles 15 de octubre de 2025",
@@ -4219,7 +4276,13 @@
       "identificador": "b137d5389a5c50ed1d09",
       "fecha_documento_normalizada": "2025-12-09",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9206-orden-del-dia-sesion-9-de-diciembre-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 3 de diciembre de 2025",
@@ -4230,7 +4293,13 @@
       "identificador": "0642e200010ca23ad7fb",
       "fecha_documento_normalizada": "2025-12-03",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/segunda-legislatura-2023-2024-2/9203-orden-del-dia-sesion-3-de-diciembre-de-2025/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 2 de diciembre de 2025",
@@ -6834,7 +6903,14 @@
       "identificador": "e11df45ab579cf74b4d7",
       "fecha_documento_normalizada": "2025-12-03",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-26T23:41:09+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "C 4 orden del dia sesion de comision miercoles 05 de noviembre de 2025",
@@ -10998,44 +11074,6 @@
       "revisado_para_anexos": "2026-11-18T14:59:19+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/08/COMISION-II-ORDEN-DEL-DIA-MIERCOLES-2-DE-SEPTIEMBRE-DE-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia miercoles 2 de septiembre de 2026 control politico prop 005 011 y 014",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-2-de-septiembre-de-2026-control-politico-prop-005-011-y-014/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "9b25805f3ced41514d7f",
-      "fecha_documento_normalizada": "2026-09-02",
-      "primera_deteccion": "2026-11-18T14:59:19+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-18T14:59:19+00:00",
-      "documentos_adjuntos": [
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia plenaria 01 09 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-01-09-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "91e267e355f4e1382b30",
-      "fecha_documento_normalizada": "2026-09-01",
-      "primera_deteccion": "2026-11-18T14:59:19+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-18T14:59:19+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/08/Plenaria-Orden-del-Dia-Proyectos-2026-09-01-Nuevo-1.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2026/08/Aplazamiento-Plenaria-01-septiembre-2026.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
