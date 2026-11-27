@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-27T03:24:53+00:00",
+  "ultima_consulta": "2026-11-27T04:41:31+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -462,7 +462,15 @@
       "identificador": "3298d977c6eaa3a5cd56",
       "fecha_documento_normalizada": "2025-10-22",
       "primera_deteccion": "2026-11-26T21:39:06+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/1-ORDEN-DEL-DIA-OCT-22-2025_0.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision primera constitucional permanente orden del dia audiencia publica p l 002 25 c barrancabermeja santander",
@@ -3375,7 +3383,15 @@
       "identificador": "d877e72455ff11fe09d0",
       "fecha_documento_normalizada": "2025-11-12",
       "primera_deteccion": "2026-11-26T00:38:43+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/11/Orden-del-Dia-2025-11-12-miercoles-12-de-noviembre-de-2025-Votac.-PLs.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision quinta constitucional permanente orden del dia 2025 09 17 miercoles 17 de septiembre de 2025 propo 002 y 010",
@@ -7070,7 +7086,17 @@
       "identificador": "c0abcd8975c6e2bc91aa",
       "fecha_documento_normalizada": "2025-11-05",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/ORDEN-DEL-DIA-05-DE-NOVIEMBRE-DE-2025-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Citacion-Comision-Ordinaria-05-de-noviembre-de-2025-1.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/CANCELACION-SESION-ORDINARIA-Noviembre-05-de-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision cuarta o presupuesto c 4 modificacion orden del dia sesion de comision miercoles 07 de mayo de 2025",
@@ -7196,7 +7222,15 @@
       "identificador": "298f90297fbd6926e0a8",
       "fecha_documento_normalizada": "2025-10-17",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/AGENDA-SEMANA-DEL-13-al-17-DE-OCTUBRE.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision de etica y estatuto del congresista orden del dia octubre 14 de 2025",
@@ -7229,7 +7263,15 @@
       "identificador": "9c67ec4bad77c6437d0a",
       "fecha_documento_normalizada": "2025-10-20",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/AGENDA-SEMANA-DEL-20-24-DE-OCTUBRE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 21 de octubre de 2025",
@@ -7240,7 +7282,14 @@
       "identificador": "1e2f1467b6b60dd82248",
       "fecha_documento_normalizada": "2025-10-21",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision ii orden del dia martes 21 de octubre 2025",
@@ -7262,7 +7311,15 @@
       "identificador": "267dcfe05860262ee932",
       "fecha_documento_normalizada": "2025-10-21",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T04:41:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/Orden-del-Dia-2025-10-21-martes-21-de-octubre-de-2025-vot-pls.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Gaceta 1913 · Senado de la República · 25/11/2026",
