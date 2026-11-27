@@ -1,6 +1,6 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-27T05:48:04+00:00",
+  "ultima_consulta": "2026-11-27T06:53:57+00:00",
   "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
@@ -747,7 +747,15 @@
       "identificador": "8343347fe750751f57b2",
       "fecha_documento_normalizada": "2025-09-26",
       "primera_deteccion": "2026-11-26T17:32:02+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/AGENDA-SEMANA-DEL-22-al-26-de-septiembre.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision ii orden del dia miercoles 11 de noviembre de 2026",
@@ -5759,7 +5767,15 @@
       "identificador": "8296d72e1eca3ba21032",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/Orden%20del%20Dia%20%282025-09-24%29%20miercoles%2024%20de%20SEPTIEMBRE%20de%202025%20vot%20pls.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision sexta o de transportes y comunicaciones orden del dia miercoles 24 de septiembre de 2025",
@@ -5770,7 +5786,15 @@
       "identificador": "8886a7a9c231b41e603c",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/ORDEN-DEL-DIA-MIA_RCOLES-24-DE-SEPTIEMBRE-DE-2025-1.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision septima constitucional permanente orden del dia 24 de septiembre de 2025 por instrucciones de la mesa directiva de la comision septima y por agenda legislativa de la plenaria de la ca",
@@ -5781,7 +5805,14 @@
       "identificador": "df2920133576efb8ca70",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision segunda o de relaciones internacionales comision ii orden del dia miercoles 24 de septiembre de 2025",
@@ -5792,7 +5823,16 @@
       "identificador": "c1a72b71eb95f0fc57ef",
       "fecha_documento_normalizada": "2025-09-24",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/sites/default/files/2025-09/COMISION%20II%20ORDEN%20DEL%20DIA%20MARTES%2024%20DE%20SEPTIEMBRE%20DE%20%202025.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/09/COMISION-II-ORDEN-DEL-DIA-MARTES-24-DE-SEPTIEMBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia plenaria 24 09 2025",
@@ -7266,7 +7306,15 @@
       "identificador": "c2a3a8418258c6f81608",
       "fecha_documento_normalizada": "2025-10-14",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2025/10/ORDEN-DEL-DIA-MARTES-14-DE-OCTUBRE-DE-2025.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Comision tercera o de hacienda y credito publico agenda comision tercera semana comprendida entre el 13 de octubre al 17 de octubre de 2025",
@@ -7307,7 +7355,14 @@
       "identificador": "d3ffc83194e61a9612ce",
       "fecha_documento_normalizada": "2025-10-01",
       "primera_deteccion": "2026-11-25T20:34:18+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T06:53:57+00:00",
+      "documentos_adjuntos": [
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Agenda comision tercera semana comprendida entre el 20 de octubre de 2025 al 24 de octubre de 2025",
