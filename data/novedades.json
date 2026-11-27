@@ -1,8 +1,27 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-27T16:31:43+00:00",
-  "nuevos_en_esta_consulta": 4,
+  "ultima_consulta": "2026-11-27T17:33:00+00:00",
+  "nuevos_en_esta_consulta": 1,
   "novedades": [
+    {
+      "titulo": "Orden del dia plenaria 15 09 2026",
+      "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-15-09-2026/",
+      "fuente": "Cámara · Eventos y órdenes del día",
+      "fuente_id": "camara-eventos",
+      "clase": "orden_del_dia",
+      "identificador": "a3c80c897885ead75f57",
+      "fecha_documento_normalizada": "2026-09-15",
+      "primera_deteccion": "2026-11-27T17:33:00+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.camara.gov.co/wp-content/uploads/2026/09/Plenaria-Orden-del-Dia-Debate-Mocion-de-Censura-Minvivienda2026-09-15-1-VF.pdf",
+        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
+        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
+    },
     {
       "titulo": "Orden del dia noviembre 11 de 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-noviembre-11-de-2026/",
@@ -2017,7 +2036,13 @@
       "identificador": "8c9a7391a479a4d8f65c",
       "fecha_documento_normalizada": "2024-08-13",
       "primera_deteccion": "2026-11-26T03:04:09+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-cuarta/8233-orden-del-dia-13-de-agosto-de-2024/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia 24 de julio de 2024 4",
@@ -5551,7 +5576,13 @@
       "identificador": "a44602b90adfbad88fe0",
       "fecha_documento_normalizada": "2024-10-01",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8412-14-orden-del-dia-martes-01-de-octubre-de-2024-or-pl-y-aprob-actas-8-9-10-acta-13/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "11 orden del dia miercoles 18 de septiembre de 2024 cp cnsc acta 10 2",
@@ -5562,7 +5593,13 @@
       "identificador": "6a5541b8c71f9e82fd41",
       "fecha_documento_normalizada": "2024-09-18",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8409-11-orden-del-dia-miercoles-18-de-septiembre-de-2024-cp-cnsc-acta-10-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "12 orden del dia martes 24 de septiembre de 2024 or pl y aprob acta 7 acta 11 3",
@@ -5573,7 +5610,13 @@
       "identificador": "5e0f2a0f90d4bcc99e97",
       "fecha_documento_normalizada": "2024-09-24",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8410-12-orden-del-dia-martes-24-de-septiembre-de-2024-or-pl-y-aprob-acta-7-acta-11-3/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "10 orden del dia miercoles 11 de septiembre de 2024 aprob in presupuesto 3 acta 09 2",
@@ -5584,7 +5627,13 @@
       "identificador": "6f6680b756906838b956",
       "fecha_documento_normalizada": "2024-09-11",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8408-10-orden-del-dia-miercoles-11-de-septiembre-de-2024-aprob-in-presupuesto-3-acta-09-2/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "08 orden del dia viernes 06 de septiembre de 2024 presupuesto 3 acta 08",
@@ -5595,7 +5644,13 @@
       "identificador": "971c01c6d59a6edfcc72",
       "fecha_documento_normalizada": "2024-09-06",
       "primera_deteccion": "2026-11-25T21:38:47+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-27T17:33:00+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2024-13/8406-08-orden-del-dia-viernes-06-de-septiembre-de-2024-presupuesto-3-acta-08/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "09 orden del dia miercoles 31 de agosto de 2022 9 de la manana presupuesto acta 09 f",
@@ -11705,25 +11760,6 @@
       "revisado_para_anexos": "2026-11-18T16:04:12+00:00",
       "documentos_adjuntos": [
         "https://www.camara.gov.co/wp-content/uploads/2026/10/COMISION-II-ORDEN-DEL-DIA-MARTES-20-DE-OCTUBRE-2026.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "Orden del dia septiembre 15 de 2026",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-septiembre-15-de-2026/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "cf716e41d0d053ccb289",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-18T16:04:12+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-19T16:06:54+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/09/Septiembre-15-de-2026-Orden-del-dia.pdf",
         "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
         "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
       ],
