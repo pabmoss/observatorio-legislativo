@@ -1,7 +1,7 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-27T23:39:48+00:00",
-  "nuevos_en_esta_consulta": 3,
+  "ultima_consulta": "2026-11-28T00:40:55+00:00",
+  "nuevos_en_esta_consulta": 0,
   "novedades": [
     {
       "titulo": "Orden del dia plenaria 11 11 2026",
@@ -1472,7 +1472,13 @@
       "identificador": "1cb59eb4819d666653f0",
       "fecha_documento_normalizada": "2023-09-18",
       "primera_deteccion": "2026-11-26T05:29:39+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-primera/orden-del-dia-1/7509-orden-del-dia-audiencia-publica-18-de-septiembre-de-2023-2-00-pm/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia audiencia publica 20 de septiembre de 2023 9 00 am",
@@ -2763,7 +2769,8 @@
       "identificador": "f1ee38a503648e221fcf",
       "fecha_documento_normalizada": "2023-07-20",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00"
     },
     {
       "titulo": "Ordenes del día Legislatura 20 Julio 2024 - 20 Julio 2025",
@@ -2993,7 +3000,13 @@
       "identificador": "0df1ac7382c2f02e6ff6",
       "fecha_documento_normalizada": "2023-06-14",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7242-orden-del-dia-sesion-14-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 13 de junio de 2023",
@@ -3004,7 +3017,13 @@
       "identificador": "fb41510b8ad1d6506c3f",
       "fecha_documento_normalizada": "2023-06-13",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7240-orden-del-dia-sesion-13-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 7 de junio de 2023",
@@ -5228,7 +5247,13 @@
       "identificador": "8d61e881538c938b497b",
       "fecha_documento_normalizada": "2023-07-25",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7316-01-orden-del-di-a-martes-25-de-julio-de-2023-eleccio-n-mesa-directiva/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "50 orden del di a martes 20 de junio de 2023 proyectos acta 50",
@@ -5239,7 +5264,13 @@
       "identificador": "53f63d58ee7431eaaa73",
       "fecha_documento_normalizada": "2023-06-20",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7246-50-orden-del-di-a-martes-20-de-junio-de-2023-proyectos-acta-50/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a martes 13 de junio de 2023 proyectos",
@@ -5250,7 +5281,13 @@
       "identificador": "dc48f9c5d429d66fe7c0",
       "fecha_documento_normalizada": "2023-06-13",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T00:40:55+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7237-orden-del-di-a-martes-13-de-junio-de-2023-proyectos/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del di a",
