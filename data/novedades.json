@@ -1,8 +1,47 @@
 {
   "metodologia": "Índices oficiales; primera detección no equivale a fecha de publicación ni aprobación",
-  "ultima_consulta": "2026-11-28T00:40:55+00:00",
-  "nuevos_en_esta_consulta": 0,
+  "ultima_consulta": "2026-11-28T08:30:31+00:00",
+  "nuevos_en_esta_consulta": 3,
   "novedades": [
+    {
+      "titulo": "Gaceta 1955 · Cámara de Representantes · 27/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "2bf7d92480de8ffad000",
+      "fecha_documento": "27/11/2026",
+      "fecha_documento_normalizada": "2026-11-27",
+      "primera_deteccion": "2026-11-28T08:30:31+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00"
+    },
+    {
+      "titulo": "Gaceta 1954 · Cámara de Representantes · 27/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "333cdbb8132fc5c8295e",
+      "fecha_documento": "27/11/2026",
+      "fecha_documento_normalizada": "2026-11-27",
+      "primera_deteccion": "2026-11-28T08:30:31+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00"
+    },
+    {
+      "titulo": "Gaceta 1953 · Cámara de Representantes · 27/11/2026",
+      "url": "https://svrpubindc.imprenta.gov.co/senado/view/gestion/gacetasPublicas.xhtml",
+      "fuente": "Imprenta Nacional · Gacetas del Congreso",
+      "fuente_id": "gacetas",
+      "clase": "gaceta",
+      "identificador": "d517cc62cfeafe599976",
+      "fecha_documento": "27/11/2026",
+      "fecha_documento_normalizada": "2026-11-27",
+      "primera_deteccion": "2026-11-28T08:30:31+00:00",
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00"
+    },
     {
       "titulo": "Orden del dia plenaria 11 11 2026",
       "url": "https://www.camara.gov.co/evento/orden-del-dia-plenaria-11-11-2026/",
@@ -3034,7 +3073,13 @@
       "identificador": "7cd996afdea3006eedd3",
       "fecha_documento_normalizada": "2023-06-07",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7223-orden-del-dia-sesion-7-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 6 de junio de 2023",
@@ -3045,7 +3090,13 @@
       "identificador": "0f5088eb5e8464a1a732",
       "fecha_documento_normalizada": "2023-06-06",
       "primera_deteccion": "2026-11-26T02:06:28+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-sexta/2022-2026-1/orden-del-dia-15/primera-legislatura/7214-orden-del-dia-sesion-6-de-junio-de-2023/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "Orden del dia sesion 31 de mayo de 2023",
@@ -5309,7 +5360,13 @@
       "identificador": "4cd360bb58e228e5ff3b",
       "fecha_documento_normalizada": "2023-06-07",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7224-46-orden-del-di-a-mie-rcoles-7-de-junio-de-2023-proyectos-acta-46/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "45 orden del di a martes 6 de junio de 2023 proyectos acta 45",
@@ -5320,7 +5377,13 @@
       "identificador": "938efc9e217581d9f945",
       "fecha_documento_normalizada": "2023-06-06",
       "primera_deteccion": "2026-11-25T22:41:46+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados"
+      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
+      "revisado_para_anexos": "2026-11-28T08:30:31+00:00",
+      "documentos_adjuntos": [
+        "https://www.senado.gov.co/index.php/documentos/comisiones/constitucionales/comision-septima/orden-del-dia-2/2023-18/7221-45-orden-del-di-a-martes-6-de-junio-de-2023-proyectos-acta-45/file"
+      ],
+      "referencias_proyectos": [],
+      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     },
     {
       "titulo": "44 orden del di a martes 30 de mayo de 2023 proyectos acta 44",
@@ -11944,62 +12007,6 @@
       "primera_deteccion": "2026-11-18T17:12:18+00:00",
       "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
       "revisado_para_anexos": "2026-11-18T17:12:18+00:00"
-    },
-    {
-      "titulo": "Orden del dia miercoles 21 de octubre",
-      "url": "https://www.camara.gov.co/evento/orden-del-dia-miercoles-21-de-octubre/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "e1050ca80667fd0504e5",
-      "fecha_documento_normalizada": null,
-      "primera_deteccion": "2026-11-18T16:04:12+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-19T16:06:54+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/ORDEN-DEL-DIA-OCTUBRE-21-DE-2026.1-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C3 orden del dia sesion ordinaria 21 de octubre de 2026 debate de control politico",
-      "url": "https://www.camara.gov.co/evento/c3-orden-del-dia-sesion-ordinaria-21-de-octubre-de-2026-debate-de-control-politico/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "ab45203a112312cf3e33",
-      "fecha_documento_normalizada": "2026-10-21",
-      "primera_deteccion": "2026-11-18T16:04:12+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-18T16:04:12+00:00",
-      "documentos_adjuntos": [
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
-    },
-    {
-      "titulo": "C4 orden del dia para la sesion de las comisiones economicas conjunta del miercoles 21 de octubre de 2026 lugar recinto salon eliptico del capitolio nacional hora 1100 a m",
-      "url": "https://www.camara.gov.co/evento/c4-orden-del-dia-para-la-sesion-de-las-comisiones-economicas-conjunta-del-miercoles-21-de-octubre-de-2026-lugar-recinto-salon-eliptico-del-capitolio-nacional-hora-1100-a-m/",
-      "fuente": "Cámara · Eventos y órdenes del día",
-      "fuente_id": "camara-eventos",
-      "clase": "orden_del_dia",
-      "identificador": "74696e2e35983e02bafe",
-      "fecha_documento_normalizada": "2026-10-21",
-      "primera_deteccion": "2026-11-18T16:04:12+00:00",
-      "estado_verificacion": "Enlace detectado; contenido y efectos jurídicos no verificados",
-      "revisado_para_anexos": "2026-11-18T16:04:12+00:00",
-      "documentos_adjuntos": [
-        "https://www.camara.gov.co/wp-content/uploads/2026/10/CANCELACION-Citacion-â-Sesion-Comisiones-Economicas-1.pdf",
-        "https://intranet.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso.pdf",
-        "https://www.camara.gov.co/wp-content/uploads/2025/07/Politicas-de-Privacidad-y-Condiciones-de-Uso-1.pdf"
-      ],
-      "referencias_proyectos": [],
-      "leyenda_extraccion": "Referencias textuales automáticas; no acreditan trámite, aprobación ni lectura completa"
     }
   ]
 }
